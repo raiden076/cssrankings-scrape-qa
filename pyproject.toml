@@ -10,6 +10,7 @@ python = "^3.11"
 Scrapy = "^2.9.0"
 pandas = "^2.0.3"
 openai = "^0.27.8"
+yagooglesearch = "^1.7.0"
 
 [tool.poetry.group.dev.dependencies]
 ipykernel = "^6.24.0"
