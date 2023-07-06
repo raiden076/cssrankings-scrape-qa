@@ -1,5 +1,7 @@
 import yagooglesearch
 from datetime import datetime
+import json
+
 
 # Scrape csrankings.org for all the university names (there are 174 in US). May use bs4 or selenium or scrapy.
 # Make a list 👇 Here
@@ -9,10 +11,12 @@ uni_names = []
 #   here   👇
 uni_deps = []
 
+# all_urls = [] # for later
+
 
 def app(i_tbs: str) -> None:
-    query = "filetype:pdf Carnegie Mellon University CS Computer Science"
-    #         add 2 loop here {    👆 over uni names   }{ 👆 over dept names}
+    query = "filetype:pdf Univ. of Illinois at Urbana-Champaign CS Computer Science"
+    #         add 2 loop here {    👆 over uni names   }{    👆 over dept names}
     client = yagooglesearch.SearchClient(
         query,
         tbs=i_tbs,
@@ -28,9 +32,9 @@ def app(i_tbs: str) -> None:
     urls = client.search()
 
     len(urls)
-
-    for url in urls:
-        print(url)
+    # add the urls to the all_urls list
+    with open("urls.txt", "w", encoding="utf-8") as f:
+        json.dump(urls, f, ensure_ascii=False, indent=4)
 
 
 # Change the print. Return a json dumps. Or just directly write to a json (NOT CSV, we still have work left)

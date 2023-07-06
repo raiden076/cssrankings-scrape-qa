@@ -1863,3 +1863,1073 @@
 2023-07-06 15:36:36,456 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /setprefs?hl=en&prev=https://www.google.com/search?hl%3Den%26q%3Dfiletype:pdf%2BCarnegie%2BMellon%2BUniversity%2BCS%2BComputer%2BScience%26start%3D300%26num%3D100%26tbs%3Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%26safe%3Doff%26cr%26filter%3D0%26pccc%3D1&sig=0_040hjnkUAWF8ILMBGfMBFHzERH8%3D&cs=2&sa=X&ved=0ahUKEwiC2OD4_Pn_AhX4p5UCHXaUBIY4rAIQjcAJCBo
 2023-07-06 15:36:36,456 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
 2023-07-06 15:36:36,456 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
+2023-07-06 17:43:48,747 [MainThread  ] [INFO] Requesting URL: https://www.google.com/
+2023-07-06 17:43:49,582 [MainThread  ] [DEBUG]     status_code: 200
+2023-07-06 17:43:49,582 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/7.0.521.0 Safari/534.8'}
+2023-07-06 17:43:49,583 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2023-07-06-14 for .google.com/>, <Cookie AEC=Ad49MVGe-N0qJ7tO2MLOq4AhjxiKT_rgkbmWvVzL4bla2peb3090mbZpsg for .google.com/>, <Cookie NID=511=njgroP6WSDjzvz7Vq5fu_PYtM6UmVG9a36bU5fluDu4EhA2qiBm5UVUOv4UAMg2HItYgWtsinFRgF5iu_fpL5SJuEJTk62wsJD18yrG6AzI9fGHLpshS9fmvuuVQQaS_c8jPyPNjbj_9eAx0BWhk2qYEnH0sZFXtmbaEvwj-R0g for .google.com/>]>
+2023-07-06 17:43:49,583 [MainThread  ] [DEBUG]     proxy: 
+2023-07-06 17:43:49,583 [MainThread  ] [DEBUG]     verify_ssl: True
+2023-07-06 17:43:49,586 [MainThread  ] [INFO] Stats: start=0, num=100, total_valid_links_found=0 / max_search_result_urls_to_return=1000
+2023-07-06 17:43:49,587 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=filetype%3Apdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&btnG=Google+Search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&safe=off&cr=&filter=0
+2023-07-06 17:43:51,158 [MainThread  ] [DEBUG]     status_code: 200
+2023-07-06 17:43:51,158 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/7.0.521.0 Safari/534.8'}
+2023-07-06 17:43:51,158 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2023-07-06-14 for .google.com/>, <Cookie NID=511=DP_qdGHax0-sejfik-Ce_cFEoMCUmiC2yhgfm7Qq7EAHUq46uEc4yq9710m-RCoyKkaySG0XSXc4yCFiIMM1b_WNrnJ1IGwsPzdQjT6wTu0oMY8nik9et4Y5Z8jP7b1Oz04IWBKbgchkw8bqDokBHgP3jbsQH6eAyId6FT5uG7Y for .google.com/>]>
+2023-07-06 17:43:51,159 [MainThread  ] [DEBUG]     proxy: 
+2023-07-06 17:43:51,159 [MainThread  ] [DEBUG]     verify_ssl: True
+2023-07-06 17:43:51,258 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?num=100&safe=off&sa=G&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQPAgC
+2023-07-06 17:43:51,258 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?num=100&safe=off&sa=G&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQPAgC
+2023-07-06 17:43:51,259 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,260 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBSgB
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBSgB
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBigC
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBigC
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,261 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBygD
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQ_AUIBygD
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQvwV6BAhkEAE
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQvwV6BAhkEAE
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,262 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&nfpr=1&sa=X&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQvgV6BAhkEAI
+2023-07-06 17:43:51,263 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&nfpr=1&sa=X&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQvgV6BAhkEAI
+2023-07-06 17:43:51,263 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,263 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21104_FINAL_20210426.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAMQAg&usg=AOvVaw0UIGxLrnO4Id1LM1FbkdRt
+2023-07-06 17:43:51,263 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21104_FINAL_20210426.pdf
+2023-07-06 17:43:51,264 [MainThread  ] [INFO] Found unique URL #1: https://www.senate.illinois.edu/20210426senate/EP21104_FINAL_20210426.pdf
+2023-07-06 17:43:51,264 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20211206senate/EP22051_FINAL_20211206.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECGMQAg&usg=AOvVaw3HEwzbZ6YEi3bppZOWuiKU
+2023-07-06 17:43:51,264 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20211206senate/EP22051_FINAL_20211206.pdf
+2023-07-06 17:43:51,264 [MainThread  ] [INFO] Found unique URL #2: https://www.senate.illinois.edu/20211206senate/EP22051_FINAL_20211206.pdf
+2023-07-06 17:43:51,265 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20220919senate/EP23004_FINAL_20220919.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECGIQAg&usg=AOvVaw2NIiob2X_jpKqOrXm7zn6m
+2023-07-06 17:43:51,265 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20220919senate/EP23004_FINAL_20220919.pdf
+2023-07-06 17:43:51,266 [MainThread  ] [INFO] Found unique URL #3: https://www.senate.illinois.edu/20220919senate/EP23004_FINAL_20220919.pdf
+2023-07-06 17:43:51,266 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20220919senate/EP23003_FINAL_20220919.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECGEQAg&usg=AOvVaw1yNjLQXB_saAyPIAGmx_SY
+2023-07-06 17:43:51,266 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20220919senate/EP23003_FINAL_20220919.pdf
+2023-07-06 17:43:51,266 [MainThread  ] [INFO] Found unique URL #4: https://www.senate.illinois.edu/20220919senate/EP23003_FINAL_20220919.pdf
+2023-07-06 17:43:51,266 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://go.illinois.edu/csed-landscape-report&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECGAQAg&usg=AOvVaw1kbjpOLUj6OIuFY-2v9kVj
+2023-07-06 17:43:51,266 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://go.illinois.edu/csed-landscape-report
+2023-07-06 17:43:51,266 [MainThread  ] [INFO] Found unique URL #5: https://go.illinois.edu/csed-landscape-report
+2023-07-06 17:43:51,266 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D3528&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECF0QAg&usg=AOvVaw3L60YoiFJFHOv3EGZO-r_X
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3528
+2023-07-06 17:43:51,267 [MainThread  ] [INFO] Found unique URL #6: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3528
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://rutamehta.cs.illinois.edu/CV-Mehta.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECF4QAg&usg=AOvVaw3FxYMrDmRG99THoMKbnLag
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://rutamehta.cs.illinois.edu/CV-Mehta.pdf
+2023-07-06 17:43:51,267 [MainThread  ] [INFO] Found unique URL #7: http://rutamehta.cs.illinois.edu/CV-Mehta.pdf
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://plans.bpcnet.org/UniversityOfIllinois-UrbanaChampaign_ComputerScience_DepartmentalBPCPlan.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECF8QAg&usg=AOvVaw38VV8NWF4EF_WVnmn0CjWh
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://plans.bpcnet.org/UniversityOfIllinois-UrbanaChampaign_ComputerScience_DepartmentalBPCPlan.pdf
+2023-07-06 17:43:51,267 [MainThread  ] [INFO] Found unique URL #8: https://plans.bpcnet.org/UniversityOfIllinois-UrbanaChampaign_ComputerScience_DepartmentalBPCPlan.pdf
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://waf.cs.illinois.edu/static/fagen-ulmschneider-cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFwQAg&usg=AOvVaw25fevspNZ-1GOjru_Ypa48
+2023-07-06 17:43:51,267 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://waf.cs.illinois.edu/static/fagen-ulmschneider-cv.pdf
+2023-07-06 17:43:51,267 [MainThread  ] [INFO] Found unique URL #9: https://waf.cs.illinois.edu/static/fagen-ulmschneider-cv.pdf
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://indy.cs.illinois.edu/CV.IndranilGupta.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFoQAg&usg=AOvVaw3FS-eT9JGTI2jJiDt0Me_p
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://indy.cs.illinois.edu/CV.IndranilGupta.pdf
+2023-07-06 17:43:51,268 [MainThread  ] [INFO] Found unique URL #10: http://indy.cs.illinois.edu/CV.IndranilGupta.pdf
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D3117&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFsQAg&usg=AOvVaw1OtZ2i-Oduo_OVp5wRzAYJ
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3117
+2023-07-06 17:43:51,268 [MainThread  ] [INFO] Found unique URL #11: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3117
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D3955&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFkQAg&usg=AOvVaw1aQyetOTZbykLfhY3SoNyo
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3955
+2023-07-06 17:43:51,268 [MainThread  ] [INFO] Found unique URL #12: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=3955
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/directory/getfile.asp%3Fid%3D954&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFgQAg&usg=AOvVaw21WYv6Sh2PA4oWCoCM73Uu
+2023-07-06 17:43:51,268 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/directory/getfile.asp?id=954
+2023-07-06 17:43:51,269 [MainThread  ] [INFO] Found unique URL #13: https://ws.engr.illinois.edu/directory/getfile.asp?id=954
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://courses.engr.illinois.edu/cs473/fa2021/lec/book.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFcQAg&usg=AOvVaw1eC8w6ZNMQAuroKdVh9uK_
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://courses.engr.illinois.edu/cs473/fa2021/lec/book.pdf
+2023-07-06 17:43:51,269 [MainThread  ] [INFO] Found unique URL #14: https://courses.engr.illinois.edu/cs473/fa2021/lec/book.pdf
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://courses.engr.illinois.edu/cs225/sp2023/assets/honors/syllabus.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFYQAg&usg=AOvVaw0rps1OhiXeN6J5nK9Z5_qZ
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://courses.engr.illinois.edu/cs225/sp2023/assets/honors/syllabus.pdf
+2023-07-06 17:43:51,269 [MainThread  ] [INFO] Found unique URL #15: https://courses.engr.illinois.edu/cs225/sp2023/assets/honors/syllabus.pdf
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://iludden2.web.engr.illinois.edu/files/ian_ludden_cv_2022-04-14.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFUQAg&usg=AOvVaw0NyWse4pcwZCmEmzel6CQN
+2023-07-06 17:43:51,269 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://iludden2.web.engr.illinois.edu/files/ian_ludden_cv_2022-04-14.pdf
+2023-07-06 17:43:51,269 [MainThread  ] [INFO] Found unique URL #16: https://iludden2.web.engr.illinois.edu/files/ian_ludden_cv_2022-04-14.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://csed.acm.org/wp-content/uploads/2023/03/CSX-First-Draft.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFQQAg&usg=AOvVaw1rUlWWPez2VcBEFKRdXKyn
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://csed.acm.org/wp-content/uploads/2023/03/CSX-First-Draft.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [INFO] Found unique URL #17: https://csed.acm.org/wp-content/uploads/2023/03/CSX-First-Draft.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://solomonik.cs.illinois.edu/cv/Solomonik_CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFMQAg&usg=AOvVaw10FXxNKmIj_VEZVFdDIEsn
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://solomonik.cs.illinois.edu/cv/Solomonik_CV.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [INFO] Found unique URL #18: https://solomonik.cs.illinois.edu/cv/Solomonik_CV.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_eng.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFIQAg&usg=AOvVaw34Dl6-EzJFpi111uY_PzmI
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_eng.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [INFO] Found unique URL #19: https://www.admissions.illinois.edu/content/docs/handbook_eng.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://mfleck.cs.illinois.edu/vita-feb22.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFAQAg&usg=AOvVaw0RbcKDneYCxI1lSG2IPUUF
+2023-07-06 17:43:51,270 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://mfleck.cs.illinois.edu/vita-feb22.pdf
+2023-07-06 17:43:51,270 [MainThread  ] [INFO] Found unique URL #20: https://mfleck.cs.illinois.edu/vita-feb22.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://jiank2.web.illinois.edu/files/CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECE8QAg&usg=AOvVaw0dgX-sjWb8SrnkvMKobu7h
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://jiank2.web.illinois.edu/files/CV.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [INFO] Found unique URL #21: http://jiank2.web.illinois.edu/files/CV.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_las.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECFEQAg&usg=AOvVaw1oLGixFBsdpLKT0nAlW_36
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_las.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [INFO] Found unique URL #22: https://www.admissions.illinois.edu/content/docs/handbook_las.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_edu.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECE4QAg&usg=AOvVaw1vfmZtTmIO64B6fRGFvtQL
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_edu.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [INFO] Found unique URL #23: https://www.admissions.illinois.edu/content/docs/handbook_edu.pdf
+2023-07-06 17:43:51,271 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_sis.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECE0QAg&usg=AOvVaw03I6-yYc76WSFLFwj_epd1
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_sis.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [INFO] Found unique URL #24: https://www.admissions.illinois.edu/content/docs/handbook_sis.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_faa.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEwQAg&usg=AOvVaw3dOwszdqR_fqlQ0MjLWIA0
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_faa.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [INFO] Found unique URL #25: https://www.admissions.illinois.edu/content/docs/handbook_faa.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://lingming.cs.illinois.edu/files/lingming_CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEsQAg&usg=AOvVaw3SNq3mlGFBIlbpDxd7oXDN
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://lingming.cs.illinois.edu/files/lingming_CV.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [INFO] Found unique URL #26: https://lingming.cs.illinois.edu/files/lingming_CV.pdf
+2023-07-06 17:43:51,272 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://croy.web.engr.illinois.edu/pdfs/2020_09_CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEkQAg&usg=AOvVaw0RfVWdwtEegaJQXguZZLYQ
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://croy.web.engr.illinois.edu/pdfs/2020_09_CV.pdf
+2023-07-06 17:43:51,273 [MainThread  ] [INFO] Found unique URL #27: https://croy.web.engr.illinois.edu/pdfs/2020_09_CV.pdf
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2301.03140&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEoQAg&usg=AOvVaw1h4uOf3ZKE4WmiYEgIdIRB
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2301.03140
+2023-07-06 17:43:51,273 [MainThread  ] [INFO] Found unique URL #28: https://arxiv.org/pdf/2301.03140
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://dept.clcillinois.edu/trn/uiuc_engineering.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEgQAg&usg=AOvVaw0W2RVYDR1KC93bfuMCvmNc
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://dept.clcillinois.edu/trn/uiuc_engineering.pdf
+2023-07-06 17:43:51,273 [MainThread  ] [INFO] Found unique URL #29: http://dept.clcillinois.edu/trn/uiuc_engineering.pdf
+2023-07-06 17:43:51,273 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.umd.edu/~nirupam/images/2_publication/NirupamRoy_CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEcQAg&usg=AOvVaw2V9TVS8pG6iq8AcK5zidJw
+2023-07-06 17:43:51,274 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.umd.edu/~nirupam/images/2_publication/NirupamRoy_CV.pdf
+2023-07-06 17:43:51,274 [MainThread  ] [INFO] Found unique URL #30: https://www.cs.umd.edu/~nirupam/images/2_publication/NirupamRoy_CV.pdf
+2023-07-06 17:43:51,274 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://sachin.cs.illinois.edu/assets/cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEYQAg&usg=AOvVaw3hDWKk5AoN-fByj3MnHjSM
+2023-07-06 17:43:51,274 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://sachin.cs.illinois.edu/assets/cv.pdf
+2023-07-06 17:43:51,274 [MainThread  ] [INFO] Found unique URL #31: https://sachin.cs.illinois.edu/assets/cv.pdf
+2023-07-06 17:43:51,274 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D5411&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEQQAg&usg=AOvVaw1k-HlnBQVvtzWLenBVc-KI
+2023-07-06 17:43:51,274 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=5411
+2023-07-06 17:43:51,274 [MainThread  ] [INFO] Found unique URL #32: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=5411
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://go.illinois.edu/urwprogram&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEUQAg&usg=AOvVaw0_ZUoxN1oNFGBL15zjLbU_
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://go.illinois.edu/urwprogram
+2023-07-06 17:43:51,275 [MainThread  ] [INFO] Found unique URL #33: https://go.illinois.edu/urwprogram
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://paris.cs.illinois.edu/smaragdis-cv-v.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEAQAg&usg=AOvVaw2zfJdb-F2VN1BxUnKZ7EFJ
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://paris.cs.illinois.edu/smaragdis-cv-v.pdf
+2023-07-06 17:43:51,275 [MainThread  ] [INFO] Found unique URL #34: https://paris.cs.illinois.edu/smaragdis-cv-v.pdf
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://sundaram.cs.illinois.edu/pubs/2020/2020li_conversation.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEEQAg&usg=AOvVaw21cnkNJ8h7hu5hVnl6lkq7
+2023-07-06 17:43:51,275 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://sundaram.cs.illinois.edu/pubs/2020/2020li_conversation.pdf
+2023-07-06 17:43:51,275 [MainThread  ] [INFO] Found unique URL #35: http://sundaram.cs.illinois.edu/pubs/2020/2020li_conversation.pdf
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://research.google/static/documents/outreach/featured-research-collaborations/cser/cser-awardees.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEIQAg&usg=AOvVaw16jlCNbMA3Ur4nkvMj9l89
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://research.google/static/documents/outreach/featured-research-collaborations/cser/cser-awardees.pdf
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://yangwang.ischool.illinois.edu/cv.html&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECEMQAg&usg=AOvVaw2dCTWDmp8Rwoe2yQt4Xly0
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://yangwang.ischool.illinois.edu/cv.html
+2023-07-06 17:43:51,276 [MainThread  ] [INFO] Found unique URL #36: https://yangwang.ischool.illinois.edu/cv.html
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.admissions.illinois.edu/content/docs/handbook_bus.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECD8QAg&usg=AOvVaw1PCfPD0FKW4Yq4V5p7RApQ
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.admissions.illinois.edu/content/docs/handbook_bus.pdf
+2023-07-06 17:43:51,276 [MainThread  ] [INFO] Found unique URL #37: https://www.admissions.illinois.edu/content/docs/handbook_bus.pdf
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://yuanz.web.illinois.edu/Yuan%2520Zhou.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECD4QAg&usg=AOvVaw2nWPjbGAwBRKOWP9fGivIU
+2023-07-06 17:43:51,276 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://yuanz.web.illinois.edu/Yuan%20Zhou.pdf
+2023-07-06 17:43:51,277 [MainThread  ] [INFO] Found unique URL #38: https://yuanz.web.illinois.edu/Yuan%20Zhou.pdf
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ekmolloy.github.io/downloads/molloy-vitae.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDsQAg&usg=AOvVaw0pwZHunOtzhU2vc0oNcAaM
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ekmolloy.github.io/downloads/molloy-vitae.pdf
+2023-07-06 17:43:51,277 [MainThread  ] [INFO] Found unique URL #39: https://ekmolloy.github.io/downloads/molloy-vitae.pdf
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D510&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDwQAg&usg=AOvVaw34W9bvOryxaDEZmTeptyGa
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=510
+2023-07-06 17:43:51,277 [MainThread  ] [INFO] Found unique URL #40: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=510
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.natalieparde.com/files/cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECD0QAg&usg=AOvVaw195XPqY5LF3zEuoyGpGewo
+2023-07-06 17:43:51,277 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.natalieparde.com/files/cv.pdf
+2023-07-06 17:43:51,277 [MainThread  ] [INFO] Found unique URL #41: https://www.natalieparde.com/files/cv.pdf
+2023-07-06 17:43:51,278 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://www.paul-bruno.com/wp-content/uploads/2021/12/tradeoffs_eaq_accepteduncorrected.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDkQAg&usg=AOvVaw15yVNrfFxJFg_LqlfGjOxm
+2023-07-06 17:43:51,278 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://www.paul-bruno.com/wp-content/uploads/2021/12/tradeoffs_eaq_accepteduncorrected.pdf
+2023-07-06 17:43:51,278 [MainThread  ] [INFO] Found unique URL #42: http://www.paul-bruno.com/wp-content/uploads/2021/12/tradeoffs_eaq_accepteduncorrected.pdf
+2023-07-06 17:43:51,278 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://media.illinois.edu/sites/default/files/inline-files/CollegeOfMedia-UIUC-Viewbook-2022.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDoQAg&usg=AOvVaw1eNYXhc2uk0BR_weldUV0_
+2023-07-06 17:43:51,278 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://media.illinois.edu/sites/default/files/inline-files/CollegeOfMedia-UIUC-Viewbook-2022.pdf
+2023-07-06 17:43:51,279 [MainThread  ] [INFO] Found unique URL #43: https://media.illinois.edu/sites/default/files/inline-files/CollegeOfMedia-UIUC-Viewbook-2022.pdf
+2023-07-06 17:43:51,279 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://lingming.cs.illinois.edu/publications/fse2021.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDgQAg&usg=AOvVaw1NlsSDWyoyGV_CU3akO9ET
+2023-07-06 17:43:51,280 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://lingming.cs.illinois.edu/publications/fse2021.pdf
+2023-07-06 17:43:51,280 [MainThread  ] [INFO] Found unique URL #44: https://lingming.cs.illinois.edu/publications/fse2021.pdf
+2023-07-06 17:43:51,280 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ghose.web.illinois.edu/docs/cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDYQAg&usg=AOvVaw3vrxsPekNHihhWCS4nzkaN
+2023-07-06 17:43:51,280 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ghose.web.illinois.edu/docs/cv.pdf
+2023-07-06 17:43:51,281 [MainThread  ] [INFO] Found unique URL #45: https://ghose.web.illinois.edu/docs/cv.pdf
+2023-07-06 17:43:51,281 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ae3.engineering.illinois.edu/files/2022/09/UIUC-SIIP-projects-2022-23_FINAL-002.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDcQAg&usg=AOvVaw1rZ_eg05vNhIYtRjKCUJEb
+2023-07-06 17:43:51,281 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ae3.engineering.illinois.edu/files/2022/09/UIUC-SIIP-projects-2022-23_FINAL-002.pdf
+2023-07-06 17:43:51,281 [MainThread  ] [INFO] Found unique URL #46: https://ae3.engineering.illinois.edu/files/2022/09/UIUC-SIIP-projects-2022-23_FINAL-002.pdf
+2023-07-06 17:43:51,282 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://cdn1.cs128.org/common/CS199128-sp21-Syllabus.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDUQAg&usg=AOvVaw0va1lT4xSBAB-QgBBDzkqP
+2023-07-06 17:43:51,282 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://cdn1.cs128.org/common/CS199128-sp21-Syllabus.pdf
+2023-07-06 17:43:51,282 [MainThread  ] [INFO] Found unique URL #47: http://cdn1.cs128.org/common/CS199128-sp21-Syllabus.pdf
+2023-07-06 17:43:51,282 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://drshika.me/assets/css/files/asher_drshika_cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDMQAg&usg=AOvVaw1fiNJ8z69gtU0mBFI2qUod
+2023-07-06 17:43:51,283 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://drshika.me/assets/css/files/asher_drshika_cv.pdf
+2023-07-06 17:43:51,283 [MainThread  ] [INFO] Found unique URL #48: https://drshika.me/assets/css/files/asher_drshika_cv.pdf
+2023-07-06 17:43:51,283 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://jsl1994.github.io/resume/resume.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDQQAg&usg=AOvVaw3zH2DCs6OHcbOUfQOPEji4
+2023-07-06 17:43:51,283 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://jsl1994.github.io/resume/resume.pdf
+2023-07-06 17:43:51,284 [MainThread  ] [INFO] Found unique URL #49: https://jsl1994.github.io/resume/resume.pdf
+2023-07-06 17:43:51,284 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21130_FINAL_20210426.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDIQAg&usg=AOvVaw2MbteTEB-jcFIRwVRbKnty
+2023-07-06 17:43:51,284 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21130_FINAL_20210426.pdf
+2023-07-06 17:43:51,284 [MainThread  ] [INFO] Found unique URL #50: https://www.senate.illinois.edu/20210426senate/EP21130_FINAL_20210426.pdf
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dchen.ece.illinois.edu/DemingChen_CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDEQAg&usg=AOvVaw0ltkuftKDhXQIfGQEGTwZT
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dchen.ece.illinois.edu/DemingChen_CV.pdf
+2023-07-06 17:43:51,285 [MainThread  ] [INFO] Found unique URL #51: https://dchen.ece.illinois.edu/DemingChen_CV.pdf
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://faculty.nres.illinois.edu/~kaiyuguan/Guan_UIUC_recruiting_2022.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECC8QAg&usg=AOvVaw1xucRictVLlFEPukFWPQrq
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://faculty.nres.illinois.edu/~kaiyuguan/Guan_UIUC_recruiting_2022.pdf
+2023-07-06 17:43:51,285 [MainThread  ] [INFO] Found unique URL #52: http://faculty.nres.illinois.edu/~kaiyuguan/Guan_UIUC_recruiting_2022.pdf
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://jugal.ise.illinois.edu/cv-jugal.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECDAQAg&usg=AOvVaw153ROKkY1vPWtKgISB-TrV
+2023-07-06 17:43:51,285 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://jugal.ise.illinois.edu/cv-jugal.pdf
+2023-07-06 17:43:51,286 [MainThread  ] [INFO] Found unique URL #53: https://jugal.ise.illinois.edu/cv-jugal.pdf
+2023-07-06 17:43:51,286 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://yongjoopark.com/resources/Yongjoo_CV_2021_12.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECC4QAg&usg=AOvVaw2Cs4fTHNUrvyup5i08mVzE
+2023-07-06 17:43:51,286 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://yongjoopark.com/resources/Yongjoo_CV_2021_12.pdf
+2023-07-06 17:43:51,286 [MainThread  ] [INFO] Found unique URL #54: https://yongjoopark.com/resources/Yongjoo_CV_2021_12.pdf
+2023-07-06 17:43:51,286 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.cmu.edu/~zhengyal/cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECC0QAg&usg=AOvVaw0swpk821WxbVf5QFHKyFQO
+2023-07-06 17:43:51,286 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.cmu.edu/~zhengyal/cv.pdf
+2023-07-06 17:43:51,286 [MainThread  ] [INFO] Found unique URL #55: https://www.cs.cmu.edu/~zhengyal/cv.pdf
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://liminyang.web.illinois.edu/data/CV_LiminYang_UIUC.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCwQAg&usg=AOvVaw3u6O3g_YKAbXlL9XdVl0Vh
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://liminyang.web.illinois.edu/data/CV_LiminYang_UIUC.pdf
+2023-07-06 17:43:51,287 [MainThread  ] [INFO] Found unique URL #56: https://liminyang.web.illinois.edu/data/CV_LiminYang_UIUC.pdf
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cs.gmu.edu/~tlatoza/latoza-cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCoQAg&usg=AOvVaw3dmmcRanXa2F3SWS52fPOi
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cs.gmu.edu/~tlatoza/latoza-cv.pdf
+2023-07-06 17:43:51,287 [MainThread  ] [INFO] Found unique URL #57: https://cs.gmu.edu/~tlatoza/latoza-cv.pdf
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://pradyumnashome.com/documents/Pradyumna_Shome_Curriculum_Vitae.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCsQAg&usg=AOvVaw3TPGclzei-qa2abweelfsC
+2023-07-06 17:43:51,287 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://pradyumnashome.com/documents/Pradyumna_Shome_Curriculum_Vitae.pdf
+2023-07-06 17:43:51,288 [MainThread  ] [INFO] Found unique URL #58: https://pradyumnashome.com/documents/Pradyumna_Shome_Curriculum_Vitae.pdf
+2023-07-06 17:43:51,288 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://files.eric.ed.gov/fulltext/ED624798.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCkQAg&usg=AOvVaw0I0c3uYASIcjDIWnNapm5G
+2023-07-06 17:43:51,288 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://files.eric.ed.gov/fulltext/ED624798.pdf
+2023-07-06 17:43:51,288 [MainThread  ] [INFO] Found unique URL #59: https://files.eric.ed.gov/fulltext/ED624798.pdf
+2023-07-06 17:43:51,288 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://files.webservices.illinois.edu/8011/undergraduate-music-handbook-2022-23.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCgQAg&usg=AOvVaw3bEzLgDTPXtM62OgiCBHnQ
+2023-07-06 17:43:51,288 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://files.webservices.illinois.edu/8011/undergraduate-music-handbook-2022-23.pdf
+2023-07-06 17:43:51,288 [MainThread  ] [INFO] Found unique URL #60: https://files.webservices.illinois.edu/8011/undergraduate-music-handbook-2022-23.pdf
+2023-07-06 17:43:51,289 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.rit.edu/computing/sites/rit.edu.computing/files/docs/CS/Annual%2520Report%25202021.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCcQAg&usg=AOvVaw2CI3Vo_CHh_uI7Yc4x2sSl
+2023-07-06 17:43:51,289 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.rit.edu/computing/sites/rit.edu.computing/files/docs/CS/Annual%20Report%202021.pdf
+2023-07-06 17:43:51,289 [MainThread  ] [INFO] Found unique URL #61: https://www.rit.edu/computing/sites/rit.edu.computing/files/docs/CS/Annual%20Report%202021.pdf
+2023-07-06 17:43:51,289 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://s3.amazonaws.com/kvaccaro.com/KristenVaccaroCV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCYQAg&usg=AOvVaw1KsTbAcDgynNlv9Y4NkEl6
+2023-07-06 17:43:51,290 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://s3.amazonaws.com/kvaccaro.com/KristenVaccaroCV.pdf
+2023-07-06 17:43:51,290 [MainThread  ] [INFO] Found unique URL #62: https://s3.amazonaws.com/kvaccaro.com/KristenVaccaroCV.pdf
+2023-07-06 17:43:51,290 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/computer-science.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCUQAg&usg=AOvVaw03q-M9qOBqo6vx5peMKoGP
+2023-07-06 17:43:51,290 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/computer-science.pdf
+2023-07-06 17:43:51,290 [MainThread  ] [INFO] Found unique URL #63: https://catalog.umkc.edu/colleges-schools/science-engineering/computer-science/computer-science.pdf
+2023-07-06 17:43:51,290 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://deepakv.web.illinois.edu/assets/files/cv_deepakv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCMQAg&usg=AOvVaw1CmffBpacpkMULyX0Hj63h
+2023-07-06 17:43:51,290 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://deepakv.web.illinois.edu/assets/files/cv_deepakv.pdf
+2023-07-06 17:43:51,291 [MainThread  ] [INFO] Found unique URL #64: https://deepakv.web.illinois.edu/assets/files/cv_deepakv.pdf
+2023-07-06 17:43:51,291 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://vinyoshy2.github.io/koshyCV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCQQAg&usg=AOvVaw3bcDiOMvAnugPGOvKxVJ6j
+2023-07-06 17:43:51,291 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://vinyoshy2.github.io/koshyCV.pdf
+2023-07-06 17:43:51,291 [MainThread  ] [INFO] Found unique URL #65: https://vinyoshy2.github.io/koshyCV.pdf
+2023-07-06 17:43:51,291 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://zilles.cs.illinois.edu/papers/azad_ai_autograders_aied_2020.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCIQAg&usg=AOvVaw3_tIKxp9F-IbGQgLlbBWSa
+2023-07-06 17:43:51,292 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://zilles.cs.illinois.edu/papers/azad_ai_autograders_aied_2020.pdf
+2023-07-06 17:43:51,292 [MainThread  ] [INFO] Found unique URL #66: https://zilles.cs.illinois.edu/papers/azad_ai_autograders_aied_2020.pdf
+2023-07-06 17:43:51,292 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/kdd21_ymeng.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCEQAg&usg=AOvVaw1GQlSG0cofmZCvU_3gybB3
+2023-07-06 17:43:51,292 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/kdd21_ymeng.pdf
+2023-07-06 17:43:51,292 [MainThread  ] [INFO] Found unique URL #67: http://hanj.cs.illinois.edu/pdf/kdd21_ymeng.pdf
+2023-07-06 17:43:51,292 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://web.cs.ucdavis.edu/~yjlee/yongjaelee_cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECB8QAg&usg=AOvVaw2CKAPCW9NyXFFFKxFpRWe5
+2023-07-06 17:43:51,293 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://web.cs.ucdavis.edu/~yjlee/yongjaelee_cv.pdf
+2023-07-06 17:43:51,293 [MainThread  ] [INFO] Found unique URL #68: https://web.cs.ucdavis.edu/~yjlee/yongjaelee_cv.pdf
+2023-07-06 17:43:51,293 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.purdue.edu/homes/roopsha/cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECCAQAg&usg=AOvVaw3N8SJ8ImezijUHka28Xs4s
+2023-07-06 17:43:51,293 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.purdue.edu/homes/roopsha/cv.pdf
+2023-07-06 17:43:51,294 [MainThread  ] [INFO] Found unique URL #69: https://www.cs.purdue.edu/homes/roopsha/cv.pdf
+2023-07-06 17:43:51,294 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://web.cs.ucla.edu/~qgu/pdf/CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECB4QAg&usg=AOvVaw262nK_AQf1mtn7j0zNV8pg
+2023-07-06 17:43:51,294 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://web.cs.ucla.edu/~qgu/pdf/CV.pdf
+2023-07-06 17:43:51,294 [MainThread  ] [INFO] Found unique URL #70: https://web.cs.ucla.edu/~qgu/pdf/CV.pdf
+2023-07-06 17:43:51,294 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dependenttyp.es/CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECB0QAg&usg=AOvVaw0hryG2U8pYvZicTeV7_YZH
+2023-07-06 17:43:51,294 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dependenttyp.es/CV.pdf
+2023-07-06 17:43:51,295 [MainThread  ] [INFO] Found unique URL #71: https://dependenttyp.es/CV.pdf
+2023-07-06 17:43:51,295 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2208.04738&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBwQAg&usg=AOvVaw0mDUEBMyRrYPsdU40ZU0nG
+2023-07-06 17:43:51,295 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2208.04738
+2023-07-06 17:43:51,295 [MainThread  ] [INFO] Found unique URL #72: https://arxiv.org/pdf/2208.04738
+2023-07-06 17:43:51,295 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2104.03682&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBsQAg&usg=AOvVaw3FOhnlzhg-wQOaWmsDEZX-
+2023-07-06 17:43:51,296 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2104.03682
+2023-07-06 17:43:51,296 [MainThread  ] [INFO] Found unique URL #73: https://arxiv.org/pdf/2104.03682
+2023-07-06 17:43:51,296 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://shj.cs.illinois.edu/cs481_syllabus.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBoQAg&usg=AOvVaw0BefoA9M8WV2dSD48X2shi
+2023-07-06 17:43:51,296 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://shj.cs.illinois.edu/cs481_syllabus.pdf
+2023-07-06 17:43:51,297 [MainThread  ] [INFO] Found unique URL #74: http://shj.cs.illinois.edu/cs481_syllabus.pdf
+2023-07-06 17:43:51,297 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBcQAg&usg=AOvVaw39MNp3-KrtiZoNxS_Nl4hA
+2023-07-06 17:43:51,297 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf
+2023-07-06 17:43:51,297 [MainThread  ] [INFO] Found unique URL #75: https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf
+2023-07-06 17:43:51,297 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D2218&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBgQAg&usg=AOvVaw1bkGueUDuvR82vD6oc2fAx
+2023-07-06 17:43:51,297 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=2218
+2023-07-06 17:43:51,298 [MainThread  ] [INFO] Found unique URL #76: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=2218
+2023-07-06 17:43:51,298 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://go.illinois.edu/celebration&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBkQAg&usg=AOvVaw1hiVjpyGBR1EPAwI7pWyNF
+2023-07-06 17:43:51,298 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://go.illinois.edu/celebration
+2023-07-06 17:43:51,298 [MainThread  ] [INFO] Found unique URL #77: https://go.illinois.edu/celebration
+2023-07-06 17:43:51,298 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://tichung.com/files/2023_tcheng_cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBMQAg&usg=AOvVaw27vS2uewd6eU8Opywbugh4
+2023-07-06 17:43:51,299 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://tichung.com/files/2023_tcheng_cv.pdf
+2023-07-06 17:43:51,299 [MainThread  ] [INFO] Found unique URL #78: https://tichung.com/files/2023_tcheng_cv.pdf
+2023-07-06 17:43:51,299 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBQQAg&usg=AOvVaw3ZUS7SZNBgHHWxc2iaiePN
+2023-07-06 17:43:51,299 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf
+2023-07-06 17:43:51,323 [MainThread  ] [INFO] Found unique URL #79: http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf
+2023-07-06 17:43:51,324 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210920senate/EP21135_FINAL_20210920.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBYQAg&usg=AOvVaw0cLz7Dglmg1MwS651xujBs
+2023-07-06 17:43:51,324 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210920senate/EP21135_FINAL_20210920.pdf
+2023-07-06 17:43:51,324 [MainThread  ] [INFO] Found unique URL #80: https://www.senate.illinois.edu/20210920senate/EP21135_FINAL_20210920.pdf
+2023-07-06 17:43:51,325 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.sbctc.edu/resources/documents/colleges-staff/programs-services/bachelors/appconnect-bachelor-degree-proposal.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBUQAg&usg=AOvVaw1iv90MCijtmEMQSdItuI0O
+2023-07-06 17:43:51,325 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.sbctc.edu/resources/documents/colleges-staff/programs-services/bachelors/appconnect-bachelor-degree-proposal.pdf
+2023-07-06 17:43:51,325 [MainThread  ] [INFO] Found unique URL #81: https://www.sbctc.edu/resources/documents/colleges-staff/programs-services/bachelors/appconnect-bachelor-degree-proposal.pdf
+2023-07-06 17:43:51,325 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2210.04275&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBIQAg&usg=AOvVaw2rtL8qNH9EE3EA-8Ltl_pY
+2023-07-06 17:43:51,326 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2210.04275
+2023-07-06 17:43:51,326 [MainThread  ] [INFO] Found unique URL #82: https://arxiv.org/pdf/2210.04275
+2023-07-06 17:43:51,326 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2110.02940&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBAQAg&usg=AOvVaw3aQo9zxSlotCNvasvqkjiN
+2023-07-06 17:43:51,326 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2110.02940
+2023-07-06 17:43:51,326 [MainThread  ] [INFO] Found unique URL #83: https://arxiv.org/pdf/2110.02940
+2023-07-06 17:43:51,327 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAwQAg&usg=AOvVaw2QA9a-IRH54VY0tLcN58yY
+2023-07-06 17:43:51,327 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf
+2023-07-06 17:43:51,327 [MainThread  ] [INFO] Found unique URL #84: https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf
+2023-07-06 17:43:51,327 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/departmentofcomputerscience.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECA4QAg&usg=AOvVaw2RgCOL1AXM_lJY2QcUeYpL
+2023-07-06 17:43:51,327 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/departmentofcomputerscience.pdf
+2023-07-06 17:43:51,328 [MainThread  ] [INFO] Found unique URL #85: https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/departmentofcomputerscience.pdf
+2023-07-06 17:43:51,328 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://www.cs.cornell.edu/~ragarwal/cv-rachit.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECA8QAg&usg=AOvVaw3A_UeZ9G3RWmP-lQuf5REg
+2023-07-06 17:43:51,328 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://www.cs.cornell.edu/~ragarwal/cv-rachit.pdf
+2023-07-06 17:43:51,328 [MainThread  ] [INFO] Found unique URL #86: http://www.cs.cornell.edu/~ragarwal/cv-rachit.pdf
+2023-07-06 17:43:51,328 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://docs.lib.purdue.edu/cgi/viewcontent.cgi%3Farticle%3D1089%26context%3Denepubs&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAsQAg&usg=AOvVaw1Ozz3OmZzlQ0mLIB1Qa-wm
+2023-07-06 17:43:51,329 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1089&context=enepubs
+2023-07-06 17:43:51,329 [MainThread  ] [INFO] Found unique URL #87: https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1089&context=enepubs
+2023-07-06 17:43:51,329 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dl.acm.org/doi/pdf/10.1145/3408877.3432582&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECBEQAg&usg=AOvVaw31F5ZaZLYbpvOU8QB_VZG3
+2023-07-06 17:43:51,329 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dl.acm.org/doi/pdf/10.1145/3408877.3432582
+2023-07-06 17:43:51,329 [MainThread  ] [INFO] Found unique URL #88: https://dl.acm.org/doi/pdf/10.1145/3408877.3432582
+2023-07-06 17:43:51,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://shj.cs.illinois.edu/2021-4-27_DetroitNews.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECA0QAg&usg=AOvVaw11-A5UDYn1JYqTrgtnA0of
+2023-07-06 17:43:51,330 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://shj.cs.illinois.edu/2021-4-27_DetroitNews.pdf
+2023-07-06 17:43:51,330 [MainThread  ] [INFO] Found unique URL #89: http://shj.cs.illinois.edu/2021-4-27_DetroitNews.pdf
+2023-07-06 17:43:51,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21126_FINAL_20210426.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAoQAg&usg=AOvVaw2UT7WR_6_M_SDD5dpIJ4Q3
+2023-07-06 17:43:51,330 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21126_FINAL_20210426.pdf
+2023-07-06 17:43:51,330 [MainThread  ] [INFO] Found unique URL #90: https://www.senate.illinois.edu/20210426senate/EP21126_FINAL_20210426.pdf
+2023-07-06 17:43:51,331 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21113_FINAL_20210426.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAkQAg&usg=AOvVaw1BVsxOdt5lCaeQsz44J7u5
+2023-07-06 17:43:51,331 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21113_FINAL_20210426.pdf
+2023-07-06 17:43:51,331 [MainThread  ] [INFO] Found unique URL #91: https://www.senate.illinois.edu/20210426senate/EP21113_FINAL_20210426.pdf
+2023-07-06 17:43:51,331 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cs.harvard.edu/malan/publications/SIGCSE_2021___Microteaching.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAIQAg&usg=AOvVaw0qnplWIxqmRKO92H-2CRvP
+2023-07-06 17:43:51,331 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cs.harvard.edu/malan/publications/SIGCSE_2021___Microteaching.pdf
+2023-07-06 17:43:51,332 [MainThread  ] [INFO] Found unique URL #92: https://cs.harvard.edu/malan/publications/SIGCSE_2021___Microteaching.pdf
+2023-07-06 17:43:51,332 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cps-iot-week2023.cs.utsa.edu/files/2023-CPS-IoT-WEEK-program-FINAL.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAEQAg&usg=AOvVaw08XWo2BUjN3GEVAukz2h0G
+2023-07-06 17:43:51,332 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cps-iot-week2023.cs.utsa.edu/files/2023-CPS-IoT-WEEK-program-FINAL.pdf
+2023-07-06 17:43:51,332 [MainThread  ] [INFO] Found unique URL #93: https://cps-iot-week2023.cs.utsa.edu/files/2023-CPS-IoT-WEEK-program-FINAL.pdf
+2023-07-06 17:43:51,332 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2111.07267&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAUQAg&usg=AOvVaw1zCKNKb7MVeicuzAF0_m0a
+2023-07-06 17:43:51,341 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2111.07267
+2023-07-06 17:43:51,342 [MainThread  ] [INFO] Found unique URL #94: https://arxiv.org/pdf/2111.07267
+2023-07-06 17:43:51,343 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2109.04901&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAQQAg&usg=AOvVaw3bAzK9hkNBUpFEOS-Peqx2
+2023-07-06 17:43:51,343 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2109.04901
+2023-07-06 17:43:51,343 [MainThread  ] [INFO] Found unique URL #95: https://arxiv.org/pdf/2109.04901
+2023-07-06 17:43:51,343 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://static1.squarespace.com/static/648c75b1117c9316916635e7/t/6496b0825ed90921a3e7c8ab/1687597186775/3727043786.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAcQAg&usg=AOvVaw0tpJiIw2cmXd1McmeukVu5
+2023-07-06 17:43:51,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://static1.squarespace.com/static/648c75b1117c9316916635e7/t/6496b0825ed90921a3e7c8ab/1687597186775/3727043786.pdf
+2023-07-06 17:43:51,344 [MainThread  ] [INFO] Found unique URL #96: https://static1.squarespace.com/static/648c75b1117c9316916635e7/t/6496b0825ed90921a3e7c8ab/1687597186775/3727043786.pdf
+2023-07-06 17:43:51,344 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.el-kebir.net/public/CV.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAgQAg&usg=AOvVaw0u1VVhydsoJFirLxltMtjW
+2023-07-06 17:43:51,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.el-kebir.net/public/CV.pdf
+2023-07-06 17:43:51,345 [MainThread  ] [INFO] Found unique URL #97: https://www.el-kebir.net/public/CV.pdf
+2023-07-06 17:43:51,345 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://haoran-qiu.com/pdf/cv_haoran_qiu.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAAQAg&usg=AOvVaw2kxy_v_2COdg4Gz7cTz4er
+2023-07-06 17:43:51,345 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://haoran-qiu.com/pdf/cv_haoran_qiu.pdf
+2023-07-06 17:43:51,345 [MainThread  ] [INFO] Found unique URL #98: https://haoran-qiu.com/pdf/cv_haoran_qiu.pdf
+2023-07-06 17:43:51,345 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.cornell.edu/~legunsen/legunsen-cv.pdf&sa=U&ved=2ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQFnoECAYQAg&usg=AOvVaw1rDsOzt383MbcY7eLGlB9s
+2023-07-06 17:43:51,346 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.cornell.edu/~legunsen/legunsen-cv.pdf
+2023-07-06 17:43:51,346 [MainThread  ] [INFO] Found unique URL #99: https://www.cs.cornell.edu/~legunsen/legunsen-cv.pdf
+2023-07-06 17:43:51,346 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=jMmmZNvPDa3V1sQP16epKA&start=100&sa=N&filter=0
+2023-07-06 17:43:51,346 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=jMmmZNvPDa3V1sQP16epKA&start=100&sa=N&filter=0
+2023-07-06 17:43:51,346 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,346 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&sa=U&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQty4IggQ&usg=AOvVaw0pTNDCfjcLZm4lB-92Z02P
+2023-07-06 17:43:51,347 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en-IN
+2023-07-06 17:43:51,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,347 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526q%253Dfiletype:pdf%252BUniv.%252Bof%252BIllinois%252Bat%252BUrbana-Champaign%252BCS%252BComputer%252BScience%2526num%253D100%2526btnG%253DGoogle%252BSearch%2526tbs%253Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&sa=U&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQxs8CCIME&usg=AOvVaw0tJbelhTxd-NsuEu1Sq7RZ
+2023-07-06 17:43:51,347 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26q%3Dfiletype:pdf%2BUniv.%2Bof%2BIllinois%2Bat%2BUrbana-Champaign%2BCS%2BComputer%2BScience%26num%3D100%26btnG%3DGoogle%2BSearch%26tbs%3Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2023-07-06 17:43:51,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQv5YECIQE
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjbxf_Gn_r_AhWtqpUCHddTCgUQv5YECIQE
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:43:51,348 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:43:51,349 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:43:51,349 [MainThread  ] [INFO] Sleeping 8 seconds until retrieving the next page of results...
+2023-07-06 17:43:59,394 [MainThread  ] [INFO] Stats: start=100, num=100, total_valid_links_found=99 / max_search_result_urls_to_return=1000
+2023-07-06 17:43:59,395 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=filetype%3Apdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&start=100&num=100&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&safe=off&cr=&filter=0
+2023-07-06 17:44:01,297 [MainThread  ] [DEBUG]     status_code: 200
+2023-07-06 17:44:01,297 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/7.0.521.0 Safari/534.8'}
+2023-07-06 17:44:01,297 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2023-07-06-14 for .google.com/>, <Cookie AEC=Ad49MVGGslTJwaiW44TPtQEKbGcgUrGHUFvnCzRFbRZzetwrKXdamiIEqg for .google.com/>]>
+2023-07-06 17:44:01,297 [MainThread  ] [DEBUG]     proxy: 
+2023-07-06 17:44:01,297 [MainThread  ] [DEBUG]     verify_ssl: True
+2023-07-06 17:44:01,376 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=100&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBA8CAI
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=100&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBA8CAI
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgFKAE
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgFKAE
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgGKAI
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgGKAI
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,377 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgHKAM
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBD8BQgHKAM
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://peerj.com/articles/cs-963.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIAxAC&usg=AOvVaw3KX8ZYsXx9KXqnGdxBSUbi
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://peerj.com/articles/cs-963.pdf
+2023-07-06 17:44:01,378 [MainThread  ] [INFO] Found unique URL #100: https://peerj.com/articles/cs-963.pdf
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2207.12127&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIYxAC&usg=AOvVaw2fvHLsLg-QOT9O1v5kK9pT
+2023-07-06 17:44:01,378 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2207.12127
+2023-07-06 17:44:01,379 [MainThread  ] [INFO] Found unique URL #101: https://arxiv.org/pdf/2207.12127
+2023-07-06 17:44:01,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2111.07267&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIYhAC&usg=AOvVaw2LZjRW45soG7gleth-aPp1
+2023-07-06 17:44:01,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2111.07267
+2023-07-06 17:44:01,379 [MainThread  ] [INFO] Found unique URL #102: https://arxiv.org/pdf/2111.07267
+2023-07-06 17:44:01,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://go.illinois.edu/celebration&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIYBAC&usg=AOvVaw0yVQDPlHmuL6S3JdiWRb9a
+2023-07-06 17:44:01,379 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://go.illinois.edu/celebration
+2023-07-06 17:44:01,379 [MainThread  ] [INFO] Found unique URL #103: https://go.illinois.edu/celebration
+2023-07-06 17:44:01,379 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.ccs.neu.edu/home/amislove/publications/Majors-SIGCSE.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIYRAC&usg=AOvVaw00ZXVg2pa_aNnuXFsV8RWZ
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.ccs.neu.edu/home/amislove/publications/Majors-SIGCSE.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [INFO] Found unique URL #104: https://www.ccs.neu.edu/home/amislove/publications/Majors-SIGCSE.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://tsung-wei-huang.github.io/resumes/twhuang_cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIXxAC&usg=AOvVaw2ogGZjYE6KCwZQfClyTsA_
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://tsung-wei-huang.github.io/resumes/twhuang_cv.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [INFO] Found unique URL #105: https://tsung-wei-huang.github.io/resumes/twhuang_cv.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://monowarhasan.info/docs/MonowarHasan_CV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIXhAC&usg=AOvVaw08czf3iEivTECoBqfbUKsr
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://monowarhasan.info/docs/MonowarHasan_CV.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [INFO] Found unique URL #106: https://monowarhasan.info/docs/MonowarHasan_CV.pdf
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://citl.illinois.edu/docs/default-source/pnp/uiuc-ap-cutoffs-for-2021-2022.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIXBAC&usg=AOvVaw2Coss1Uv0v8m19nWy0Dw8x
+2023-07-06 17:44:01,380 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://citl.illinois.edu/docs/default-source/pnp/uiuc-ap-cutoffs-for-2021-2022.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [INFO] Found unique URL #107: https://citl.illinois.edu/docs/default-source/pnp/uiuc-ap-cutoffs-for-2021-2022.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://shanzhenren.github.io/CV_XiangRen.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIXRAC&usg=AOvVaw28mEnIt6RfzR6nuQylhcXY
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://shanzhenren.github.io/CV_XiangRen.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [INFO] Found unique URL #108: https://shanzhenren.github.io/CV_XiangRen.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIWxAC&usg=AOvVaw3_pTG8nAc27mnqWVLsCozg
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [INFO] Found unique URL #109: https://relate.cs.illinois.edu/course/cs554-f21/f/slides/slides_01.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.codyrivera.com/uploads/RiveraCody_pubCV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIWhAC&usg=AOvVaw2wK3jNFejMQNRqGZtJYAb0
+2023-07-06 17:44:01,381 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.codyrivera.com/uploads/RiveraCody_pubCV.pdf
+2023-07-06 17:44:01,381 [MainThread  ] [INFO] Found unique URL #110: https://www.codyrivera.com/uploads/RiveraCody_pubCV.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIWRAC&usg=AOvVaw0azQyHBppVb4DBzuGdd2JK
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [INFO] Found unique URL #111: http://hanj.cs.illinois.edu/pdf/wsdm22_yzhang.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://redistricting.cs.illinois.edu/2021_Illinois_Updated.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIWBAC&usg=AOvVaw31rbDzL0I5FnP_fvHXF4lh
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://redistricting.cs.illinois.edu/2021_Illinois_Updated.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [INFO] Found unique URL #112: https://redistricting.cs.illinois.edu/2021_Illinois_Updated.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cra.org/wp-content/uploads/2020/10/2020-CRA-Academic-Member-Highlight-Book-Reduced.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIVhAC&usg=AOvVaw0VH0vdjDDCkMwXyfl8E8yD
+2023-07-06 17:44:01,382 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cra.org/wp-content/uploads/2020/10/2020-CRA-Academic-Member-Highlight-Book-Reduced.pdf
+2023-07-06 17:44:01,382 [MainThread  ] [INFO] Found unique URL #113: https://cra.org/wp-content/uploads/2020/10/2020-CRA-Academic-Member-Highlight-Book-Reduced.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.harpercollege.edu/transfer/schools/pdfs/uiuc/uiuclas.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIVRAC&usg=AOvVaw2TtSEXDvw-hsm6FeC4CUso
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.harpercollege.edu/transfer/schools/pdfs/uiuc/uiuclas.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [INFO] Found unique URL #114: https://www.harpercollege.edu/transfer/schools/pdfs/uiuc/uiuclas.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://blender.cs.illinois.edu/paper/smartbook.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIVxAC&usg=AOvVaw11kTm4JEhy92RyvhTdUb7d
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://blender.cs.illinois.edu/paper/smartbook.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [INFO] Found unique URL #115: https://blender.cs.illinois.edu/paper/smartbook.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.umd.edu/~nakul/assets/papers/nakulgarg_cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIUxAC&usg=AOvVaw0mZ8cCtsZcG3UaaveFQvGG
+2023-07-06 17:44:01,383 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.umd.edu/~nakul/assets/papers/nakulgarg_cv.pdf
+2023-07-06 17:44:01,383 [MainThread  ] [INFO] Found unique URL #116: https://www.cs.umd.edu/~nakul/assets/papers/nakulgarg_cv.pdf
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://bbe.umn.edu/sites/bbe.umn.edu/files/2023-04/cv_sheng_wang-1.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIVBAC&usg=AOvVaw07pXhWStbGqci7jDxc3B1C
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://bbe.umn.edu/sites/bbe.umn.edu/files/2023-04/cv_sheng_wang-1.pdf
+2023-07-06 17:44:01,384 [MainThread  ] [INFO] Found unique URL #117: https://bbe.umn.edu/sites/bbe.umn.edu/files/2023-04/cv_sheng_wang-1.pdf
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://jeffhj.github.io/files/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIUhAC&usg=AOvVaw3gI1QueW3HxXm-J3SWTChn
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://jeffhj.github.io/files/cv.pdf
+2023-07-06 17:44:01,384 [MainThread  ] [INFO] Found unique URL #118: https://jeffhj.github.io/files/cv.pdf
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://motion.cs.illinois.edu/papers/ICRAWorkshop2023_Naughton_PanTiltRoll.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIURAC&usg=AOvVaw0LtQ7UeGl1Ic-ExUoYYTyf
+2023-07-06 17:44:01,384 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://motion.cs.illinois.edu/papers/ICRAWorkshop2023_Naughton_PanTiltRoll.pdf
+2023-07-06 17:44:01,385 [MainThread  ] [INFO] Found unique URL #119: http://motion.cs.illinois.edu/papers/ICRAWorkshop2023_Naughton_PanTiltRoll.pdf
+2023-07-06 17:44:01,385 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2301.09175&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIUBAC&usg=AOvVaw3Xs3jstlEr76-Fl_6Tgc2u
+2023-07-06 17:44:01,385 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2301.09175
+2023-07-06 17:44:01,385 [MainThread  ] [INFO] Found unique URL #120: https://arxiv.org/pdf/2301.09175
+2023-07-06 17:44:01,385 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2103.03337&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIThAC&usg=AOvVaw08f_UMx0-DdCBzUqjusd6b
+2023-07-06 17:44:01,385 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2103.03337
+2023-07-06 17:44:01,386 [MainThread  ] [INFO] Found unique URL #121: https://arxiv.org/pdf/2103.03337
+2023-07-06 17:44:01,386 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ws.engr.illinois.edu/sitemanager/getfile.asp%3Fid%3D510&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQITxAC&usg=AOvVaw3Hc-kGeOpDiQbegyZ1r74m
+2023-07-06 17:44:01,386 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=510
+2023-07-06 17:44:01,386 [MainThread  ] [INFO] Found unique URL #122: https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=510
+2023-07-06 17:44:01,386 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://engineering.ccc.edu/wp-content/uploads/2022/10/COE-flyer-10.4.2022.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQITBAC&usg=AOvVaw0P7y8PgqmqdoWdWvewYCYO
+2023-07-06 17:44:01,386 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://engineering.ccc.edu/wp-content/uploads/2022/10/COE-flyer-10.4.2022.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [INFO] Found unique URL #123: https://engineering.ccc.edu/wp-content/uploads/2022/10/COE-flyer-10.4.2022.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cra.org/wp-content/uploads/2022/10/CRA_Member_Book_2022.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQITRAC&usg=AOvVaw0wsKumPZ3z6S9_lm4O1BIX
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cra.org/wp-content/uploads/2022/10/CRA_Member_Book_2022.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [INFO] Found unique URL #124: https://cra.org/wp-content/uploads/2022/10/CRA_Member_Book_2022.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://blogs.illinois.edu/files/6367/788497132/191352.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIShAC&usg=AOvVaw0EltmwOYsP51zibeIYKW51
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://blogs.illinois.edu/files/6367/788497132/191352.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [INFO] Found unique URL #125: https://blogs.illinois.edu/files/6367/788497132/191352.pdf
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.parkland.edu/Portals/3/Transfer/Documents/2021-2022%2520Parkland%2520to%2520UIUC%2520GE%2520course%2520equivalencies%2520w-language%2520chart.pdf%3Fver%3Dw0zBUO-nx9bffxkVMT_ftQ%253D%253D&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQISxAC&usg=AOvVaw1xer0SL3XijVxfh7rNk40Y
+2023-07-06 17:44:01,387 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.parkland.edu/Portals/3/Transfer/Documents/2021-2022%20Parkland%20to%20UIUC%20GE%20course%20equivalencies%20w-language%20chart.pdf?ver=w0zBUO-nx9bffxkVMT_ftQ%3D%3D
+2023-07-06 17:44:01,388 [MainThread  ] [INFO] Found unique URL #126: https://www.parkland.edu/Portals/3/Transfer/Documents/2021-2022%20Parkland%20to%20UIUC%20GE%20course%20equivalencies%20w-language%20chart.pdf?ver=w0zBUO-nx9bffxkVMT_ftQ%3D%3D
+2023-07-06 17:44:01,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hneeman.oscer.ou.edu/vita_neeman.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQISBAC&usg=AOvVaw1lsJ2LEO6uvlDrpxFDrzyd
+2023-07-06 17:44:01,388 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hneeman.oscer.ou.edu/vita_neeman.pdf
+2023-07-06 17:44:01,388 [MainThread  ] [INFO] Found unique URL #127: http://hneeman.oscer.ou.edu/vita_neeman.pdf
+2023-07-06 17:44:01,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://terpconnect.umd.edu/~weintrop/papers/TissenbaumEtAl_BJET_2021.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIRxAC&usg=AOvVaw3KjmfWrzL5FPEMnQWjQQXe
+2023-07-06 17:44:01,388 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://terpconnect.umd.edu/~weintrop/papers/TissenbaumEtAl_BJET_2021.pdf
+2023-07-06 17:44:01,388 [MainThread  ] [INFO] Found unique URL #128: https://terpconnect.umd.edu/~weintrop/papers/TissenbaumEtAl_BJET_2021.pdf
+2023-07-06 17:44:01,388 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://web.engr.oregonstate.edu/~tgd/cv/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQISRAC&usg=AOvVaw3N-HCmkwiW0wT0BFXVM3XV
+2023-07-06 17:44:01,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://web.engr.oregonstate.edu/~tgd/cv/cv.pdf
+2023-07-06 17:44:01,389 [MainThread  ] [INFO] Found unique URL #129: https://web.engr.oregonstate.edu/~tgd/cv/cv.pdf
+2023-07-06 17:44:01,389 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ieeexplore.ieee.org/iel7/40/5210076/09741292.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIRhAC&usg=AOvVaw0G_7-6siPGHBoK7qA-wLMY
+2023-07-06 17:44:01,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ieeexplore.ieee.org/iel7/40/5210076/09741292.pdf
+2023-07-06 17:44:01,389 [MainThread  ] [INFO] Found unique URL #130: https://ieeexplore.ieee.org/iel7/40/5210076/09741292.pdf
+2023-07-06 17:44:01,389 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dl.acm.org/doi/pdf/10.1145/3408877.3432483&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIRRAC&usg=AOvVaw2O6ETHieI-iTRUSBssEBp7
+2023-07-06 17:44:01,389 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dl.acm.org/doi/pdf/10.1145/3408877.3432483
+2023-07-06 17:44:01,389 [MainThread  ] [INFO] Found unique URL #131: https://dl.acm.org/doi/pdf/10.1145/3408877.3432483
+2023-07-06 17:44:01,391 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://birkhoff.ch/resume.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIQRAC&usg=AOvVaw0UC44cXs_8yG7cwlfX0PZ8
+2023-07-06 17:44:01,392 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://birkhoff.ch/resume.pdf
+2023-07-06 17:44:01,393 [MainThread  ] [INFO] Found unique URL #132: https://birkhoff.ch/resume.pdf
+2023-07-06 17:44:01,394 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cse.engin.umich.edu/wp-content/uploads/sites/3/2021/03/CSE-PhD-Visit-Week.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIQhAC&usg=AOvVaw04ccrYTrgu0UGtQrNM4OOh
+2023-07-06 17:44:01,395 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cse.engin.umich.edu/wp-content/uploads/sites/3/2021/03/CSE-PhD-Visit-Week.pdf
+2023-07-06 17:44:01,397 [MainThread  ] [INFO] Found unique URL #133: https://cse.engin.umich.edu/wp-content/uploads/sites/3/2021/03/CSE-PhD-Visit-Week.pdf
+2023-07-06 17:44:01,398 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21124_FINAL_20210426.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIQBAC&usg=AOvVaw08d0mZ7-Fe6I8-am7Hd1Pi
+2023-07-06 17:44:01,398 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21124_FINAL_20210426.pdf
+2023-07-06 17:44:01,398 [MainThread  ] [INFO] Found unique URL #134: https://www.senate.illinois.edu/20210426senate/EP21124_FINAL_20210426.pdf
+2023-07-06 17:44:01,399 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://blender.cs.illinois.edu/paper/multimediachemicalentity2021.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIRBAC&usg=AOvVaw2Pktm24gpiZvJ1O4mFrZMO
+2023-07-06 17:44:01,399 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://blender.cs.illinois.edu/paper/multimediachemicalentity2021.pdf
+2023-07-06 17:44:01,399 [MainThread  ] [INFO] Found unique URL #135: https://blender.cs.illinois.edu/paper/multimediachemicalentity2021.pdf
+2023-07-06 17:44:01,399 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ittc.ku.edu/~heechul/cv-Yun.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIQxAC&usg=AOvVaw2zdQ9_FALTAN-uPs6Lq7Yk
+2023-07-06 17:44:01,399 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ittc.ku.edu/~heechul/cv-Yun.pdf
+2023-07-06 17:44:01,399 [MainThread  ] [INFO] Found unique URL #136: https://ittc.ku.edu/~heechul/cv-Yun.pdf
+2023-07-06 17:44:01,399 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2105.07311&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIPxAC&usg=AOvVaw1EXTzAa6mB0IOE2_A3AoX9
+2023-07-06 17:44:01,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2105.07311
+2023-07-06 17:44:01,400 [MainThread  ] [INFO] Found unique URL #137: https://arxiv.org/pdf/2105.07311
+2023-07-06 17:44:01,400 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2009.08422&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIPhAC&usg=AOvVaw0BtznBDDPHshaFarvcaMUb
+2023-07-06 17:44:01,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2009.08422
+2023-07-06 17:44:01,400 [MainThread  ] [INFO] Found unique URL #138: https://arxiv.org/pdf/2009.08422
+2023-07-06 17:44:01,400 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.stanford.edu/~vinod/Vinodkumar_Prabhakaran_CV_May2021.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIPRAC&usg=AOvVaw0bQMUs98O1dpnJ1ppQcbqC
+2023-07-06 17:44:01,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.stanford.edu/~vinod/Vinodkumar_Prabhakaran_CV_May2021.pdf
+2023-07-06 17:44:01,400 [MainThread  ] [INFO] Found unique URL #139: https://www.cs.stanford.edu/~vinod/Vinodkumar_Prabhakaran_CV_May2021.pdf
+2023-07-06 17:44:01,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2107.13467&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIPBAC&usg=AOvVaw2QmuaLD5NXjAPZR4Zu21U-
+2023-07-06 17:44:01,401 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2107.13467
+2023-07-06 17:44:01,401 [MainThread  ] [INFO] Found unique URL #140: https://arxiv.org/pdf/2107.13467
+2023-07-06 17:44:01,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2210.04123&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIOhAC&usg=AOvVaw2dNVzriqxM9A-iaBsOPYve
+2023-07-06 17:44:01,401 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2210.04123
+2023-07-06 17:44:01,401 [MainThread  ] [INFO] Found unique URL #141: https://arxiv.org/pdf/2210.04123
+2023-07-06 17:44:01,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://par.nsf.gov/servlets/purl/10281719&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIOxAC&usg=AOvVaw2qMUoi4J0ZgdY1Zhk3rqcB
+2023-07-06 17:44:01,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://par.nsf.gov/servlets/purl/10281719
+2023-07-06 17:44:01,402 [MainThread  ] [INFO] Found unique URL #142: https://par.nsf.gov/servlets/purl/10281719
+2023-07-06 17:44:01,402 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://aishwaryaganesan.github.io/pdf/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIORAC&usg=AOvVaw2boTcOcYMrcbZiTBfwdWcU
+2023-07-06 17:44:01,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://aishwaryaganesan.github.io/pdf/cv.pdf
+2023-07-06 17:44:01,402 [MainThread  ] [INFO] Found unique URL #143: https://aishwaryaganesan.github.io/pdf/cv.pdf
+2023-07-06 17:44:01,402 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cs.gmu.edu/~winglam/personal/winglam-CV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIOBAC&usg=AOvVaw0V2jr_e9ZKpsYwDfAvSr38
+2023-07-06 17:44:01,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cs.gmu.edu/~winglam/personal/winglam-CV.pdf
+2023-07-06 17:44:01,403 [MainThread  ] [INFO] Found unique URL #144: https://cs.gmu.edu/~winglam/personal/winglam-CV.pdf
+2023-07-06 17:44:01,403 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://chphonors.web.illinois.edu/wp-content/uploads/2021/07/chp_annualnewsletter_19.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQINhAC&usg=AOvVaw2ktV0IYfOBJ4020ITY9Dzd
+2023-07-06 17:44:01,403 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://chphonors.web.illinois.edu/wp-content/uploads/2021/07/chp_annualnewsletter_19.pdf
+2023-07-06 17:44:01,403 [MainThread  ] [INFO] Found unique URL #145: https://chphonors.web.illinois.edu/wp-content/uploads/2021/07/chp_annualnewsletter_19.pdf
+2023-07-06 17:44:01,403 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://rsim.cs.illinois.edu/Pubs/22-IEEE-MICRO-HPVM.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQINxAC&usg=AOvVaw3CBa9VFQQ4niRsQ-0m4-Fk
+2023-07-06 17:44:01,403 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://rsim.cs.illinois.edu/Pubs/22-IEEE-MICRO-HPVM.pdf
+2023-07-06 17:44:01,404 [MainThread  ] [INFO] Found unique URL #146: https://rsim.cs.illinois.edu/Pubs/22-IEEE-MICRO-HPVM.pdf
+2023-07-06 17:44:01,404 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/wsdm21_yzhang.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQINRAC&usg=AOvVaw2LmRyUu1mz1lDZy13sr88W
+2023-07-06 17:44:01,404 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/wsdm21_yzhang.pdf
+2023-07-06 17:44:01,404 [MainThread  ] [INFO] Found unique URL #147: http://hanj.cs.illinois.edu/pdf/wsdm21_yzhang.pdf
+2023-07-06 17:44:01,404 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/donaldbrenschoolofinformationandcomputersciences.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIMxAC&usg=AOvVaw0ynuuxJYAgolMpd84cYSAR
+2023-07-06 17:44:01,404 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/donaldbrenschoolofinformationandcomputersciences.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [INFO] Found unique URL #148: https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/donaldbrenschoolofinformationandcomputersciences.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.ndsu.edu/fileadmin/challeyinstitute/Staff/Zahid_Anwar_CV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQINBAC&usg=AOvVaw18AEa3HTYZHhGtnvEoXm31
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.ndsu.edu/fileadmin/challeyinstitute/Staff/Zahid_Anwar_CV.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [INFO] Found unique URL #149: https://www.ndsu.edu/fileadmin/challeyinstitute/Staff/Zahid_Anwar_CV.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap12.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIMhAC&usg=AOvVaw1CGt48Km0oABtX5QEpGEFL
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap12.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [INFO] Found unique URL #150: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap12.pdf
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2104.07205&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQILxAC&usg=AOvVaw1wJdRyPlxCJjkKIbVT65nG
+2023-07-06 17:44:01,405 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2104.07205
+2023-07-06 17:44:01,406 [MainThread  ] [INFO] Found unique URL #151: https://arxiv.org/pdf/2104.07205
+2023-07-06 17:44:01,406 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2209.12273&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIMBAC&usg=AOvVaw0e4oQuZ-hdPRSdEWkfm3ma
+2023-07-06 17:44:01,406 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2209.12273
+2023-07-06 17:44:01,406 [MainThread  ] [INFO] Found unique URL #152: https://arxiv.org/pdf/2209.12273
+2023-07-06 17:44:01,406 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report-_Chapter-4.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIMRAC&usg=AOvVaw0o6Ipc3HyYzTkTl9QExNxx
+2023-07-06 17:44:01,406 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report-_Chapter-4.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [INFO] Found unique URL #153: https://aiindex.stanford.edu/wp-content/uploads/2021/03/2021-AI-Index-Report-_Chapter-4.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-156.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIKxAC&usg=AOvVaw0c9SQMLXRFue11h_WnzOzE
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-156.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [INFO] Found unique URL #154: https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-156.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://lu.seas.harvard.edu/files/yuelu/files/vitae.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQILBAC&usg=AOvVaw3Kkdpm2MAQ4DOrrDRDL2G7
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://lu.seas.harvard.edu/files/yuelu/files/vitae.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [INFO] Found unique URL #155: https://lu.seas.harvard.edu/files/yuelu/files/vitae.pdf
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://motion.cs.illinois.edu/papers/ICRA2021_Edwards_AutoMPC.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQILhAC&usg=AOvVaw2PVodYdWQrj0Uzbxod012O
+2023-07-06 17:44:01,407 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://motion.cs.illinois.edu/papers/ICRA2021_Edwards_AutoMPC.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [INFO] Found unique URL #156: https://motion.cs.illinois.edu/papers/ICRA2021_Edwards_AutoMPC.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQILRAC&usg=AOvVaw2B7BhVzixNXfAacKr_8xoR
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [INFO] Found unique URL #157: https://courses.engr.illinois.edu/cs374al1/sp2023/slides/01-intro.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://jmather625.github.io/Resume_Jatin_Mathur.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIKhAC&usg=AOvVaw3orwHnCfbILXgolrEwzlIy
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://jmather625.github.io/Resume_Jatin_Mathur.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [INFO] Found unique URL #158: https://jmather625.github.io/Resume_Jatin_Mathur.pdf
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://homes.luddy.indiana.edu/kapadia/apu-kapadia-cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIKRAC&usg=AOvVaw3WcwCAaBEmixnqyMTba_pi
+2023-07-06 17:44:01,408 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://homes.luddy.indiana.edu/kapadia/apu-kapadia-cv.pdf
+2023-07-06 17:44:01,409 [MainThread  ] [INFO] Found unique URL #159: https://homes.luddy.indiana.edu/kapadia/apu-kapadia-cv.pdf
+2023-07-06 17:44:01,409 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://users.ece.cmu.edu/~asrirama/files/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIKBAC&usg=AOvVaw3SUQThmOilaLScdwQyNceQ
+2023-07-06 17:44:01,409 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://users.ece.cmu.edu/~asrirama/files/cv.pdf
+2023-07-06 17:44:01,409 [MainThread  ] [INFO] Found unique URL #160: https://users.ece.cmu.edu/~asrirama/files/cv.pdf
+2023-07-06 17:44:01,409 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2206.01775&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIJhAC&usg=AOvVaw0YJG4I767U1I2Xa92twnaV
+2023-07-06 17:44:01,409 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2206.01775
+2023-07-06 17:44:01,409 [MainThread  ] [INFO] Found unique URL #161: https://arxiv.org/pdf/2206.01775
+2023-07-06 17:44:01,410 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2011.03632&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIJxAC&usg=AOvVaw2_qSg25MjOqyqWSgpg9AJC
+2023-07-06 17:44:01,412 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2011.03632
+2023-07-06 17:44:01,412 [MainThread  ] [INFO] Found unique URL #162: https://arxiv.org/pdf/2011.03632
+2023-07-06 17:44:01,412 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2205.09833&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIJBAC&usg=AOvVaw0P88KDFGF_bvxlbczLuIGW
+2023-07-06 17:44:01,413 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2205.09833
+2023-07-06 17:44:01,413 [MainThread  ] [INFO] Found unique URL #163: https://arxiv.org/pdf/2205.09833
+2023-07-06 17:44:01,414 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2112.00792&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIJRAC&usg=AOvVaw1asW423xn7EYL0hok5w2mJ
+2023-07-06 17:44:01,414 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2112.00792
+2023-07-06 17:44:01,415 [MainThread  ] [INFO] Found unique URL #164: https://arxiv.org/pdf/2112.00792
+2023-07-06 17:44:01,415 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2205.14842&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIIxAC&usg=AOvVaw0oq0DIYHtDlD1ciUkc4ubB
+2023-07-06 17:44:01,416 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2205.14842
+2023-07-06 17:44:01,416 [MainThread  ] [INFO] Found unique URL #165: https://arxiv.org/pdf/2205.14842
+2023-07-06 17:44:01,416 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2209.13511&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIIhAC&usg=AOvVaw3DlLHloYPrA1HE1vItoLiA
+2023-07-06 17:44:01,416 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2209.13511
+2023-07-06 17:44:01,417 [MainThread  ] [INFO] Found unique URL #166: https://arxiv.org/pdf/2209.13511
+2023-07-06 17:44:01,417 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://solomonik.cs.illinois.edu/talks/cecam-may-2022.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIIRAC&usg=AOvVaw1ZPYP7AW33cbmcC62cyfpa
+2023-07-06 17:44:01,417 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://solomonik.cs.illinois.edu/talks/cecam-may-2022.pdf
+2023-07-06 17:44:01,417 [MainThread  ] [INFO] Found unique URL #167: https://solomonik.cs.illinois.edu/talks/cecam-may-2022.pdf
+2023-07-06 17:44:01,418 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap02.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIHxAC&usg=AOvVaw3zQcnMoN24gOG9PBCuZ3VS
+2023-07-06 17:44:01,418 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap02.pdf
+2023-07-06 17:44:01,418 [MainThread  ] [INFO] Found unique URL #168: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap02.pdf
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dl.acm.org/doi/pdf/10.1145/3478432.3499035&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIIBAC&usg=AOvVaw1Zf8T8cqtGTBtt1-M1tJ7w
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dl.acm.org/doi/pdf/10.1145/3478432.3499035
+2023-07-06 17:44:01,419 [MainThread  ] [INFO] Found unique URL #169: https://dl.acm.org/doi/pdf/10.1145/3478432.3499035
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://zanema.com/zane-ma-cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIHhAC&usg=AOvVaw1CtarfIA53edBr0dV7O6YM
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://zanema.com/zane-ma-cv.pdf
+2023-07-06 17:44:01,419 [MainThread  ] [INFO] Found unique URL #170: https://zanema.com/zane-ma-cv.pdf
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2112.13137&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIHRAC&usg=AOvVaw0OcVSL4Lp-Q8NIm4hd8cjf
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2112.13137
+2023-07-06 17:44:01,419 [MainThread  ] [INFO] Found unique URL #171: https://arxiv.org/pdf/2112.13137
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2104.11396&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIGxAC&usg=AOvVaw2Z0HmBWl4mDhK26IDN5Yfq
+2023-07-06 17:44:01,419 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2104.11396
+2023-07-06 17:44:01,420 [MainThread  ] [INFO] Found unique URL #172: https://arxiv.org/pdf/2104.11396
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv_dkhurana.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIHBAC&usg=AOvVaw3ZsiqdcsQ3gfzhVjYjHo5e
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv_dkhurana.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [INFO] Found unique URL #173: https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv_dkhurana.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv-d1.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIGhAC&usg=AOvVaw3SKwkfjlGwtysQdgOLusHv
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv-d1.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [INFO] Found unique URL #174: https://www.dakshitakhurana.com/uploads/1/2/6/4/126444552/cv-d1.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.monash.edu/__data/assets/pdf_file/0005/2748515/Women-in-STEM-and-IT-Report.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIGRAC&usg=AOvVaw2QiE0FC3rRGSOK_xJyi7dh
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.monash.edu/__data/assets/pdf_file/0005/2748515/Women-in-STEM-and-IT-Report.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [INFO] Found unique URL #175: https://www.monash.edu/__data/assets/pdf_file/0005/2748515/Women-in-STEM-and-IT-Report.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://lingming.cs.illinois.edu/publications/icse2021.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIGBAC&usg=AOvVaw3BIpge9zKw00SSXmf9cI4y
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://lingming.cs.illinois.edu/publications/icse2021.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [INFO] Found unique URL #176: https://lingming.cs.illinois.edu/publications/icse2021.pdf
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://adityaasinha28.github.io/assets/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIFxAC&usg=AOvVaw30alswIB9bzjdYe1h1DJqE
+2023-07-06 17:44:01,420 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://adityaasinha28.github.io/assets/cv.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [INFO] Found unique URL #177: https://adityaasinha28.github.io/assets/cv.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://sundaram.cs.illinois.edu/pubs/2021/2021_ferguson_rct.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIFhAC&usg=AOvVaw2paZA2rMVixj0z9lWXOGFs
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://sundaram.cs.illinois.edu/pubs/2021/2021_ferguson_rct.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [INFO] Found unique URL #178: http://sundaram.cs.illinois.edu/pubs/2021/2021_ferguson_rct.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://fsl.cs.illinois.edu/publications/chen-pena-rodrigues-rosu-trinh-2020-oopsla.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIFBAC&usg=AOvVaw1TPPZG1yGMgcn9Fj4kmI0x
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://fsl.cs.illinois.edu/publications/chen-pena-rodrigues-rosu-trinh-2020-oopsla.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [INFO] Found unique URL #179: https://fsl.cs.illinois.edu/publications/chen-pena-rodrigues-rosu-trinh-2020-oopsla.pdf
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2208.04842&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIFRAC&usg=AOvVaw1zvLZBGczeSx7nEP0zcD0z
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2208.04842
+2023-07-06 17:44:01,421 [MainThread  ] [INFO] Found unique URL #180: https://arxiv.org/pdf/2208.04842
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2011.02920&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIEhAC&usg=AOvVaw36EjLJacRvmz9J5dtvTRhI
+2023-07-06 17:44:01,421 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2011.02920
+2023-07-06 17:44:01,421 [MainThread  ] [INFO] Found unique URL #181: https://arxiv.org/pdf/2011.02920
+2023-07-06 17:44:01,422 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2303.17034&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIExAC&usg=AOvVaw1XAxkF1K-rC-8mSzyp3WNl
+2023-07-06 17:44:01,422 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2303.17034
+2023-07-06 17:44:01,422 [MainThread  ] [INFO] Found unique URL #182: https://arxiv.org/pdf/2303.17034
+2023-07-06 17:44:01,422 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2110.02503&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIDhAC&usg=AOvVaw1bcH3UQxXNFenc2oI1pWQQ
+2023-07-06 17:44:01,422 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2110.02503
+2023-07-06 17:44:01,422 [MainThread  ] [INFO] Found unique URL #183: https://arxiv.org/pdf/2110.02503
+2023-07-06 17:44:01,422 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://tanvibajpai.com/files/Tanvi-Bajpai-CV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIDxAC&usg=AOvVaw2hka43HsrD6n--OEbg2fyb
+2023-07-06 17:44:01,423 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://tanvibajpai.com/files/Tanvi-Bajpai-CV.pdf
+2023-07-06 17:44:01,423 [MainThread  ] [INFO] Found unique URL #184: https://tanvibajpai.com/files/Tanvi-Bajpai-CV.pdf
+2023-07-06 17:44:01,423 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dl.acm.org/doi/pdf/10.1145/3408877.3432442&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIERAC&usg=AOvVaw072cbe-VmVVGnKQXjYpZ5C
+2023-07-06 17:44:01,423 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dl.acm.org/doi/pdf/10.1145/3408877.3432442
+2023-07-06 17:44:01,423 [MainThread  ] [INFO] Found unique URL #185: https://dl.acm.org/doi/pdf/10.1145/3408877.3432442
+2023-07-06 17:44:01,423 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap09.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIEBAC&usg=AOvVaw0qFjp_kHZwwZNYoO5Dn0vn
+2023-07-06 17:44:01,424 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap09.pdf
+2023-07-06 17:44:01,424 [MainThread  ] [INFO] Found unique URL #186: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap09.pdf
+2023-07-06 17:44:01,424 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://chphonors.web.illinois.edu/wp-content/uploads/2021/08/2021-CHP-Newsletter-FA-digital-RS.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIDRAC&usg=AOvVaw3QmR4yAnOGPOhwXBsVggcg
+2023-07-06 17:44:01,424 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://chphonors.web.illinois.edu/wp-content/uploads/2021/08/2021-CHP-Newsletter-FA-digital-RS.pdf
+2023-07-06 17:44:01,424 [MainThread  ] [INFO] Found unique URL #187: https://chphonors.web.illinois.edu/wp-content/uploads/2021/08/2021-CHP-Newsletter-FA-digital-RS.pdf
+2023-07-06 17:44:01,424 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://peer.asee.org/work-in-progress-spatial-visualization-assessment-and-training-in-the-grainger-college-of-engineering-at-the-university-of-illinois.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIDBAC&usg=AOvVaw3yzIWYPH7Yp97vnZMiO2Uu
+2023-07-06 17:44:01,424 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://peer.asee.org/work-in-progress-spatial-visualization-assessment-and-training-in-the-grainger-college-of-engineering-at-the-university-of-illinois.pdf
+2023-07-06 17:44:01,425 [MainThread  ] [INFO] Found unique URL #188: https://peer.asee.org/work-in-progress-spatial-visualization-assessment-and-training-in-the-grainger-college-of-engineering-at-the-university-of-illinois.pdf
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://cbe.princeton.edu/document/2566&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQICxAC&usg=AOvVaw1HysOqXTJrVheTIjGWE92p
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://cbe.princeton.edu/document/2566
+2023-07-06 17:44:01,425 [MainThread  ] [INFO] Found unique URL #189: https://cbe.princeton.edu/document/2566
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2205.11485&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQICRAC&usg=AOvVaw2OJelPlp494kSu89OiSA8F
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2205.11485
+2023-07-06 17:44:01,425 [MainThread  ] [INFO] Found unique URL #190: https://arxiv.org/pdf/2205.11485
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2002.02081&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIChAC&usg=AOvVaw1PHEX-uAErJgpKcMjrwbe0
+2023-07-06 17:44:01,425 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2002.02081
+2023-07-06 17:44:01,426 [MainThread  ] [INFO] Found unique URL #191: https://arxiv.org/pdf/2002.02081
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2101.04921&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIBxAC&usg=AOvVaw3m2l8FcPjw1LHNqdPysPxC
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2101.04921
+2023-07-06 17:44:01,426 [MainThread  ] [INFO] Found unique URL #192: https://arxiv.org/pdf/2101.04921
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2103.12908&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIARAC&usg=AOvVaw0z5k4QEtmsd-7Q4n_OekZt
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2103.12908
+2023-07-06 17:44:01,426 [MainThread  ] [INFO] Found unique URL #193: https://arxiv.org/pdf/2103.12908
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ramalagappan.github.io/pdfs/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIBBAC&usg=AOvVaw0rzq2WCK3bfnCVhxZ3ctmA
+2023-07-06 17:44:01,426 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ramalagappan.github.io/pdfs/cv.pdf
+2023-07-06 17:44:01,426 [MainThread  ] [INFO] Found unique URL #194: https://ramalagappan.github.io/pdfs/cv.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://pages.cs.wisc.edu/~pb/cv.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIBhAC&usg=AOvVaw1ggJAm12S8UNXU19r0xNp1
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://pages.cs.wisc.edu/~pb/cv.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [INFO] Found unique URL #195: https://pages.cs.wisc.edu/~pb/cv.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://alchem.cs.purdue.edu/static/download/resume_xuehai.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQICBAC&usg=AOvVaw2o4J_0K6iQNIPAEUv_4nw8
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://alchem.cs.purdue.edu/static/download/resume_xuehai.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [INFO] Found unique URL #196: https://alchem.cs.purdue.edu/static/download/resume_xuehai.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.monash.edu/__data/assets/pdf_file/0006/2731830/Women-in-STEM-revised-v5.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIBRAC&usg=AOvVaw3oHOz08VFENHOriCdqCDoO
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.monash.edu/__data/assets/pdf_file/0006/2731830/Women-in-STEM-revised-v5.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [INFO] Found unique URL #197: https://www.monash.edu/__data/assets/pdf_file/0006/2731830/Women-in-STEM-revised-v5.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.toronto.edu/~pekhimenko/CV.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIAhAC&usg=AOvVaw1RhrT-RTOEZrLrURlC5Qi8
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.toronto.edu/~pekhimenko/CV.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [INFO] Found unique URL #198: https://www.cs.toronto.edu/~pekhimenko/CV.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ira.asee.org/wp-content/uploads/2021/02/Engineering-by-the-Numbers-FINAL-2021.pdf&sa=U&ved=2ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBAWegQIABAC&usg=AOvVaw0eQNxKmMycsqRtsqef_nB7
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ira.asee.org/wp-content/uploads/2021/02/Engineering-by-the-Numbers-FINAL-2021.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [INFO] Found unique URL #199: https://ira.asee.org/wp-content/uploads/2021/02/Engineering-by-the-Numbers-FINAL-2021.pdf
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=lcmmZNTvDuaP4dUPv8SbiAo&start=0&sa=N&filter=0
+2023-07-06 17:44:01,427 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=lcmmZNTvDuaP4dUPv8SbiAo&start=0&sa=N&filter=0
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=lcmmZNTvDuaP4dUPv8SbiAo&start=200&sa=N&filter=0
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=lcmmZNTvDuaP4dUPv8SbiAo&start=200&sa=N&filter=0
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&sa=U&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBC3Lgj-Aw&usg=AOvVaw2Rlan-4KzxGAvYOWRLKcOO
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en-IN
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526q%253Dfiletype:pdf%252BUniv.%252Bof%252BIllinois%252Bat%252BUrbana-Champaign%252BCS%252BComputer%252BScience%2526start%253D100%2526num%253D100%2526tbs%253Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&sa=U&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBDGzwII_wM&usg=AOvVaw29NeBtw684UD51AlMJ3AMa
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26q%3Dfiletype:pdf%2BUniv.%2Bof%2BIllinois%2Bat%2BUrbana-Champaign%2BCS%2BComputer%2BScience%26start%3D100%26num%3D100%26tbs%3Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBC_lgQIgAQ
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiUjqbLn_r_AhXmR7gEHT_iBqE4ZBC_lgQIgAQ
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:01,428 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:01,428 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2023-07-06 17:44:12,431 [MainThread  ] [INFO] Stats: start=200, num=100, total_valid_links_found=199 / max_search_result_urls_to_return=1000
+2023-07-06 17:44:12,431 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=filetype%3Apdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&start=200&num=100&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&safe=off&cr=&filter=0
+2023-07-06 17:44:14,219 [MainThread  ] [DEBUG]     status_code: 200
+2023-07-06 17:44:14,220 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/7.0.521.0 Safari/534.8'}
+2023-07-06 17:44:14,220 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2023-07-06-14 for .google.com/>, <Cookie NID=511=K25Gnr2i8NsoNUkAesGrNgyahngfbpSGEDTsh0BlGzUOjybVr2jH4Iyn_p_hhdf4LSJN5U5409YJ2fP3a83SwDVBRGNzAdnhBfVKuRtE9qeeCCaa_L7LIaaIY9s6WSVml6urlcNJeKMgZuQtuaD1GVl47OvMP3-DsNScPWLoosw for .google.com/>]>
+2023-07-06 17:44:14,220 [MainThread  ] [DEBUG]     proxy: 
+2023-07-06 17:44:14,220 [MainThread  ] [DEBUG]     verify_ssl: True
+2023-07-06 17:44:14,327 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=200&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQPAgC
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=200&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQPAgC
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBSgB
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBSgB
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBigC
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBigC
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBygD
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQ_AUIBygD
+2023-07-06 17:44:14,328 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?start=200&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQBXoECF8QAQ
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?start=200&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQBXoECF8QAQ
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://motion.cs.illinois.edu/papers/RSS2022Workshop-Marques-TelepresenceXPRIZE.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAUQAg&usg=AOvVaw3J31a7lDsHAubHkyaS0qHW
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://motion.cs.illinois.edu/papers/RSS2022Workshop-Marques-TelepresenceXPRIZE.pdf
+2023-07-06 17:44:14,329 [MainThread  ] [INFO] Found unique URL #200: https://motion.cs.illinois.edu/papers/RSS2022Workshop-Marques-TelepresenceXPRIZE.pdf
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap08.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFwQAg&usg=AOvVaw0nAYNbaBz9RtorY_i_jZ_V
+2023-07-06 17:44:14,329 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap08.pdf
+2023-07-06 17:44:14,329 [MainThread  ] [INFO] Found unique URL #201: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap08.pdf
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cis.fiu.edu/wp-content/uploads/2021/09/Graduate-Student-Handbook_2021.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECF4QAg&usg=AOvVaw3xLfC0YomzKtHaQS6V5PKu
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cis.fiu.edu/wp-content/uploads/2021/09/Graduate-Student-Handbook_2021.pdf
+2023-07-06 17:44:14,330 [MainThread  ] [INFO] Found unique URL #202: https://www.cis.fiu.edu/wp-content/uploads/2021/09/Graduate-Student-Handbook_2021.pdf
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/1901.09089&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECF0QAg&usg=AOvVaw0sCJVA-CXaMmfxdTDSZXFe
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/1901.09089
+2023-07-06 17:44:14,330 [MainThread  ] [INFO] Found unique URL #203: https://arxiv.org/pdf/1901.09089
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2107.00417&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFsQAg&usg=AOvVaw0Qh7RKlrL_Zj-zwgerhYjm
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2107.00417
+2023-07-06 17:44:14,330 [MainThread  ] [INFO] Found unique URL #204: https://arxiv.org/pdf/2107.00417
+2023-07-06 17:44:14,330 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2202.04887&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFoQAg&usg=AOvVaw2nMdmoP3Dlvq6HMqsBxxoV
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2202.04887
+2023-07-06 17:44:14,331 [MainThread  ] [INFO] Found unique URL #205: https://arxiv.org/pdf/2202.04887
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://dept.clcillinois.edu/trn/Engineering_Transfer_Facts.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFkQAg&usg=AOvVaw0nH3aaoyQrjizySerqhxtB
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://dept.clcillinois.edu/trn/Engineering_Transfer_Facts.pdf
+2023-07-06 17:44:14,331 [MainThread  ] [INFO] Found unique URL #206: http://dept.clcillinois.edu/trn/Engineering_Transfer_Facts.pdf
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.senate.illinois.edu/20210426senate/EP21114_FINAL_20210426.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFgQAg&usg=AOvVaw3mD_R-dJiXcrWNqgFmuLpn
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.senate.illinois.edu/20210426senate/EP21114_FINAL_20210426.pdf
+2023-07-06 17:44:14,331 [MainThread  ] [INFO] Found unique URL #207: https://www.senate.illinois.edu/20210426senate/EP21114_FINAL_20210426.pdf
+2023-07-06 17:44:14,331 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://iacoma.cs.uiuc.edu/iacoma-papers/top_maya.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFcQAg&usg=AOvVaw0pVsgZYJ--SKEMZVboUtK2
+2023-07-06 17:44:14,332 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://iacoma.cs.uiuc.edu/iacoma-papers/top_maya.pdf
+2023-07-06 17:44:14,332 [MainThread  ] [INFO] Found unique URL #208: https://iacoma.cs.uiuc.edu/iacoma-papers/top_maya.pdf
+2023-07-06 17:44:14,332 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.ryanguo.me/resume.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFYQAg&usg=AOvVaw1xi902gpjlxRpQ9uhcOksx
+2023-07-06 17:44:14,332 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.ryanguo.me/resume.pdf
+2023-07-06 17:44:14,332 [MainThread  ] [INFO] Found unique URL #209: https://www.ryanguo.me/resume.pdf
+2023-07-06 17:44:14,333 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://people.cs.umass.edu/~brun/pubs/pubs/Agrawal23icse-demo.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFUQAg&usg=AOvVaw3ugcyWQ4kCYwYeTunLrVuI
+2023-07-06 17:44:14,334 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://people.cs.umass.edu/~brun/pubs/pubs/Agrawal23icse-demo.pdf
+2023-07-06 17:44:14,334 [MainThread  ] [INFO] Found unique URL #210: https://people.cs.umass.edu/~brun/pubs/pubs/Agrawal23icse-demo.pdf
+2023-07-06 17:44:14,335 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/10/ISM2020__SEAWARE__CameraReady_.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFIQAg&usg=AOvVaw2CbI96XbmQbrhPq9loHmQo
+2023-07-06 17:44:14,335 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/10/ISM2020__SEAWARE__CameraReady_.pdf
+2023-07-06 17:44:14,335 [MainThread  ] [INFO] Found unique URL #211: https://groups.cs.umass.edu/ramesh/wp-content/uploads/sites/3/2020/10/ISM2020__SEAWARE__CameraReady_.pdf
+2023-07-06 17:44:14,336 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/bibm20_xwang.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFQQAg&usg=AOvVaw0g7fkh9eR2OZrG4oiaL2nE
+2023-07-06 17:44:14,336 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/bibm20_xwang.pdf
+2023-07-06 17:44:14,337 [MainThread  ] [INFO] Found unique URL #212: http://hanj.cs.illinois.edu/pdf/bibm20_xwang.pdf
+2023-07-06 17:44:14,337 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://sites.cs.ucsb.edu/~yufeiding/CV_Yufei_Ding_website.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFMQAg&usg=AOvVaw3mThYntj9nZxM0kkZwfxVp
+2023-07-06 17:44:14,338 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://sites.cs.ucsb.edu/~yufeiding/CV_Yufei_Ding_website.pdf
+2023-07-06 17:44:14,338 [MainThread  ] [INFO] Found unique URL #213: https://sites.cs.ucsb.edu/~yufeiding/CV_Yufei_Ding_website.pdf
+2023-07-06 17:44:14,338 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://vertaix.princeton.edu/01-Adji-Bousso-Dieng.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECE4QAg&usg=AOvVaw0xYqcOp45vBFCvTVrLBljC
+2023-07-06 17:44:14,339 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://vertaix.princeton.edu/01-Adji-Bousso-Dieng.pdf
+2023-07-06 17:44:14,339 [MainThread  ] [INFO] Found unique URL #214: https://vertaix.princeton.edu/01-Adji-Bousso-Dieng.pdf
+2023-07-06 17:44:14,339 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.utexas.edu/~huangqx/Qixing_Huang_CV.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECE0QAg&usg=AOvVaw1D3q3Ka-x3m9CSkiFt2RKQ
+2023-07-06 17:44:14,340 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.utexas.edu/~huangqx/Qixing_Huang_CV.pdf
+2023-07-06 17:44:14,340 [MainThread  ] [INFO] Found unique URL #215: https://www.cs.utexas.edu/~huangqx/Qixing_Huang_CV.pdf
+2023-07-06 17:44:14,340 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://par.nsf.gov/servlets/purl/10223667&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFEQAg&usg=AOvVaw2HLoNRx8KNOGjJK4_NTY0z
+2023-07-06 17:44:14,341 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://par.nsf.gov/servlets/purl/10223667
+2023-07-06 17:44:14,343 [MainThread  ] [INFO] Found unique URL #216: https://par.nsf.gov/servlets/purl/10223667
+2023-07-06 17:44:14,343 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2105.04727&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECFAQAg&usg=AOvVaw2R9u9WpRJ0h7p_fOoLWdb6
+2023-07-06 17:44:14,343 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2105.04727
+2023-07-06 17:44:14,343 [MainThread  ] [INFO] Found unique URL #217: https://arxiv.org/pdf/2105.04727
+2023-07-06 17:44:14,343 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.ndsu.edu/fileadmin/coe/College_Happenings_Archive/2021/College_Happenings_August_3__2021.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECE8QAg&usg=AOvVaw0zCWftlNjenczbPLQXEyjk
+2023-07-06 17:44:14,343 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.ndsu.edu/fileadmin/coe/College_Happenings_Archive/2021/College_Happenings_August_3__2021.pdf
+2023-07-06 17:44:14,343 [MainThread  ] [INFO] Found unique URL #218: https://www.ndsu.edu/fileadmin/coe/College_Happenings_Archive/2021/College_Happenings_August_3__2021.pdf
+2023-07-06 17:44:14,343 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://jessyli.com/files/jessyli-cv.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEwQAg&usg=AOvVaw09mYklTCbnXrDRI8b5iGNu
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://jessyli.com/files/jessyli-cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [INFO] Found unique URL #219: https://jessyli.com/files/jessyli-cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://learningatscale.acm.org/las2022/wp-content/uploads/2022/05/LS_2022_paper_101-3.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEoQAg&usg=AOvVaw2ZWxyrvJduVc1seVlb-ebo
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://learningatscale.acm.org/las2022/wp-content/uploads/2022/05/LS_2022_paper_101-3.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [INFO] Found unique URL #220: https://learningatscale.acm.org/las2022/wp-content/uploads/2022/05/LS_2022_paper_101-3.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://beleiciabullock.com/cv.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEkQAg&usg=AOvVaw2L2393VBRUmnUfnPaWqhZo
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://beleiciabullock.com/cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [INFO] Found unique URL #221: https://beleiciabullock.com/cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://people.eecs.berkeley.edu/~minilek/cv.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEsQAg&usg=AOvVaw3NipTqDYzqDm5yspxe-VvW
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://people.eecs.berkeley.edu/~minilek/cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [INFO] Found unique URL #222: https://people.eecs.berkeley.edu/~minilek/cv.pdf
+2023-07-06 17:44:14,344 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.comp.nus.edu.sg/~umathur/papers/sync-preserving-race-popl2021.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEcQAg&usg=AOvVaw1-ic3d4wc5nPnysvBirz19
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.comp.nus.edu.sg/~umathur/papers/sync-preserving-race-popl2021.pdf
+2023-07-06 17:44:14,345 [MainThread  ] [INFO] Found unique URL #223: https://www.comp.nus.edu.sg/~umathur/papers/sync-preserving-race-popl2021.pdf
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://biophysics.illinois.edu/files/2021-2022_BIOP_Handbook.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEgQAg&usg=AOvVaw0F7k1-XbASe83hFQUDOmVj
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://biophysics.illinois.edu/files/2021-2022_BIOP_Handbook.pdf
+2023-07-06 17:44:14,345 [MainThread  ] [INFO] Found unique URL #224: https://biophysics.illinois.edu/files/2021-2022_BIOP_Handbook.pdf
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2302.02092&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEUQAg&usg=AOvVaw3dxsS4L8a8iRJS--PvfAWP
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2302.02092
+2023-07-06 17:44:14,345 [MainThread  ] [INFO] Found unique URL #225: https://arxiv.org/pdf/2302.02092
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2106.03632&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEYQAg&usg=AOvVaw3fPBQupl8G-Bi617evIGvF
+2023-07-06 17:44:14,345 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2106.03632
+2023-07-06 17:44:14,345 [MainThread  ] [INFO] Found unique URL #226: https://arxiv.org/pdf/2106.03632
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://sahilmodi.dev/res/resume.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEQQAg&usg=AOvVaw2W5tDjXadzhCJHRNxQSRDx
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://sahilmodi.dev/res/resume.pdf
+2023-07-06 17:44:14,346 [MainThread  ] [INFO] Found unique URL #227: https://sahilmodi.dev/res/resume.pdf
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ieeexplore.ieee.org/iel7/13/9857757/09682432.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEMQAg&usg=AOvVaw3vYRbM_TdNug99nFmvHeSC
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ieeexplore.ieee.org/iel7/13/9857757/09682432.pdf
+2023-07-06 17:44:14,346 [MainThread  ] [INFO] Found unique URL #228: https://ieeexplore.ieee.org/iel7/13/9857757/09682432.pdf
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://jiank2.web.illinois.edu/files/kdd22/kang22algorithmic.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEIQAg&usg=AOvVaw3WZmEmH0bGEU6rz_yunSPZ
+2023-07-06 17:44:14,346 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://jiank2.web.illinois.edu/files/kdd22/kang22algorithmic.pdf
+2023-07-06 17:44:14,346 [MainThread  ] [INFO] Found unique URL #229: http://jiank2.web.illinois.edu/files/kdd22/kang22algorithmic.pdf
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2004.01106&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEEQAg&usg=AOvVaw0sCck3zI7qkc-9kpmwSCEn
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2004.01106
+2023-07-06 17:44:14,347 [MainThread  ] [INFO] Found unique URL #230: https://arxiv.org/pdf/2004.01106
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2104.07072&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECEAQAg&usg=AOvVaw1alotx7I1g3eP2BmR3ZVxe
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2104.07072
+2023-07-06 17:44:14,347 [MainThread  ] [INFO] Found unique URL #231: https://arxiv.org/pdf/2104.07072
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2104.04848&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECD0QAg&usg=AOvVaw3p6Qp_aukzW2PK7acifYcq
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2104.04848
+2023-07-06 17:44:14,347 [MainThread  ] [INFO] Found unique URL #232: https://arxiv.org/pdf/2104.04848
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2101.01896&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECD4QAg&usg=AOvVaw3LJ4RyKFyz3dy7xEAvgzPC
+2023-07-06 17:44:14,347 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2101.01896
+2023-07-06 17:44:14,347 [MainThread  ] [INFO] Found unique URL #233: https://arxiv.org/pdf/2101.01896
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://nyuad.nyu.edu/content/dam/nyuad/faculty/social-science/bedoor-alshebli/bedoor-alshebli-cv-2023.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECD8QAg&usg=AOvVaw0o423SiNgOPn0QqQZmVU_m
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://nyuad.nyu.edu/content/dam/nyuad/faculty/social-science/bedoor-alshebli/bedoor-alshebli-cv-2023.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [INFO] Found unique URL #234: https://nyuad.nyu.edu/content/dam/nyuad/faculty/social-science/bedoor-alshebli/bedoor-alshebli-cv-2023.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.iitk.ac.in/doaa/DOAA/PG_Information_Brochure_Jul_2021.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDkQAg&usg=AOvVaw3EVfT5Pc_lEj_x9wlfez5G
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.iitk.ac.in/doaa/DOAA/PG_Information_Brochure_Jul_2021.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [INFO] Found unique URL #235: https://www.iitk.ac.in/doaa/DOAA/PG_Information_Brochure_Jul_2021.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://blender.cs.illinois.edu/paper/factualerrorcorrection2023.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDgQAg&usg=AOvVaw1KorWd_SI49kLsEU6auGYq
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://blender.cs.illinois.edu/paper/factualerrorcorrection2023.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [INFO] Found unique URL #236: https://blender.cs.illinois.edu/paper/factualerrorcorrection2023.pdf
+2023-07-06 17:44:14,348 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.cs.ubc.ca/~rtholmes/papers/splash-e_2021_hall.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDoQAg&usg=AOvVaw1I3ccGgfWyKFzQYpypc4Wa
+2023-07-06 17:44:14,349 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.cs.ubc.ca/~rtholmes/papers/splash-e_2021_hall.pdf
+2023-07-06 17:44:14,349 [MainThread  ] [INFO] Found unique URL #237: https://www.cs.ubc.ca/~rtholmes/papers/splash-e_2021_hall.pdf
+2023-07-06 17:44:14,349 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://par.nsf.gov/servlets/purl/10172972&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDsQAg&usg=AOvVaw1TtQNJWP2Cr6Jp_irsBV4O
+2023-07-06 17:44:14,349 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://par.nsf.gov/servlets/purl/10172972
+2023-07-06 17:44:14,349 [MainThread  ] [INFO] Found unique URL #238: https://par.nsf.gov/servlets/purl/10172972
+2023-07-06 17:44:14,349 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://pnigel.com/papers/bosch-CV.pdf%3F7142&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDwQAg&usg=AOvVaw2u_4FRS32-pdFXMOLpOu5x
+2023-07-06 17:44:14,350 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://pnigel.com/papers/bosch-CV.pdf?7142
+2023-07-06 17:44:14,350 [MainThread  ] [INFO] Found unique URL #239: https://pnigel.com/papers/bosch-CV.pdf?7142
+2023-07-06 17:44:14,350 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ggndpsngh.github.io/files/reward.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDUQAg&usg=AOvVaw1CBPa_lUlNClQF3Ct2dOv5
+2023-07-06 17:44:14,351 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ggndpsngh.github.io/files/reward.pdf
+2023-07-06 17:44:14,351 [MainThread  ] [INFO] Found unique URL #240: https://ggndpsngh.github.io/files/reward.pdf
+2023-07-06 17:44:14,351 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24535&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDcQAg&usg=AOvVaw2JyEivVjvpRWpjYGNdL43N
+2023-07-06 17:44:14,351 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24535
+2023-07-06 17:44:14,351 [MainThread  ] [INFO] Found unique URL #241: https://asistdl.onlinelibrary.wiley.com/doi/pdf/10.1002/asi.24535
+2023-07-06 17:44:14,352 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2212.10403&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDYQAg&usg=AOvVaw0A7iruP2m16GCTy-E5C9lO
+2023-07-06 17:44:14,352 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2212.10403
+2023-07-06 17:44:14,352 [MainThread  ] [INFO] Found unique URL #242: https://arxiv.org/pdf/2212.10403
+2023-07-06 17:44:14,353 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2211.05345&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDQQAg&usg=AOvVaw0T-V8lusYCFJ2ackwcFu2Q
+2023-07-06 17:44:14,353 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2211.05345
+2023-07-06 17:44:14,353 [MainThread  ] [INFO] Found unique URL #243: https://arxiv.org/pdf/2211.05345
+2023-07-06 17:44:14,353 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://xinyadu.github.io/files/CV_Xinya.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDIQAg&usg=AOvVaw2rnWHzxILC6v9dLkxocZZV
+2023-07-06 17:44:14,354 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://xinyadu.github.io/files/CV_Xinya.pdf
+2023-07-06 17:44:14,354 [MainThread  ] [INFO] Found unique URL #244: https://xinyadu.github.io/files/CV_Xinya.pdf
+2023-07-06 17:44:14,354 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap05.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDEQAg&usg=AOvVaw0Y2O_mkQXCBE8xk7TDPDVl
+2023-07-06 17:44:14,354 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap05.pdf
+2023-07-06 17:44:14,355 [MainThread  ] [INFO] Found unique URL #245: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap05.pdf
+2023-07-06 17:44:14,355 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://drshika.me/assets/css/files/asher_drshika_resume.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDMQAg&usg=AOvVaw232EP9g_Yc7LmGD_cf4a14
+2023-07-06 17:44:14,355 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://drshika.me/assets/css/files/asher_drshika_resume.pdf
+2023-07-06 17:44:14,355 [MainThread  ] [INFO] Found unique URL #246: https://drshika.me/assets/css/files/asher_drshika_resume.pdf
+2023-07-06 17:44:14,356 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hjdo.cs.illinois.edu/paper/iui21.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECDAQAg&usg=AOvVaw3ItZwLj1VQjd-N-4giig89
+2023-07-06 17:44:14,356 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hjdo.cs.illinois.edu/paper/iui21.pdf
+2023-07-06 17:44:14,356 [MainThread  ] [INFO] Found unique URL #247: http://hjdo.cs.illinois.edu/paper/iui21.pdf
+2023-07-06 17:44:14,356 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://alawini.web.illinois.edu/wp-content/uploads/2021/12/34829.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECC8QAg&usg=AOvVaw231dPvxgg6yfihOgAcWLrX
+2023-07-06 17:44:14,356 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://alawini.web.illinois.edu/wp-content/uploads/2021/12/34829.pdf
+2023-07-06 17:44:14,357 [MainThread  ] [INFO] Found unique URL #248: https://alawini.web.illinois.edu/wp-content/uploads/2021/12/34829.pdf
+2023-07-06 17:44:14,358 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://charm.cs.illinois.edu/newPapers/22-04/charm4py.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECC0QAg&usg=AOvVaw241fNL1KfYN-khGVcAT3jH
+2023-07-06 17:44:14,358 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://charm.cs.illinois.edu/newPapers/22-04/charm4py.pdf
+2023-07-06 17:44:14,359 [MainThread  ] [INFO] Found unique URL #249: http://charm.cs.illinois.edu/newPapers/22-04/charm4py.pdf
+2023-07-06 17:44:14,359 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2212.07473&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECC4QAg&usg=AOvVaw0cWK3wca5OglhsVUm81mwI
+2023-07-06 17:44:14,359 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2212.07473
+2023-07-06 17:44:14,360 [MainThread  ] [INFO] Found unique URL #250: https://arxiv.org/pdf/2212.07473
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2305.19187&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCwQAg&usg=AOvVaw2xH3fmhFWwyR-1htKOM5fa
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2305.19187
+2023-07-06 17:44:14,361 [MainThread  ] [INFO] Found unique URL #251: https://arxiv.org/pdf/2305.19187
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2011.14211&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCsQAg&usg=AOvVaw0rWjhL8CjpTwQSxYlE5a99
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2011.14211
+2023-07-06 17:44:14,361 [MainThread  ] [INFO] Found unique URL #252: https://arxiv.org/pdf/2011.14211
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2301.08714&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCoQAg&usg=AOvVaw28njPi_GUBGsvrje6cszmD
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2301.08714
+2023-07-06 17:44:14,361 [MainThread  ] [INFO] Found unique URL #253: https://arxiv.org/pdf/2301.08714
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2010.01898&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCkQAg&usg=AOvVaw3B-62jT9zAxg2EKWQhV4OJ
+2023-07-06 17:44:14,361 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2010.01898
+2023-07-06 17:44:14,362 [MainThread  ] [INFO] Found unique URL #254: https://arxiv.org/pdf/2010.01898
+2023-07-06 17:44:14,362 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2012.15022&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCMQAg&usg=AOvVaw0koOu6dQnhxANiZSRH3KWD
+2023-07-06 17:44:14,362 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2012.15022
+2023-07-06 17:44:14,362 [MainThread  ] [INFO] Found unique URL #255: https://arxiv.org/pdf/2012.15022
+2023-07-06 17:44:14,362 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://astro.illinois.edu/sites/default/files/cv/GauthamNarayan_CV_6.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCEQAg&usg=AOvVaw3lxb8w4bwoUnyiIEVmQhVE
+2023-07-06 17:44:14,362 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://astro.illinois.edu/sites/default/files/cv/GauthamNarayan_CV_6.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [INFO] Found unique URL #256: https://astro.illinois.edu/sites/default/files/cv/GauthamNarayan_CV_6.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://limanling.github.io/uploads/TeachingStatement_ManlingLi.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCQQAg&usg=AOvVaw20enk6qzi8TEN5lbDyjNmd
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://limanling.github.io/uploads/TeachingStatement_ManlingLi.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [INFO] Found unique URL #257: https://limanling.github.io/uploads/TeachingStatement_ManlingLi.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap07.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCIQAg&usg=AOvVaw2ZLMeIbhU-Br1foTrwWldA
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap07.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [INFO] Found unique URL #258: https://relate.cs.illinois.edu/course/cs450-s23/f/lectures/heath/chap07.pdf
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://old.amu.ac.in/emp/studym/99998830..pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCUQAg&usg=AOvVaw0dOLzsHzBTpmN1Vy1wIUjW
+2023-07-06 17:44:14,363 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://old.amu.ac.in/emp/studym/99998830..pdf
+2023-07-06 17:44:14,364 [MainThread  ] [INFO] Found unique URL #259: https://old.amu.ac.in/emp/studym/99998830..pdf
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.sciencedirect.com/science/article/am/pii/S0304397518305711&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCgQAg&usg=AOvVaw3PKHK-nG3huuej1IGy3gqD
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.sciencedirect.com/science/article/am/pii/S0304397518305711
+2023-07-06 17:44:14,364 [MainThread  ] [INFO] Found unique URL #260: https://www.sciencedirect.com/science/article/am/pii/S0304397518305711
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://bera-journals.onlinelibrary.wiley.com/doi/am-pdf/10.1111/bjet.13072&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCcQAg&usg=AOvVaw1TvvXAQj_7pWcR14SHAmlK
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://bera-journals.onlinelibrary.wiley.com/doi/am-pdf/10.1111/bjet.13072
+2023-07-06 17:44:14,364 [MainThread  ] [INFO] Found unique URL #261: https://bera-journals.onlinelibrary.wiley.com/doi/am-pdf/10.1111/bjet.13072
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2010.09913&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCYQAg&usg=AOvVaw3jeFxDCJfNkaTKbz2cq-bm
+2023-07-06 17:44:14,364 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2010.09913
+2023-07-06 17:44:14,365 [MainThread  ] [INFO] Found unique URL #262: https://arxiv.org/pdf/2010.09913
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2208.06956&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECCAQAg&usg=AOvVaw3c_hdmUlNKKHx13Mm4XQI6
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2208.06956
+2023-07-06 17:44:14,365 [MainThread  ] [INFO] Found unique URL #263: https://arxiv.org/pdf/2208.06956
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://chekuri.cs.illinois.edu/papers/densest-subgraph-soda22.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECB4QAg&usg=AOvVaw1z661f-CZc5CcEu1BjHinA
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://chekuri.cs.illinois.edu/papers/densest-subgraph-soda22.pdf
+2023-07-06 17:44:14,365 [MainThread  ] [INFO] Found unique URL #264: https://chekuri.cs.illinois.edu/papers/densest-subgraph-soda22.pdf
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://sundaram.cs.illinois.edu/pubs/2021/2021_han_fashion.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECB8QAg&usg=AOvVaw3DY_UK0sK9ua49Rt5tgsFY
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://sundaram.cs.illinois.edu/pubs/2021/2021_han_fashion.pdf
+2023-07-06 17:44:14,365 [MainThread  ] [INFO] Found unique URL #265: http://sundaram.cs.illinois.edu/pubs/2021/2021_han_fashion.pdf
+2023-07-06 17:44:14,365 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/8/175/files/2023/02/TusharKrishna_CV.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBwQAg&usg=AOvVaw1NZskfr_skun0joHmRM9Ur
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/8/175/files/2023/02/TusharKrishna_CV.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [INFO] Found unique URL #266: https://bpb-us-w2.wpmucdn.com/sites.gatech.edu/dist/8/175/files/2023/02/TusharKrishna_CV.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://dl.acm.org/doi/pdf/10.1145/3485447.3511935&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBsQAg&usg=AOvVaw2Bd_dQ_wZeqrcqUUDQ9JMm
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://dl.acm.org/doi/pdf/10.1145/3485447.3511935
+2023-07-06 17:44:14,366 [MainThread  ] [INFO] Found unique URL #267: https://dl.acm.org/doi/pdf/10.1145/3485447.3511935
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://files.eric.ed.gov/fulltext/ED623031.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECB0QAg&usg=AOvVaw2rT_7U9OUgrLvCYevzIbWc
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://files.eric.ed.gov/fulltext/ED623031.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [INFO] Found unique URL #268: https://files.eric.ed.gov/fulltext/ED623031.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://hanj.cs.illinois.edu/pdf/www20_jshen.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBcQAg&usg=AOvVaw2PYuMSqkMA9_LHlHVg5ZQE
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://hanj.cs.illinois.edu/pdf/www20_jshen.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [INFO] Found unique URL #269: http://hanj.cs.illinois.edu/pdf/www20_jshen.pdf
+2023-07-06 17:44:14,366 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://www.sciencedirect.com/science/article/pii/S1571066120300402/pdf%3Fmd5%3D16cf52ef00eb8d3029a75860dacbc1dd%26pid%3D1-s2.0-S1571066120300402-main.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBoQAg&usg=AOvVaw0jBG1m04u6DePf_hUSaSwo
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://www.sciencedirect.com/science/article/pii/S1571066120300402/pdf?md5=16cf52ef00eb8d3029a75860dacbc1dd&pid=1-s2.0-S1571066120300402-main.pdf
+2023-07-06 17:44:14,367 [MainThread  ] [INFO] Found unique URL #270: https://www.sciencedirect.com/science/article/pii/S1571066120300402/pdf?md5=16cf52ef00eb8d3029a75860dacbc1dd&pid=1-s2.0-S1571066120300402-main.pdf
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2205.12452&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBkQAg&usg=AOvVaw3aXcxH91FYAAhT3XBTpVPD
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2205.12452
+2023-07-06 17:44:14,367 [MainThread  ] [INFO] Found unique URL #271: https://arxiv.org/pdf/2205.12452
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2105.07596&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBgQAg&usg=AOvVaw2qEvns2OBUNxbTiPoY4InC
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2105.07596
+2023-07-06 17:44:14,367 [MainThread  ] [INFO] Found unique URL #272: https://arxiv.org/pdf/2105.07596
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2202.04538&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBYQAg&usg=AOvVaw2B_6-LujKu-X8YpjFHxuBq
+2023-07-06 17:44:14,367 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2202.04538
+2023-07-06 17:44:14,368 [MainThread  ] [INFO] Found unique URL #273: https://arxiv.org/pdf/2202.04538
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2205.06604&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBUQAg&usg=AOvVaw2p7n2kN1c_cWmCzJ9IwmWe
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2205.06604
+2023-07-06 17:44:14,368 [MainThread  ] [INFO] Found unique URL #274: https://arxiv.org/pdf/2205.06604
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2209.14569&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBQQAg&usg=AOvVaw3g-PrFKRbpROjLCGHsuaG7
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2209.14569
+2023-07-06 17:44:14,368 [MainThread  ] [INFO] Found unique URL #275: https://arxiv.org/pdf/2209.14569
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/1804.03166&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBMQAg&usg=AOvVaw2cLJq5ZBZhHKWEN1BVv4wj
+2023-07-06 17:44:14,368 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/1804.03166
+2023-07-06 17:44:14,369 [MainThread  ] [INFO] Found unique URL #276: https://arxiv.org/pdf/1804.03166
+2023-07-06 17:44:14,369 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2112.10199&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBIQAg&usg=AOvVaw17pISvR3aknozcAHuUOjBa
+2023-07-06 17:44:14,369 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2112.10199
+2023-07-06 17:44:14,369 [MainThread  ] [INFO] Found unique URL #277: https://arxiv.org/pdf/2112.10199
+2023-07-06 17:44:14,369 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://homes.cs.washington.edu/~beame/papers/edge_est.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBEQAg&usg=AOvVaw0QUmRzHB4hLbDOo7IyeISC
+2023-07-06 17:44:14,369 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://homes.cs.washington.edu/~beame/papers/edge_est.pdf
+2023-07-06 17:44:14,369 [MainThread  ] [INFO] Found unique URL #278: https://homes.cs.washington.edu/~beame/papers/edge_est.pdf
+2023-07-06 17:44:14,369 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://vishalsriram.com/Vishal%2520Sriram%2520Resume.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECA8QAg&usg=AOvVaw3cphvYai7kcOaS9usKBY1G
+2023-07-06 17:44:14,370 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://vishalsriram.com/Vishal%20Sriram%20Resume.pdf
+2023-07-06 17:44:14,370 [MainThread  ] [INFO] Found unique URL #279: https://vishalsriram.com/Vishal%20Sriram%20Resume.pdf
+2023-07-06 17:44:14,370 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://par.nsf.gov/servlets/purl/10345068&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECA4QAg&usg=AOvVaw32xrhcPtpmxDQTSUYMF3zA
+2023-07-06 17:44:14,370 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://par.nsf.gov/servlets/purl/10345068
+2023-07-06 17:44:14,370 [MainThread  ] [INFO] Found unique URL #280: https://par.nsf.gov/servlets/purl/10345068
+2023-07-06 17:44:14,396 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2207.00611&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECBAQAg&usg=AOvVaw1Y4Jp8ajopSH6qD-VVS_4G
+2023-07-06 17:44:14,396 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2207.00611
+2023-07-06 17:44:14,397 [MainThread  ] [INFO] Found unique URL #281: https://arxiv.org/pdf/2207.00611
+2023-07-06 17:44:14,397 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2305.10314&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAwQAg&usg=AOvVaw2iC_0EDUmsteNYogEmmO2-
+2023-07-06 17:44:14,397 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2305.10314
+2023-07-06 17:44:14,397 [MainThread  ] [INFO] Found unique URL #282: https://arxiv.org/pdf/2305.10314
+2023-07-06 17:44:14,397 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2305.07982&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECA0QAg&usg=AOvVaw1xVJ9F5P2so6pr3YP_6XZO
+2023-07-06 17:44:14,397 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2305.07982
+2023-07-06 17:44:14,398 [MainThread  ] [INFO] Found unique URL #283: https://arxiv.org/pdf/2305.07982
+2023-07-06 17:44:14,398 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2210.04186&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAkQAg&usg=AOvVaw0RW4t7XjzlUv74OK6KMeP0
+2023-07-06 17:44:14,398 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2210.04186
+2023-07-06 17:44:14,398 [MainThread  ] [INFO] Found unique URL #284: https://arxiv.org/pdf/2210.04186
+2023-07-06 17:44:14,398 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2305.17387&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAoQAg&usg=AOvVaw0HjyKY39Ea3I2sio5cBCf_
+2023-07-06 17:44:14,398 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2305.17387
+2023-07-06 17:44:14,398 [MainThread  ] [INFO] Found unique URL #285: https://arxiv.org/pdf/2305.17387
+2023-07-06 17:44:14,398 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2011.06404&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAsQAg&usg=AOvVaw0XWylrv883y74trHf2OXGz
+2023-07-06 17:44:14,399 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2011.06404
+2023-07-06 17:44:14,399 [MainThread  ] [INFO] Found unique URL #286: https://arxiv.org/pdf/2011.06404
+2023-07-06 17:44:14,399 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://web.faa.illinois.edu/app/uploads/sites/2/2021/01/1982.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAIQAg&usg=AOvVaw18rc_QFgjv_NFtb8zcrRyB
+2023-07-06 17:44:14,399 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://web.faa.illinois.edu/app/uploads/sites/2/2021/01/1982.pdf
+2023-07-06 17:44:14,399 [MainThread  ] [INFO] Found unique URL #287: https://web.faa.illinois.edu/app/uploads/sites/2/2021/01/1982.pdf
+2023-07-06 17:44:14,399 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://drops.dagstuhl.de/opus/volltexte/2023/17809/pdf/dagrep_v012_i009_p041_22371.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAMQAg&usg=AOvVaw0bONw8y6DvvyR2M-GguHIY
+2023-07-06 17:44:14,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://drops.dagstuhl.de/opus/volltexte/2023/17809/pdf/dagrep_v012_i009_p041_22371.pdf
+2023-07-06 17:44:14,400 [MainThread  ] [INFO] Found unique URL #288: https://drops.dagstuhl.de/opus/volltexte/2023/17809/pdf/dagrep_v012_i009_p041_22371.pdf
+2023-07-06 17:44:14,400 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=http://web.eecs.utk.edu/~roffutt/presentations/infinite.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAcQAg&usg=AOvVaw1sElF_LsX98Z_vPEsqiCsv
+2023-07-06 17:44:14,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: http://web.eecs.utk.edu/~roffutt/presentations/infinite.pdf
+2023-07-06 17:44:14,400 [MainThread  ] [INFO] Found unique URL #289: http://web.eecs.utk.edu/~roffutt/presentations/infinite.pdf
+2023-07-06 17:44:14,400 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2202.09895&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAQQAg&usg=AOvVaw1UWo8YmaqvYtooSXjgkFrH
+2023-07-06 17:44:14,400 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2202.09895
+2023-07-06 17:44:14,400 [MainThread  ] [INFO] Found unique URL #290: https://arxiv.org/pdf/2202.09895
+2023-07-06 17:44:14,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://arxiv.org/pdf/2111.15537&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAYQAg&usg=AOvVaw22YDoeU9qGvS3svtiS9yEw
+2023-07-06 17:44:14,401 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://arxiv.org/pdf/2111.15537
+2023-07-06 17:44:14,401 [MainThread  ] [INFO] Found unique URL #291: https://arxiv.org/pdf/2111.15537
+2023-07-06 17:44:14,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://ira.asee.org/wp-content/uploads/2022/11/Engineering-and-Engineering-Technology-by-the-Numbers-2021.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAAQAg&usg=AOvVaw3wr1BKJ451Wg5DMwLiDtPr
+2023-07-06 17:44:14,401 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://ira.asee.org/wp-content/uploads/2022/11/Engineering-and-Engineering-Technology-by-the-Numbers-2021.pdf
+2023-07-06 17:44:14,401 [MainThread  ] [INFO] Found unique URL #292: https://ira.asee.org/wp-content/uploads/2022/11/Engineering-and-Engineering-Technology-by-the-Numbers-2021.pdf
+2023-07-06 17:44:14,401 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://catalog.uis.edu/pdf/University%2520of%2520Illinois%2520Springfield%25202023-2024.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAgQAg&usg=AOvVaw2Odn3mcElqIZbVMQurikaP
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://catalog.uis.edu/pdf/University%20of%20Illinois%20Springfield%202023-2024.pdf
+2023-07-06 17:44:14,402 [MainThread  ] [INFO] Found unique URL #293: https://catalog.uis.edu/pdf/University%20of%20Illinois%20Springfield%202023-2024.pdf
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://precog.iiit.ac.in/assets/PK_CV/PK_CV_Jan_2023.pdf&sa=U&ved=2ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQFnoECAEQAg&usg=AOvVaw0CvsMc4IIihQ3uChW-ROhE
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: https://precog.iiit.ac.in/assets/PK_CV/PK_CV_Jan_2023.pdf
+2023-07-06 17:44:14,402 [MainThread  ] [INFO] Found unique URL #294: https://precog.iiit.ac.in/assets/PK_CV/PK_CV_Jan_2023.pdf
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=ocmmZKqhE-_d1sQP5P-nyAQ&start=0&sa=N&filter=0
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=ocmmZKqhE-_d1sQP5P-nyAQ&start=0&sa=N&filter=0
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,402 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=ocmmZKqhE-_d1sQP5P-nyAQ&start=100&sa=N&filter=0
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=ocmmZKqhE-_d1sQP5P-nyAQ&start=100&sa=N&filter=0
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: #
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: #
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&sa=U&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQty4I6AM&usg=AOvVaw1bsmUYAHwd9hgBr6nCIkqY
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en-IN
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,403 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526q%253Dfiletype:pdf%252BUniv.%252Bof%252BIllinois%252Bat%252BUrbana-Champaign%252BCS%252BComputer%252BScience%2526start%253D200%2526num%253D100%2526tbs%253Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&sa=U&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQxs8CCOkD&usg=AOvVaw28J8Te23rrADxVGDQvXlHU
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26q%3Dfiletype:pdf%2BUniv.%2Bof%2BIllinois%2Bat%2BUrbana-Champaign%2BCS%2BComputer%2BScience%26start%3D200%26num%3D100%26tbs%3Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQv5YECOoD
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwjq9YbRn_r_AhXvrpUCHeT_CUk4yAEQv5YECOoD
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,404 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:14,405 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:14,405 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,405 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:14,406 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:14,406 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:14,406 [MainThread  ] [INFO] Sleeping 11 seconds until retrieving the next page of results...
+2023-07-06 17:44:25,530 [MainThread  ] [INFO] Stats: start=300, num=100, total_valid_links_found=294 / max_search_result_urls_to_return=1000
+2023-07-06 17:44:25,531 [MainThread  ] [INFO] Requesting URL: https://www.google.com/search?hl=en&q=filetype%3Apdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&start=300&num=100&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&safe=off&cr=&filter=0
+2023-07-06 17:44:27,132 [MainThread  ] [DEBUG]     status_code: 200
+2023-07-06 17:44:27,132 [MainThread  ] [DEBUG]     headers: {'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.8 (KHTML, like Gecko) Chrome/7.0.521.0 Safari/534.8'}
+2023-07-06 17:44:27,132 [MainThread  ] [DEBUG]     cookies: <RequestsCookieJar[<Cookie 1P_JAR=2023-07-06-14 for .google.com/>, <Cookie AEC=Ad49MVG1waLCMNrJ662Wd3wGK8tKxFT3a90CGrIbkcB8noW5Ikj6GODfdwg for .google.com/>]>
+2023-07-06 17:44:27,132 [MainThread  ] [DEBUG]     proxy: 
+2023-07-06 17:44:27,133 [MainThread  ] [DEBUG]     verify_ssl: True
+2023-07-06 17:44:27,140 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /?start=300&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQPAgC
+2023-07-06 17:44:27,141 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /?start=300&num=100&safe=off&hl=en&output=search&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQPAgC
+2023-07-06 17:44:27,141 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,141 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBSgB
+2023-07-06 17:44:27,141 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBSgB
+2023-07-06 17:44:27,141 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,142 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBigC
+2023-07-06 17:44:27,142 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=nws&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBigC
+2023-07-06 17:44:27,142 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,142 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBygD
+2023-07-06 17:44:27,142 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&source=lnms&tbm=vid&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQ_AUIBygD
+2023-07-06 17:44:27,145 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?start=300&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQBXoECAEQAQ
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?start=300&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&q=filetype:pdf+University.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&spell=1&sa=X&ved=2ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQBXoECAEQAQ
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=rcmmZMLYF9Ta1sQPy5-O4AM&start=0&sa=N&filter=0
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=rcmmZMLYF9Ta1sQPy5-O4AM&start=0&sa=N&filter=0
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=rcmmZMLYF9Ta1sQPy5-O4AM&start=200&sa=N&filter=0
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: /search?q=filetype:pdf+Univ.+of+Illinois+at+Urbana-Champaign+CS+Computer+Science&num=100&safe=off&hl=en&tbs=cdr:1,cd_min:08/31/2020,cd_max:06/02/2023&ei=rcmmZMLYF9Ta1sQPy5-O4AM&start=200&sa=N&filter=0
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,146 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: #
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] Excluding URL because it does not contain a urllib.parse.urlparse netloc value: #
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://support.google.com/websearch%3Fp%3Dws_settings_location%26hl%3Den-IN&sa=U&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQty4IDg&usg=AOvVaw0q0weeBIJAKZdz5o1luqWI
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://support.google.com/websearch?p=ws_settings_location&hl=en-IN
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: /url?q=https://accounts.google.com/ServiceLogin%3Fcontinue%3Dhttps://www.google.com/search%253Fhl%253Den%2526q%253Dfiletype:pdf%252BUniv.%252Bof%252BIllinois%252Bat%252BUrbana-Champaign%252BCS%252BComputer%252BScience%2526start%253D300%2526num%253D100%2526tbs%253Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%2526safe%253Doff%2526cr%253D%2526filter%253D0%26hl%3Den&sa=U&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQxs8CCA8&usg=AOvVaw1EdiZMxN-jO6UplrLCgv32
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://accounts.google.com/ServiceLogin?continue=https://www.google.com/search%3Fhl%3Den%26q%3Dfiletype:pdf%2BUniv.%2Bof%2BIllinois%2Bat%2BUrbana-Champaign%2BCS%2BComputer%2BScience%26start%3D300%26num%3D100%26tbs%3Dcdr:1,cd_min:08/31/2020,cd_max:06/02/2023%26safe%3Doff%26cr%3D%26filter%3D0&hl=en
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,147 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQv5YECBA
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/preferences?hl=en&sa=X&ved=0ahUKEwiC4-fWn_r_AhVUrZUCHcuPAzw4rAIQv5YECBA
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/privacy/
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] pre filter_search_result_urls() link: https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] Excluding URL because it contains "google": https://www.google.com/intl/en_in/policies/terms/
+2023-07-06 17:44:27,148 [MainThread  ] [DEBUG] post filter_search_result_urls() link: None
+2023-07-06 17:44:27,148 [MainThread  ] [INFO] No valid search results found on this page.  Moving on...
