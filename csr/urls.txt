@@ -1,0 +1,1724 @@
+[
+    {
+        "rank": 1,
+        "title": "[PDF] Site electrical engineer interview questions and answers pdf  static1.squarespace.com › static › site_electrical_engineer_interview_q...",
+        "description": "20-May-2023  ·  Here are the most asked basic to advanced Electrical Engineering interview questions and answers for freshers as well as experienced Electrical Engineer ...",
+        "url": "https://static1.squarespace.com/static/6454d906dda45808abaa19f4/t/64611f5454cc5a622b5b1e9e/1684086631883/site_electrical_engineer_interview_questions_and_answers.pdf"
+    },
+    {
+        "rank": 2,
+        "title": "[PDF] Basic electrical engineering technical interview questions  static1.squarespace.com › static",
+        "description": "09-Aug-2021  ·  We've compiled a list of some of the most common electrical engineering interview questions, with dynamic responses to help guide you before the big day.",
+        "url": "https://static1.squarespace.com/static/649030390f860359c2ef94b7/t/649639c6d47317593ee38d77/1687566791353/92131559131.pdf"
+    },
+    {
+        "rank": 3,
+        "title": "[PDF] Electrical Power Engineering Interview Questions Answers - GNIMS  mdp.gnims.edu.in › viewcontent › FileName=Electrical Power Engine...",
+        "description": "26-Sept-2020  ·  Top Job Interview Questions For Engineers | Hard Job Interview Questions And Answers Interview Questions and Answers for Electrical Engineer ENGINEERING ...",
+        "url": "https://mdp.gnims.edu.in/viewcontent?dataid=53722&FileName=Electrical%20Power%20Engineering%20Interview%20Questions%20Answers.pdf"
+    },
+    {
+        "rank": 4,
+        "title": "[PDF] Basic Electrical Engineering  klsvdit.edu.in › wp-content › uploads › 2022/03 › 21ELE13-Basic-El...",
+        "description": "21-Mar-2022  ·  Subject Title: Basic Electrical Engineering. TIME: 03 Hours ... Answer any FIVE full questions, choosing at least ONE question from each MODULE.",
+        "url": "https://klsvdit.edu.in/wp-content/uploads/2022/03/21ELE13-Basic-Electrical-Engineering-VTU-Question-Paper-Solution.pdf"
+    },
+    {
+        "rank": 5,
+        "title": "[PDF] Subjective questions on MET-05  nr.indianrailways.gov.in › cris › uploads › files › 1616403265097-Su...",
+        "description": "31-Mar-2021  ·  Subjective questions on MET-05. Q1.What do you understand by electricity? What are the various types of electricity used for power applications?",
+        "url": "https://nr.indianrailways.gov.in/cris//uploads/files/1616403265097-Subjective%20questions%20on%20Electrical%20Engineering%20MET-05.pdf"
+    },
+    {
+        "rank": 6,
+        "title": "[PDF] BASIC ELECTRICAL ENGINEERING  www.griet.ac.in › nodes › BEEE",
+        "description": "24-Aug-2022  ·  Know the fundamental of Electrical Engineering and practical. ... Two marks questions: 1. What are the different type of alternative signals and draw them.",
+        "url": "https://www.griet.ac.in/nodes/BEEE.pdf"
+    },
+    {
+        "rank": 7,
+        "title": "[PDF] BASIC ELECTRICAL ENGINEERING - mrcet.ac.in  mrcet.com › downloads › digital_notes › Basic Electrical Engineering ...",
+        "description": "07-Dec-2020  ·  Objectives: 1. To understand the basic concepts of electrical circuits & networks and their analysis which is the foundation for all the subjects in the ...",
+        "url": "https://mrcet.com/downloads/digital_notes/HS/Basic%20Electrical%20Engineering%20R-20.pdf"
+    },
+    {
+        "rank": 8,
+        "title": "[PDF] 22212-Fundamentals-of-Electrical-Engineering-sample-question ...  msbte.engg-info.website › sites › default › files › 22212-Fundamental...",
+        "description": "26-Jan-2021  ·  Sample Question Paper. Program Name. : Electrical Engineering Program Group ... (2) Illustrate your answers with neat sketches wherever necessary.",
+        "url": "https://msbte.engg-info.website/sites/default/files/sem%20ii%20sample%20qp/22212-Fundamentals-of-Electrical-Engineering-sample-question-paper.pdf"
+    },
+    {
+        "rank": 9,
+        "title": "[PDF] 2. Basic Electrical Engineering  acem.edu.np › userfiles › files › Faculty Wise questions › BEL › Basic...",
+        "description": "05-Jul-2021  ·  Subject: - Basic Electrical Engineering (EE 401). ✓ Candidates are required to give their answers in their own words as far as ... Attempt All questions.",
+        "url": "https://acem.edu.np/uploads/userfiles/files/Faculty%20Wise%20questions/BEL/BEL%20I/Basic%20Electrical%20Engineering.pdf"
+    },
+    {
+        "rank": 10,
+        "title": "[PDF] Electrical Engineering Paper - II - UPSC  www.upsc.gov.in › sites › default › files › ElecEngg_II_28062022",
+        "description": "28-Jun-2022  ·  Wherever any assumptions are made for answering a question, they must be clearly indicated. Diagrams/Figures, wherever required, shall be drawn in the space ...",
+        "url": "https://www.upsc.gov.in/sites/default/files/ElecEngg_II_28062022.pdf"
+    },
+    {
+        "rank": 11,
+        "title": "[PDF] QUESTION BANK FOR The post of JUNIOR ENGINEER under PR ...  scr.indianrailways.gov.in › cris › uploads › files",
+        "description": "25-Nov-2020  ·  B) ELECTRICAL ENGINEERING BASICS OBJECTIVE QUESTIONS WITH ANSWERS. [1] Electrostatics is a branch of electricity concerned with.",
+        "url": "https://scr.indianrailways.gov.in/cris//uploads/files/1606283321988-TRD%20question%20bank%20JETRDBZAPRQUOTA.pdf"
+    },
+    {
+        "rank": 12,
+        "title": "[PDF] OBJECTIVE QUESTION BANK FOR GENERAL SERVICES OF JE  scr.indianrailways.gov.in › uploads › files › 1603784381503-Objecti...",
+        "description": "01-Nov-2022  ·  GENERAL ELECTRICAL ENGINEERING ... In 4 wire electric circuit, the black conductor is used for ... Questions and Answers on Rajbhasha for Departmental.",
+        "url": "https://scr.indianrailways.gov.in/uploads/files/1603784381503-Objective_type_question_bank_for_JE_Electrical_LDCE_quota_LGD_Modified.pdf"
+    },
+    {
+        "rank": 13,
+        "title": "[PDF] 19EE0239-Basic Electrical Engineering - QUESTION BANK  www.sietk.org › downloads › 19EE0239-Basic Electrical Engineering",
+        "description": "04-Jan-2021  ·  QUESTION BANK (DESCRIPTIVE). Subject with Code: Basic Electrical Engineering(19EE0239) Year &Sem: I -B.Tech& II-Sem. Course & Branch: B.Tech & ECE.",
+        "url": "http://www.sietk.org/downloads/QB-2/I%20B.Tech%20II%20Sem%20R19/19EE0239-Basic%20Electrical%20Engineering.pdf"
+    },
+    {
+        "rank": 14,
+        "title": "[PDF] Introduction to Electrical Engineering  vtu.ac.in › pdf",
+        "description": "27-Dec-2022  ·  Note: Answer any FIVE full questions, choosing at least ONE question from each MODULE. Q. No. Module1. Marks. Q1 a. With neat single line diagram explain the ...",
+        "url": "https://vtu.ac.in/pdf/QP/22ESC142set1.pdf"
+    },
+    {
+        "rank": 15,
+        "title": "[PDF] URC-U-ELTE - UPSC  www.upsc.gov.in › sites › default › files › ELE_ENGG_I",
+        "description": "21-Jan-2021  ·  वैद्युत इंजीनियरी / ELECTRICAL ENGINEERING ... must be stated clearly on the cover of this Question-cum-Answer (QCA) Booklet in the space.",
+        "url": "https://www.upsc.gov.in/sites/default/files/ELE_ENGG_I.pdf"
+    },
+    {
+        "rank": 16,
+        "title": "[PDF] Electrical Engineering Paper - II - UPSC  www.upsc.gov.in › files › QP-ESEM-21-ElectEnggPaper-II-231121",
+        "description": "20-Dec-2021  ·  Any page or portion of the page left blank in the Question-cum-Answer Booklet (QCA) must be clearly struck off. Answers must be written in ENGLISH only.",
+        "url": "https://www.upsc.gov.in/sites/default/files/QP-ESEM-21-ElectEnggPaper-II-231121.pdf"
+    },
+    {
+        "rank": 17,
+        "title": "[PDF] इलेक्ट्रिकल इंजीनियरी ( प्रश्न - पत्र - II ) - UPSC  www.upsc.gov.in › sites › default › files › QP-CSM-22-ELECTRICA...",
+        "description": "30-Sept-2022  ·  ELECTRICAL ENGINEERING (PAPER-II) ... must be stated clearly on the cover of this Question-cum-Answer (QCA) Booklet in the space provided.",
+        "url": "https://www.upsc.gov.in/sites/default/files/QP-CSM-22-ELECTRICAL-ENGINEERING%20PAPER-II-280922.pdf"
+    },
+    {
+        "rank": 18,
+        "title": "[PDF] SSC-JE - MADE EASY Publications  madeeasypublications.org › document › book",
+        "description": "10-Aug-2021  ·  Junior Engineer. SSC-JE. Staff Selection Commission. Electrical. Engineering. Topicwise Objective Solved Questions www.madeeasypublications.org.",
+        "url": "https://madeeasypublications.org/document/book/EE%20SSC-JE%20Objective%20Book_2021.pdf"
+    },
+    {
+        "rank": 19,
+        "title": "[PDF] GATE 2021 - MADE EASY  www.madeeasy.in › uploads › examsolution",
+        "description": "07-Feb-2021  ·  MADE EASY. India's Best Institute for IES, GATE & PSUs. GATE. 2021. ELECTRICAL. ENGINEERING. Questions. & Solutions. Exam held on 07/02/2021.",
+        "url": "https://www.madeeasy.in/uploads/examsolution/225ufrep_EE_GATE-2021_Updated.pdf"
+    },
+    {
+        "rank": 20,
+        "title": "[PDF] Electrical engineering internship interview questions and answers pdf  static1.squarespace.com › static",
+        "description": "18-Apr-2023  ·  Here are the most asked basic to advanced Electrical Engineering interview questions and answers for freshers as well as experienced Electrical Engineer ...",
+        "url": "https://static1.squarespace.com/static/649be5ad7b52c244ee86eafc/t/64a470062d1eb821793fcd15/1688498182853/98575306742.pdf"
+    },
+    {
+        "rank": 21,
+        "title": "[PDF] वैद्युत इंजीनियरी / electrical engineering - UPSC  www.upsc.gov.in › sites › default › files › QP-CSM-22-ELECTRICA...",
+        "description": "28-Sept-2022  ·  choosing at least ONE question from each section. The number of marks carried by a question/part is indicated against it. Answers must be written in the ...",
+        "url": "https://www.upsc.gov.in/sites/default/files/QP-CSM-22-ELECTRICAL-ENGINEERING-PAPER-I-280922.pdf"
+    },
+    {
+        "rank": 22,
+        "title": "[PDF] Full page fax print - UPSC  www.upsc.gov.in › sites › default › files › ELECT.-II.pdf",
+        "description": "23-Mar-2021  ·  ELECTRICAL ENGINEERING. Paper II ... This Test Booklet contains 120 items (questions). ... (i) There are four alternatives for the answer to every question.",
+        "url": "https://www.upsc.gov.in/sites/default/files/ELECT.-II.pdf"
+    },
+    {
+        "rank": 23,
+        "title": "[PDF] इलेक्ट्रिकल इंजीनियरी ( प्रश्न-पत्र - II ) - UPSC  www.upsc.gov.in › sites › default › files › ELEC_ENGG_II",
+        "description": "21-Jan-2021  ·  ELECTRICAL ENGINEERING (PAPER-II) ... must be stated clearly on the cover of this Question-cum-Answer (QCA) Booklet in the space provided.",
+        "url": "https://www.upsc.gov.in/sites/default/files/ELEC_ENGG_II.pdf"
+    },
+    {
+        "rank": 24,
+        "title": "[PDF] इलेक्ट्रिकल इंजीनियरी ( प्रश्न-पत्र II) - UPSC  www.upsc.gov.in › default › files › Electrical Engineering Paper-II",
+        "description": "07-Dec-2022  ·  ELECTRICAL ENGINEERING (Paper II) ... must be stated clearly on the cover of this Question-cum-Answer (QCA) Booklet in the space provided.",
+        "url": "https://www.upsc.gov.in/sites/default/files/Electrical%20Engineering%20Paper-II.pdf"
+    },
+    {
+        "rank": 25,
+        "title": "[PDF] TY-EE-SEM-VI-ETE-22628.pdf - ZEAL POLYTECHNIC, PUNE  zealpolytechnic.com › wp-content › uploads › 2023/01 › TY-EE-SE...",
+        "description": "05-Jan-2023  ·  DEPARTMENT OF ELECTRICAL ENGINEERING. Question Bank for Multiple Choice Questions. 01.Digitization Beyond Automation. Marks:- 12. Content Of Chapter:-.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/TY-EE-SEM-VI-ETE-22628.pdf"
+    },
+    {
+        "rank": 26,
+        "title": "[PDF] Basic Electronics Engineering Interview Question (2022)  dev.sfcg.org › trackid › FileName=Basic Electronics Engineering Inter...",
+        "description": "04-Sept-2021  ·  Basic Electrical Engineering. Electronics Engineer Red-Hot Career Guide; 2510 Real Interview Questions. Job Interview Questions and Answers for Hiring on ...",
+        "url": "https://dev.sfcg.org/trackid?article=89049&FileName=Basic%20Electronics%20Engineering%20Interview%20Question.pdf"
+    },
+    {
+        "rank": 27,
+        "title": "[PDF] Basic Electrical And Electronics Engineering Wbut.pdf  dev.sfcg.org › viewcontent › FileName=Basic Electrical And Electroni...",
+        "description": "29-Jun-2022  ·  Engineering Wbut. Basic Electrical & Electronics Interview Questions & Answers ... [PDF] Basic Electrical Engineering By Dr. D P Kothari .",
+        "url": "https://dev.sfcg.org/viewcontent?context=49368&FileName=Basic%20Electrical%20And%20Electronics%20Engineering%20Wbut.pdf"
+    },
+    {
+        "rank": 28,
+        "title": "[PDF] G:\\2021-2022 MODERATION WORK\\09 - tsbie  tsbie.cgg.gov.in › Circulars › E_T_(I)_Pr_I_Model_Paper",
+        "description": "20-Feb-2022  ·  BASIC ELECTRICAL ENGINEERING. Paper - I (English & Telugu Versions) ... Note: (i) Answer ANY TEN questions. (ii) Each question carries TWO marks.",
+        "url": "https://tsbie.cgg.gov.in/scannedPhotos/Circulars/E_T_(I)_Pr_I_Model_Paper.pdf"
+    },
+    {
+        "rank": 29,
+        "title": "[PDF] Basic electrical aptitude questions and answers pdf - Squarespace  static1.squarespace.com › static › sufibunare",
+        "description": "03-Nov-2021  ·  General aptitude test battery example. Basic electrical questions with answers. If you are seeking an electrician job, you will be required to take and pass the ...",
+        "url": "https://static1.squarespace.com/static/64903aefb129da555d402c11/t/649e8a26d21dd87b7370b946/1688111655073/sufibunare.pdf"
+    },
+    {
+        "rank": 30,
+        "title": "[PDF] Basic electrical and instrumentation engineering notes pdf  static1.squarespace.com › static › tupebawu",
+        "description": "07-May-2023  ·  BE8254 Basic Electrical and Instrumentation Engineering Lecture Notes, Syllabus Part A 2 marks with answers & Part B 15 marks Question, Part-C 16 Marks ...",
+        "url": "https://static1.squarespace.com/static/6454d0e3f3bc4754dc7070f4/t/6457a05c61e6f26716bf93a3/1683464284748/tupebawu.pdf"
+    },
+    {
+        "rank": 31,
+        "title": "[PDF] 1901106-Basic Electrical and Electronics Engineering  srmvalliammai.ac.in › wp-content › uploads › 2022/11 › 1901106-ba...",
+        "description": "14-Nov-2022  ·  ENGINEERING. QUESTION BANK. I SEMESTER. 1901106 BASIC ELECTRICAL AND ELECTRONICS ENGINEERING. (Common to Civil & Mechanical Engineering). Regulation–2019.",
+        "url": "https://srmvalliammai.ac.in/wp-content/uploads/2022/11/1901106-basic-electrical-and-electronics-engineering.pdf"
+    },
+    {
+        "rank": 32,
+        "title": "[PDF] Electrician interview questions and answers pdf in hindi  static1.squarespace.com › static › biputigig",
+        "description": "29-Mar-2023  ·  tech) electrical engineering Job Interview 99% success question question collection electrician viva questions engineering electrical viva questions or Diploma ...",
+        "url": "https://static1.squarespace.com/static/649431117886c2089c9ceada/t/64a3f914cdae056e657937c9/1688467732949/biputigig.pdf"
+    },
+    {
+        "rank": 33,
+        "title": "[PDF] Industrial engineering interview questions and answers pdf  static1.squarespace.com › static › luwanojezatopifibowukume",
+        "description": "04-Apr-2021  ·  Industrial electrical engineering interview questions and answers. Interview questions to ask an industrial engineer. Industrial engineering interview ...",
+        "url": "https://static1.squarespace.com/static/649be5701d3afa5d1040f350/t/64a538b4a93eb217e9dc5164/1688549556791/luwanojezatopifibowukume.pdf"
+    },
+    {
+        "rank": 34,
+        "title": "[PDF] 01. Electric Circuits.pmd - MADE EASY  madeeasy.in › examsolution › 13.EE_UPPSC_PracticeBook.pdf",
+        "description": "07-Sept-2020  ·  to introduce Electrical Engineering Practice book for UPPSC-AE Examination. ... It contains more than 2700+ multiple choice questions with answer.",
+        "url": "https://madeeasy.in/uploads/examsolution/13.EE_UPPSC_PracticeBook.pdf"
+    },
+    {
+        "rank": 35,
+        "title": "[PDF] FEE - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › FY-EE-SE...",
+        "description": "02-Jan-2023  ·  (2) Answer each next main Question on a new page. ... Subject & Code: Fundamentals of Electrical Engineering (22212). Page No : 1 of 14.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/FY-EE-SEM-II-FEE-22212-QP-MODEL-ANSWERS.pdf"
+    },
+    {
+        "rank": 36,
+        "title": "[PDF] EOE - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › FY-EE-SE...",
+        "description": "02-Jan-2023  ·  MSBTE QUESTION PAPERS & MODEL ANSWERS ... DIPLOMA IN ELECTRICAL ENGINEERING. SCHEME: I. SEMESTER: II ... (2) Answer each next main Question on a new page.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/FY-EE-SEM-II-EOE-22213-QP-MODEL-ANSWERS.pdf"
+    },
+    {
+        "rank": 37,
+        "title": "[PDF] KEY ANSWER OF: - BPSC  www.bpsc.bih.nic.in › Advt",
+        "description": "18-Mar-2023  ·  FINAL ANSWER KEY : Civil Engineering. Series-A. Series-B. Series-C. Series-D. Question. No. Answer Question. No. Answer Question. No. Answer Question.",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-03-18-09.pdf"
+    },
+    {
+        "rank": 38,
+        "title": "[PDF] Electrodynamometer In Electrical Engineering  dev.sfcg.org › viewcontent › FileName=Electrodynamometer In Elect...",
+        "description": "26-Jun-2021  ·  An Introduction to the Study of Electrical Engineering. Basic Concepts of Electrical ... problems An objective type Questions Bank with answers to hone.",
+        "url": "https://dev.sfcg.org/viewcontent?dataid=11482&FileName=Electrodynamometer%20In%20Electrical%20Engineering.pdf"
+    },
+    {
+        "rank": 39,
+        "title": "[PDF] Interview Question For Electrical Engg Pdf  dev.my.dmd.uconn.edu › Publication › source=interview-question-for...",
+        "description": "10-Mar-2023  ·  web apr 5 2023 basic electrical engineering interview questions with answers here is a list of electrical interview questions and answers that you might ...",
+        "url": "https://dev.my.dmd.uconn.edu/Publication?id=4E371A4&hl=jp&source=interview-question-for-electrical-engg.pdf"
+    },
+    {
+        "rank": 40,
+        "title": "[PDF] इलेक्ट्रिकल इंजीनियरिंग / electrical engineering - UPSC  www.upsc.gov.in › sites › default › files › ELECT.ENGG-II.pdf",
+        "description": "08-Nov-2022  ·  Any page or portion of the page left blank in the. Question-cum-Answer Booklet must be clearly struck off. C-DRN-N-GMFB f. 1. 1.",
+        "url": "https://www.upsc.gov.in/sites/default/files/ELECT.ENGG-II.pdf"
+    },
+    {
+        "rank": 41,
+        "title": "[PDF] Question Paper Preview - WBSETCL  www.wbsetcl.in › career",
+        "description": "07-Jul-2021  ·  Subject Name : Junior Engineer Elec. Grade II. Duration : 90. Total Marks : 100. Display Marks: Yes. Share Answer Key With Delivery Engine :.",
+        "url": "https://www.wbsetcl.in/career/Shift%203%20March%2014.pdf"
+    },
+    {
+        "rank": 42,
+        "title": "[PDF] AEE-Paper-2-ELECTRICAL & ELECTRONICS-Preliminary Key.pdf  tspsc.gov.in › uploadPDF › AEE-Paper-2-ELECTRICAL & ELECTR...",
+        "description": "10-Feb-2023  ·  PAPER-II – ELECTRICAL AND ELECTRONICS ENGINEERING- PAPER CODE-22124. PRELIMINARY KEY (MASTER QUESTION PAPER). Q.No. Key Q.No. Key Q.No. Key Q.No. Key Q.No.",
+        "url": "https://tspsc.gov.in/uploadPDF/AEE/AEE-Paper-2-ELECTRICAL%20&%20ELECTRONICS-Preliminary%20Key.pdf"
+    },
+    {
+        "rank": 43,
+        "title": "[PDF] 2 (Electrical &Electronics) Model Question Paper Instructions for ...  joinindiancoastguard.cdac.in › cgcat › assets › img › downloads › CG...",
+        "description": "22-Dec-2021  ·  of Questions 100. Each Question is of four marks. 2. One mark will be deducted for every wrong answer. 3. No ...",
+        "url": "https://joinindiancoastguard.cdac.in/cgcat/assets/img/downloads/Model%20Question%20Papers%20PDF/CGCAT%20exam%20for%20TECHNICAL%20Officers%20(Electrical%20&%20Electronics)_Model%20QP.pdf"
+    },
+    {
+        "rank": 44,
+        "title": "[PDF] paper iii: subject specialisation paper for electrical engineering  www.rcsc.gov.bt › wp-content › uploads › 2022/05 › Paper-III-Electr...",
+        "description": "31-Oct-2021  ·  questions of your choice. 4. All answers should be written on the Answer Booklet provided to you. Candidates are not allowed to write anything on the question ...",
+        "url": "https://www.rcsc.gov.bt/wp-content/uploads/2022/05/Paper-III-Electrical-Engineering.pdf"
+    },
+    {
+        "rank": 45,
+        "title": "[PDF] Notif-ESEP-22-engl-220921.pdf - UPSC  www.upsc.gov.in › sites › default › files › Notif-ESEP-22-engl-220921",
+        "description": "22-Sept-2021  ·  Indian Naval Material Management Service (Electrical Engineering Posts) ... There are four alternative for the answers to every question. For each question ...",
+        "url": "https://www.upsc.gov.in/sites/default/files/Notif-ESEP-22-engl-220921.pdf"
+    },
+    {
+        "rank": 46,
+        "title": "[PDF] MADE EASY  www.madeeasy.in › uploads › Files",
+        "description": "16-May-2023  ·  MADE EASY Question Cum Answer Booklet. Page 1 of 73. Do not write in this margin. Section A: Basic Electronics Engineering + Analog Electronics + Electrical ...",
+        "url": "https://www.madeeasy.in/uploads/Files/1300purl_EE-03_TEST_05.pdf"
+    },
+    {
+        "rank": 47,
+        "title": "[PDF] Instrumentation Engineering Aptitude Test Questions And Answers  dev.sfcg.org › fulldisplay › FileName=Instrumentation Engineering A...",
+        "description": "14-Feb-2023  ·  Previous Years' BARC Papers Archive- Syllabus for Every Electrical Engineering Exam, suggest books, Post GATE Things- PSUs and M Tech from IITs, IISc & NITs.",
+        "url": "https://dev.sfcg.org/fulldisplay?docid=44697&FileName=Instrumentation%20Engineering%20Aptitude%20Test%20Questions%20And%20Answers.pdf"
+    },
+    {
+        "rank": 48,
+        "title": "[PDF] BASIC ELECTRICAL ENGINEERING - SCTEVT Odisha  sctevtodisha.nic.in › wp-content › uploads › 2021/03 › Basic_Electric...",
+        "description": "12-Mar-2021  ·  Basic electrical engineering (Th.4 (a)) of 1 st. & 2 nd semester for. Diploma in all engineering course of SCTE&VT, ... Short Answer Questions.",
+        "url": "https://sctevtodisha.nic.in/wp-content/uploads/2021/03/Basic_Electrical_Engineering_1st-year-LM.pdf"
+    },
+    {
+        "rank": 49,
+        "title": "[PDF] mechanical objective question with answer.pdf - Nissan NAVARA  navara-launch.nissanmw.com › Book › textbook-solutions",
+        "description": "20-Mar-2023  ·  DDA JE Exam PDF-DDA Junior Engineer (Electrical/Mechanical) Exam: Electrical Engineering Subject eBook-PDF - Chandresh Agrawal. 2023-05-25. SGN.The eBook DDA ...",
+        "url": "https://navara-launch.nissanmw.com/Book/textbook-solutions/mechanical%20objective%20question%20with%20answer.pdf?docid=gEX:9851"
+    },
+    {
+        "rank": 50,
+        "title": "[PDF] Interview Questions for Engineers | CATKing  catking.in › wp-content › uploads › 2022/01 › CATKing-Most-comm...",
+        "description": "30-Jan-2022  ·  consists of generic questions as to engineers followed by technical questions asked based on ... Electrical Engineering Technical questions: .",
+        "url": "https://catking.in/wp-content/uploads/2022/01/CATKing-Most-common-Interview-questions-for-Engineers.pdf"
+    },
+    {
+        "rank": 51,
+        "title": "[PDF] malla reddy college of engineering & technology - mrcet.ac.in  mrcet.com › downloads › Labmanuals › EEE",
+        "description": "01-Mar-2021  ·  Electrical Measurements &Instrumentation. III YEAR II SEMESER. EEE. Time: 3 hours. Max Marks: 70. Note: This question paper contains of 5 sections. Answer ...",
+        "url": "https://mrcet.com/downloads/Labmanuals/EEE/EEE%20III-II%20Question%20Bank.pdf"
+    },
+    {
+        "rank": 52,
+        "title": "[PDF] Interview -1  www.griet.ac.in › cls",
+        "description": "30-Aug-2022  ·  Institute of Engineering and Technology ... questions and answers to help you prepare ... such interview answer sample for an electrical engineer.",
+        "url": "https://www.griet.ac.in/cls/Interview%20-1.pdf"
+    },
+    {
+        "rank": 53,
+        "title": "[PDF] KTU/AD(EXAM)/8188/2019 04.02.2021 Notification ... - MBITS  www.mbits.edu.in › uploads › KTU_Exam_July_2020",
+        "description": "04-Feb-2021  ·  ELECTRICAL AND ELECTRONICS ENGINEERING and EST120 – BASICS OF CIVIL AND ... Students should write answers to Questions of Part 1 between the pages 1 and 15 ...",
+        "url": "https://www.mbits.edu.in/uploads/KTU_Exam_July_2020/Notification%20-%20EST120%20EST130.pdf"
+    },
+    {
+        "rank": 54,
+        "title": "[PDF] EMW - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › SY-SEM-III...",
+        "description": "02-Jan-2023  ·  DIPLOMA IN ELECTRICAL ENGINEERING ... (2) Answer each next main Question on a new page. ... (a) State any four IE Rules regarding electric safety.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/SY-SEM-III-22328-QP-MODEL-ANSWERS-EMW.pdf"
+    },
+    {
+        "rank": 55,
+        "title": "[PDF] 2 Marks questions Marks questions  sdcet.org.in › img › department › electrical › study › study_19",
+        "description": "16-Sept-2021  ·  2 Marks questions. • importance of bus-bar chamber in high rise electrical installation. • On which factors the utilization factor of lamps depend.",
+        "url": "http://sdcet.org.in/img/department/electrical/study/study_19.pdf"
+    },
+    {
+        "rank": 56,
+        "title": "[PDF] 300 QUESTIONS INSTRUCTOR /TRD SELECTION Ref:- PCPO ...  scr.indianrailways.gov.in › files › 1628683644925-QB_Instructor_TRD",
+        "description": "03-Aug-2021  ·  ANSWERS. TOTAL. 224. CHAPTER 1-OHE. ABBREVIATIONS & ELECTRICAL TERMS RELATED TO OHE ... (d) Indian Railway Institute of Electrical Engineering, Nasik.",
+        "url": "https://scr.indianrailways.gov.in/uploads/files/1628683644925-QB_Instructor_TRD.pdf"
+    },
+    {
+        "rank": 57,
+        "title": "[PDF] Mechatronics Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 727_Mechatronics_Engi...",
+        "description": "06-Feb-2021  ·  Mechatronics Engineering Interview Questions And Answers. Guide. Question - 1: What are your plans for your future? Ans: i will be good experiences engineer ...",
+        "url": "https://interviewquestionsanswers.org/download/727_Mechatronics_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 58,
+        "title": "[PDF] Monday 18 January 2021 – Afternoon - OCR  www.ocr.org.uk › Images › 646610-question-paper-principles-of-elec...",
+        "description": "18-Jan-2021  ·  05822/05823/05824/05825/05873 Unit 4: Principles of electrical and electronic engineering ... Write your answer to each question in the space provided.",
+        "url": "https://www.ocr.org.uk/Images/646610-question-paper-principles-of-electrical-and-electronic-engineering.pdf"
+    },
+    {
+        "rank": 59,
+        "title": "[PDF] BASIC ELECTRICAL ENGINEERING  vtu.ac.in › pdf",
+        "description": "24-Sept-2021  ·  5) To explain electric transmission and distribution, electricity billing and, ... The students have to answer 5 full questions, selecting one full question ...",
+        "url": "https://vtu.ac.in/pdf/2021syll/21ele13.pdf"
+    },
+    {
+        "rank": 60,
+        "title": "[PDF] Two-tier multiple-choice questions as a means of increasing ...  promoteach.net.technion.ac.il › files › 2022/12 › Two-tier-multiple-c...",
+        "description": "31-Dec-2022  ·  included in a test of non-electrical engineering major students. ... As it is possible that in answering the first item of the question, students were ...",
+        "url": "https://promoteach.net.technion.ac.il/files/2022/12/Two-tier-multiple-choice-questions.pdf"
+    },
+    {
+        "rank": 61,
+        "title": "[PDF] Practice Assessment Utilities Engineering Technician - EUIAS  www.euias.co.uk › UET-Electrical-FULL-Practice-Assessment-V1.0.pdf",
+        "description": "07-Jul-2021  ·  Question 1. How regularly should electrical safety equipment be inspected? Possible answers. Answer a) Daily b) Weekly c) Monthly d) Prior to use.",
+        "url": "https://www.euias.co.uk/wp-content/uploads/2021/07/UET-Electrical-FULL-Practice-Assessment-V1.0.pdf"
+    },
+    {
+        "rank": 62,
+        "title": "[PDF] Mechanical Design Lab Viva Question - Search for Common Ground  dev.sfcg.org › viewcontent",
+        "description": "25-Jun-2022  ·  Engineering Design Process. Interview Questions and Answers. Germs Gone Wild. Technical questions and answers for job interview Offshore Oil & Gas Platforms.",
+        "url": "https://dev.sfcg.org/viewcontent?article=75917&FileName=Mechanical%20Design%20Lab%20Viva%20Question.pdf"
+    },
+    {
+        "rank": 63,
+        "title": "[PDF] Magnetism And Electromagnetism Multiple Choice  dev.sfcg.org › viewcontent",
+        "description": "12-Jul-2021  ·  Grade 10 Physics Multiple Choice Questions and Answers (MCQs). Questions and Answers about Electricity. Fundamentals of Electrical Engineering and ...",
+        "url": "https://dev.sfcg.org/viewcontent?article=26352&FileName=Magnetism%20And%20Electromagnetism%20Multiple%20Choice.pdf"
+    },
+    {
+        "rank": 64,
+        "title": "[PDF] Basic Electrical Engineering By Dp Kothari Nagrath  dev.sfcg.org › viewcontent › FileName=Basic Electrical Engineering ...",
+        "description": "02-Sept-2020  ·  Solutions Manual to Accompany Basic Electrical Engineering, Fourth Edition ... electronics, starting by answering the question \"What is electricity?",
+        "url": "https://dev.sfcg.org/viewcontent?dataid=35778&FileName=Basic%20Electrical%20Engineering%20By%20Dp%20Kothari%20Nagrath.pdf"
+    },
+    {
+        "rank": 65,
+        "title": "[PDF] What every electrical engineering student must know  fet.eecs.umich.edu › What Every Electrical Engineering Student Must ...",
+        "description": "28-Apr-2021  ·  want you to answer the following questions: ○ What excites you more, ... chapter to see the different types of electrical engineers you can.",
+        "url": "https://fet.eecs.umich.edu/What%20Every%20Electrical%20Engineering%20Student%20Must%20Know.pdf"
+    },
+    {
+        "rank": 66,
+        "title": "[PDF] INTRODUCTION TO ELECTRIC GENERATION SYSTEMS - ONGC  ongcindia.com › documents › syllabus222_21",
+        "description": "03-Aug-2022  ·  Essential Qualification: 3 years Diploma in Electrical Engineering. Should have Valid ... 80 % (80 questions carrying 1 mark each). INTRODUCTION TO ELECTRIC ...",
+        "url": "https://ongcindia.com/documents/77751/2593733/syllabus222_21.pdf"
+    },
+    {
+        "rank": 67,
+        "title": "[PDF] Safety engineer interview questions and answers pdf download  static1.squarespace.com › static",
+        "description": "07-Aug-2022  ·  Download the ultimate collection of Safety Officer interview questions and answers to help you prepare to pass your interview today. Electrical Engineer ...",
+        "url": "https://static1.squarespace.com/static/6454d906dda45808abaa19f4/t/64a469867b104401b28ac7b4/1688496519459/45676533194.pdf"
+    },
+    {
+        "rank": 68,
+        "title": "[PDF] EKT Model Question Paper (Electrical & Electronics)-I Instructions ...  byjusexamprep.com › liveData › ekt_model_question_paper_electrica...",
+        "description": "31-May-2021  ·  of Questions 50. Each Question is of three marks. 2. One mark will be deducted for every wrong answer. 3. No ...",
+        "url": "https://byjusexamprep.com/liveData/f/2021/5/ekt_model_question_paper_electrical_electronics_i_92.pdf"
+    },
+    {
+        "rank": 69,
+        "title": "[PDF] PROVISIONAL ANSWER KEY Question Code: 059/2020 Medium of ...  keralapsc.gov.in › default › files › provisional_key__instructor_gr_i",
+        "description": "02-Dec-2020  ·  PROVISIONAL ANSWER KEY. Question Code: 059/2020. Medium of Question- English ... Name of Post: Instructor Gr I (Electrical Engineering).",
+        "url": "https://keralapsc.gov.in/sites/default/files/2020-12/provisional_key__instructor_gr_i.pdf"
+    },
+    {
+        "rank": 70,
+        "title": "[PDF] 1 Can AI Chatbots Pass the Fundamentals of Engineering (FE) and ...  arxiv.org › pdf",
+        "description": "25-Mar-2023  ·  engineering questions and scenarios are used to evaluate the chatbots' performance, as commonly present in the FE and PE exams. The chatbots' responses were ...",
+        "url": "https://arxiv.org/pdf/2303.18149"
+    },
+    {
+        "rank": 71,
+        "title": "[PDF] Ssc General Engineering For Electrical Questions Answers.pdf  staging.colmayor.edu.co › trackid › FileName=Ssc General Engineeri...",
+        "description": "28-Feb-2023  ·  Ssc General Engineering For Electrical. SSC JE Study Material Free Junior Engineer download pdf ... SSC JE Syllabus 2019 Pdf Download (Civil, Electrical .",
+        "url": "https://staging.colmayor.edu.co/trackid?ID=40574&FileName=Ssc%20General%20Engineering%20For%20Electrical%20Questions%20Answers.pdf"
+    },
+    {
+        "rank": 72,
+        "title": "[PDF] JELET 2017 Engg. & Tech. - WBJEE  wbjeeb.nic.in › EXMJELETCMS › File › GetFile",
+        "description": "16-Mar-2021  ·  Questions must be answered on OMR sheet by darkening the appropriate bubble marked A, B, ... An electrical utility draws 100 kVA at 0-8 p.f. lagging.",
+        "url": "https://wbjeeb.nic.in/EXMJELETCMS/File/GetFile?FileId=4&LangId=P"
+    },
+    {
+        "rank": 73,
+        "title": "[PDF] Subjective questions on MET-09  nr.indianrailways.gov.in › cris › uploads › files › 1616403463914-Su...",
+        "description": "31-Mar-2021  ·  Subjective questions on MET-09. Q1. How can we classify the engineering materials and what are the criteria for ... c) Binary electric solution.",
+        "url": "https://nr.indianrailways.gov.in/cris//uploads/files/1616403463914-Subjective%20questions%20on%20Material%20Science%20MET-09.pdf"
+    },
+    {
+        "rank": 74,
+        "title": "[PDF] End-point Assessment Knowledge Practice Assessment - EUIAS  www.euias.co.uk › wp-content › uploads › 2022/04 › Knowledge-Pra...",
+        "description": "30-Apr-2022  ·  EUIAS Level 4 End-point Assessment for Electrical Power Networks Engineer ... There are questions, possible answers as well as a column for you to mark.",
+        "url": "https://www.euias.co.uk/wp-content/uploads/2022/04/Knowledge-Practice-Assessment-3.pdf"
+    },
+    {
+        "rank": 75,
+        "title": "[PDF] 075/2022 - Kerala PSC  www.keralapsc.gov.in › sites › default › files",
+        "description": "01-Jul-2022  ·  question booklet, until the indication is given to start answering. ... (C) Sum of energy stored in electrical field and magnetic field.",
+        "url": "https://www.keralapsc.gov.in/sites/default/files/2022-07/qp.pdf"
+    },
+    {
+        "rank": 76,
+        "title": "[PDF] PROVISIONAL ANSWER KEY Question Code: 105/2022 Medium of ...  www.keralapsc.gov.in › sites › default › files › pky-105-22",
+        "description": "01-Nov-2022  ·  PROVISIONAL ANSWER KEY. Question Code: 105/2022. Medium of Question- English. Date of Test: 01.11.2022 ... Plant Engineer (Electrical).",
+        "url": "https://www.keralapsc.gov.in/sites/default/files/2022-11/pky-105-22.pdf"
+    },
+    {
+        "rank": 77,
+        "title": "[PDF] LIST OF BOOKS - Khanna Publishers  khannapublishers.in › mpdf › checklist › table",
+        "description": "16-Jan-2021  ·  Conventional & Objective type Questions &. Answers on Electrical Engineering for. Competitions. OBJECTIVE TYPE BOOKS. B.S. Manke. 978-93-87394-90-2.",
+        "url": "https://khannapublishers.in/mpdf/checklist/table.php"
+    },
+    {
+        "rank": 78,
+        "title": "[PDF] Indonesian automatic short answer grading system  beei.org › index.php › EEI › article › download",
+        "description": "15-Jun-2022  ·  Bulletin of Electrical Engineering and Informatics. Vol. 11, No. ... Rahutomo data set consists of 40 pairs of questions and answers divided into four.",
+        "url": "https://beei.org/index.php/EEI/article/download/3531/2727"
+    },
+    {
+        "rank": 79,
+        "title": "TWO-TIER MULTIPLE-CHOICE QUESTIONS IN ELECTRICAL ...  library.iated.org › download",
+        "description": "09-Mar-2021  ·  twenty-four sophomore electrical engineering students from a leading ... question, which requires justification for the answer given in the first item and ...",
+        "url": "https://library.iated.org/download/GERO2021TWO"
+    },
+    {
+        "rank": 80,
+        "title": "[PDF] EEC - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › FY-EJ-SEM...",
+        "description": "02-Jan-2023  ·  MSBTE QUESTION PAPERS & MODEL ANSWERS ... NAME OF SUBJECT: ELEMENTS OF ELECTRICAL ENGINEERING ... (2) Answer each next main Question on a new page.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/FY-EJ-SEM-II-EEC-22215-QP-MODEL-ANSWERS.pdf"
+    },
+    {
+        "rank": 81,
+        "title": "[PDF] National Level E-Quiz on Basics of Electrical & Electronics  arkajainuniversity.ac.in › wp-content › uploads › 2021/10 › 26_10_2...",
+        "description": "26-Oct-2021  ·  Electronics objective quiz questions to test their knowledge of electrical & electronics engineering. It will definitely improve their score by attempting ...",
+        "url": "https://arkajainuniversity.ac.in/wp-content/uploads/2021/10/26_10_2021-National-Level-E-Quiz-on-Basics-of-Electrical-and-Electronics-Report-1.pdf"
+    },
+    {
+        "rank": 82,
+        "title": "[PDF] Notif-ESEP-23-engl-140922-Final.pdf - UPSC  www.upsc.gov.in › sites › default › files › Notif-ESEP-23-engl-14092...",
+        "description": "14-Sept-2022  ·  Indian Naval Material Management Service (Electrical Engineering Posts) ... There are four alternative for the answers to every question. For each question ...",
+        "url": "https://www.upsc.gov.in/sites/default/files/Notif-ESEP-23-engl-140922-Final.pdf"
+    },
+    {
+        "rank": 83,
+        "title": "[PDF] Electrical engineer of coal mines other than underground mines  www.resourcesregulator.nsw.gov.au › sites › default › files › Electrica...",
+        "description": "07-Apr-2022  ·  State any assumptions you make in order to answer the question. Questions are to be answered from the perspective of an electrical engineer nominated to ...",
+        "url": "https://www.resourcesregulator.nsw.gov.au/sites/default/files/2022-04/Electrical-engineer-of-coal-mines-other-than-underground-mines-CME3.pdf"
+    },
+    {
+        "rank": 84,
+        "title": "[PDF] Department of Electrical Engineering, I.I.T. Kharagpur  www.ee.iitkgp.ac.in › assets › pdf › General_Information_for_PhD_...",
+        "description": "23-May-2022  ·  Candidates are supposed to answer all questions in Section-I. 3. The full marks for Section-II are 75 and the time allotted is 90 minutes. Page 2 ...",
+        "url": "http://www.ee.iitkgp.ac.in/assets/pdf/General_Information_for_PhD_&_MS_applicants.pdf"
+    },
+    {
+        "rank": 85,
+        "title": "[PDF] Engineering Mathematics Second Semester Objective.pdf  dev.sfcg.org › fulldisplay › FileName=Engineering Mathematics Seco...",
+        "description": "29-Sept-2020  ·  //mathematics//Electrical engineering Download Higher Engineering Mathematics by ... Engineering Mathematics Objective Questions and Answers Previous Year.",
+        "url": "https://dev.sfcg.org/fulldisplay?article=76002&FileName=Engineering%20Mathematics%20Second%20Semester%20Objective.pdf"
+    },
+    {
+        "rank": 86,
+        "title": "[PDF] EEM - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › FY-EJ-SEM...",
+        "description": "02-Jan-2023  ·  (2) Answer each next main Question on a new page. ... (a) State the effect of following factors on resistivity of electrical conducting material :.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/FY-EJ-SEM-II-EEM-22217-QP-MODEL-ANSWERS.pdf"
+    },
+    {
+        "rank": 87,
+        "title": "[PDF] Questlonr B-a n lk Se nles-- t - electricity Odisha  eicelectricityodisha.nic.in › DownloadForm",
+        "description": "14-Feb-2023  ·  Part-I(B) Answer Keys for Electrical Supervisor. Certificate of Competency (SCC)-MV &. Chartered Electrical Safety Engineer (CESE)- upto 440V Examination.",
+        "url": "https://eicelectricityodisha.nic.in/DownloadForm/Question%20Bank%20Series-1%20for%20SSC%20&%20CESE%20Examination%20(P-1-100)-2023.pdf"
+    },
+    {
+        "rank": 88,
+        "title": "[PDF] Indicative Syllabus for Computer Based Test (CBT) for various ...  www.dvc.gov.in › storage › app",
+        "description": "16-May-2023  ·  Pattern of question paper: The question paper will be bilingual i.e. both in English and Hindi, ... A. Basic Electrical Engineering concepts:-.",
+        "url": "https://www.dvc.gov.in/storage/app/hr/Indicative%20Syllabus%20for%20Computer%20Based%20Test%20in%20respect%20of%20the%20recruitment%20of%20Diploma%20Engineers%20as%20Junior%20Engineer%20Gr.II.pdf"
+    },
+    {
+        "rank": 89,
+        "title": "[PDF] Electromagnetic Theory Objective Type Questions.pdf  gcebargur.ac.in › sites › gcebargur.ac.in › files › Electromagnetic The...",
+        "description": "14-Jan-2021  ·  GOVERNMENT COLLEGE OF ENGINEERING, BARGUR ... MULTIPLE CHOICE QUESTIONS ... The electric field intensity at a point situated 4 metres from a point charge is ...",
+        "url": "https://gcebargur.ac.in/sites/gcebargur.ac.in/files/Electromagnetic%20Theory%20Objective%20Type%20Questions.pdf"
+    },
+    {
+        "rank": 90,
+        "title": "[PDF] SEEA1101.pdf - Sathyabama  sist.sathyabama.ac.in › sist_coursematerial › uploads › SEEA1101",
+        "description": "08-Jun-2021  ·  DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING. BASIC ELECTRICAL AND ELECTRONICS. ENGINEERING-SEEA1101. UNIT I DC CIRCUITS ...",
+        "url": "https://sist.sathyabama.ac.in/sist_coursematerial/uploads/SEEA1101.pdf"
+    },
+    {
+        "rank": 91,
+        "title": "[PDF] Digital Electronics - Zenon Bank  www.bank.engzenon.com › Digital_Electronics_First_Exam_Fall_2023",
+        "description": "29-Apr-2023  ·  University Of Jordan - Electrical Engineering department ... Answer the following questions for the figure bellow: - let R=2K ohms , Von=0.7 volts for the ...",
+        "url": "https://www.bank.engzenon.com/download/643ed571-2984-448b-9d15-4468c0feb99b/Digital_Electronics_First_Exam_Fall_2023.pdf"
+    },
+    {
+        "rank": 92,
+        "title": "[PDF] Telecom Engineering Interview Questions And Answers (2022)  kpdashboard.aidscontrol.gov.lk › trackid › FileName=Telecom Engin...",
+        "description": "01-Jun-2023  ·  Top 5 transmission engineer interview questions with answers ... Telecom Interview Questions, Answers for Freshers and . ... Electrical Engineering ».",
+        "url": "https://kpdashboard.aidscontrol.gov.lk/trackid?redir_esc=45972&FileName=Telecom%20Engineering%20Interview%20Questions%20And%20Answers.pdf"
+    },
+    {
+        "rank": 93,
+        "title": "[PDF] Junior Engineer (Civil, Mechanical, Electrical and Quantity ...  byjusexamprep.com › liveData › ssc_je_civil_question_papershift_1_41",
+        "description": "31-Aug-2022  ·  4. Question ID : 8161619779. Status : Answered. Chosen Option : 2. Q.9 Read the given statements and conclusions ...",
+        "url": "https://byjusexamprep.com/liveData/f/2022/8/ssc_je_civil_question_papershift_1_41.pdf"
+    },
+    {
+        "rank": 94,
+        "title": "[PDF] Question Paper Preview - WBSETCL  www.wbsetcl.in › career",
+        "description": "01-Jun-2022  ·  Junior Engineer Elec. ... How is the electric field represented in electrostatics? ... Note: For this question, discrepancy is found in question/answer.",
+        "url": "https://www.wbsetcl.in/career/Shift%202%20March%2014.pdf"
+    },
+    {
+        "rank": 95,
+        "title": "[PDF] Electronics Engineering Objective Questions Answers  e2shi.jhu.edu › Electronics-Engineering-Objective-Questions-Answers",
+        "description": "16-Nov-2022  ·  The SJVN Ltd Field Engineer (Electrical) Exam PDF eBook Covers. Electrical Engineering Objective questions From Various Competitive. Exams With Answers. MPSC- ...",
+        "url": "https://e2shi.jhu.edu/Electronics-Engineering-Objective-Questions-Answers/SuyPsOKkv7SF"
+    },
+    {
+        "rank": 96,
+        "title": "[PDF] Abstract - Bulletin of Electrical Engineering and Informatics  beei.org › index.php › EEI › article › download",
+        "description": "15-Aug-2022  ·  Transformer induced enhanced feature engineering for contextual similarity detection in text ... Question and answering communities like Quora and stack.",
+        "url": "https://beei.org/index.php/EEI/article/download/3284/2784"
+    },
+    {
+        "rank": 97,
+        "title": "[PDF] Electrical Engineering - Goodheart-Willcox  www.g-w.com › assets › files › pdf › sampchap",
+        "description": "09-May-2022  ·  Electrical engineers are designing new and exciting products every day. ... Answer the following questions using the information provided in this chapter.",
+        "url": "https://www.g-w.com/assets/files/pdf/sampchap/9781649259752_Ch11.pdf"
+    },
+    {
+        "rank": 98,
+        "title": "[PDF] Diploma in Electrical and Electronics Engineering  dtek.karnataka.gov.in › storage › pdf-files › C_20_EE_3_4_Sem",
+        "description": "24-Aug-2021  ·  Course Name. Transformers and Alternators. Test. I/II/III. Sem. III. Course Code. 20EE31P. Duration 80 Min. Marks. 30. Note: Answer any one full question from ...",
+        "url": "https://dtek.karnataka.gov.in/storage/pdf-files/C-20%20syllabus/C_20_EE_3_4_Sem.pdf"
+    },
+    {
+        "rank": 99,
+        "title": "[PDF] SYLLABUS FOR EE 309 – FUNDAMENTALS OF ELECTRICAL ...  ee.tedu.edu.tr › sites › default › files › f2122_syllabus_ee309_01",
+        "description": "21-Sept-2022  ·  DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING. Academic Year & Semester. 2022 Fall ... Graphical results, measurements, and answers to the questions.",
+        "url": "https://ee.tedu.edu.tr/sites/default/files/2022-09/f2122_syllabus_ee309_01.pdf"
+    },
+    {
+        "rank": 100,
+        "title": "[PDF] BME - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › FY-EE-SE...",
+        "description": "02-Jan-2023  ·  MSBTE QUESTION PAPERS & MODEL ANSWERS ... DIPLOMA IN ELECTRICAL ENGINEERING ... 2) The model answer and the answer written by candidate may vary but the ...",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/FY-EE-SEM-II-BME-22214-QP-MODEL-ANSWERS.pdf"
+    },
+    {
+        "rank": 101,
+        "title": "[PDF] Pre Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 1898_Pre_Engineering_...",
+        "description": "06-Feb-2021  ·  Pre Engineering Interview Questions And Answers Guide. Question - 1: Tell me the mechanism of cavitations in pipes and drains? Ans: The formation of ...",
+        "url": "https://interviewquestionsanswers.org/download/1898_Pre_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 102,
+        "title": "[PDF] Biomedical Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 1278_Biomedical_Engin...",
+        "description": "06-Feb-2021  ·  Question - 6: Explain Is biomedical engineering really 'engineering' or is it better to study mechanical, electrical or chemical engineering? Copyright © https ...",
+        "url": "https://interviewquestionsanswers.org/download/1278_Biomedical_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 103,
+        "title": "[PDF] frequently asked questions for the application of online - DDA  online.dda.org.in › bms › download › FAQ",
+        "description": "13-Jun-2021  ·  Question. Answer. 1. Which projects are included for online measurement presently in the online MB? All engineering projects of civil and electrical (except.",
+        "url": "https://online.dda.org.in/bms/download/FAQ.pdf"
+    },
+    {
+        "rank": 104,
+        "title": "[PDF] objective type question bank of je tl ac - Central Railway  cr.indianrailways.gov.in › cris › uploads › files",
+        "description": "21-Dec-2020  ·  QUESTION BANK FOR JE TL AC ... Hammer is generally used for electrical application . ... Engineer. Chief Electrical Engineer. Chief Safety Officer ...",
+        "url": "https://cr.indianrailways.gov.in/cris//uploads/files/1578029735766-OBJECTIVE%20TYPE%20QUESTION%20BANK%20OF%20JE%20TL%20AC.pdf"
+    },
+    {
+        "rank": 105,
+        "title": "[PDF] ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › uploads › 2023/01 › 22310-QP-MA",
+        "description": "31-Jan-2023  ·  (2) Answer each next main Question on a new page. (3) Illustrate your answers ... Subject Name: Basic Electrical and Electronics Engineering. Subject Code:.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/22310-QP-MA.pdf"
+    },
+    {
+        "rank": 106,
+        "title": "[PDF] Beginner's Guide to Measurement in Electronic and Electrical ...  eprintspublications.npl.co.uk › mgpg132",
+        "description": "11-Nov-2022  ·  The world of the electronic and electrical engineer. ... To answer these questions we need to look at all the factors that go into making a.",
+        "url": "https://eprintspublications.npl.co.uk/6120/1/mgpg132.pdf"
+    },
+    {
+        "rank": 107,
+        "title": "[PDF] Group-A Post Assistant Commandant (WORKS & ELECTRICAL).pdf  rectt.bsf.gov.in › static › bsf › Group-A Post Assistant Commandant (...",
+        "description": "24-Oct-2022  ·  Electrical Engineering - 10 Questions - 100 Marks ... be rejected at the initial stage and the OMR answer sheet will not be further evaluated for which.",
+        "url": "https://rectt.bsf.gov.in/static/bsf/pdf/Group-A%20Post%20Assistant%20Commandant%20(WORKS%20&%20ELECTRICAL).pdf"
+    },
+    {
+        "rank": 108,
+        "title": "[PDF] [M19 PS 1101] SAGI RAMA KRISHNAM RAJU ENGINEERING ...  srkrec.edu.in › files › MTECH › R19-MTECH-EEE-MODEL-PAPERS",
+        "description": "02-Feb-2022  ·  Electrical & Electronics Engineering Department. MODEL QUESTION PAPER. TIME: 3Hrs. Max. Marks: 75 M. Answer ONE Question from EACH UNIT. All questions carry ...",
+        "url": "https://srkrec.edu.in/files/SYLLABUS/R19/MTECH/MODEL_PAPERS/R19-MTECH-EEE-MODEL-PAPERS.pdf"
+    },
+    {
+        "rank": 109,
+        "title": "[PDF] Case study of Innovative Teaching Practices and their Impact ... - arXiv  arxiv.org › pdf",
+        "description": "04-Jul-2021  ·  1Department of Electrical Engineering, Qatar University, Doha-2713, ... The authors have designed the survey questions in a way to get responses that can ...",
+        "url": "https://arxiv.org/pdf/2107.00746"
+    },
+    {
+        "rank": 110,
+        "title": "[PDF] 1 Revised Syllabus to be implemented from the Academic Year ...  www.makautexam.net › aicte_details › Syllabus",
+        "description": "10-Sept-2021  ·  Engineering, Power Engineering, Electrical & Electronics Engineering, ... From Group B, three questions (each carrying 5 marks) are to be answered out of a ...",
+        "url": "https://www.makautexam.net/aicte_details/Syllabus/EE/1st_Year_B.Tech_Syllabus_Revised_18.08.10.pdf"
+    },
+    {
+        "rank": 111,
+        "title": "[PDF] mains test series ese 2023 - MADE EASY  madeeasy.in › Uploads › image",
+        "description": "26-Mar-2023  ·  (Question cum answer booklet) to write the test. ... No. of Questions : 8 ... Basic Electronics Engineering + Analog Electronics + Electrical Materials (All ...",
+        "url": "https://madeeasy.in/Uploads/image/2076imguf_ESE-2023_Mains_Test_Series.pdf"
+    },
+    {
+        "rank": 112,
+        "title": "[PDF] Marine Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 728_Marine_Engineerin...",
+        "description": "06-Feb-2021  ·  These interview questions and answers on Marine Engineering will help you ... loss (Eddy Current & Hysteresis Loss) Or No Load Loss in Electric Transformer.",
+        "url": "https://interviewquestionsanswers.org/download/728_Marine_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 113,
+        "title": "[PDF] GATE 2022 - MADE EASY  www.madeeasy.in › uploads › examsolution",
+        "description": "22-Feb-2022  ·  ELECTRICAL. ENGINEERING. Exam held on. 05/02/2022. Questions. & Solutions. Corporate Office: 44-A/1, Kalu Sarai, New Delhi - 110016.",
+        "url": "https://www.madeeasy.in/uploads/examsolution/320ufrep_EE_GATE-2022.pdf"
+    },
+    {
+        "rank": 114,
+        "title": "[PDF] Multiple Choice Questions 1. In a series RLC circuit, the phase ...  www.dahiwadicollege.in › OnlineSM › Physics › SEM2 › PaperIV",
+        "description": "28-Sept-2021  ·  basic-electrical-engineering-questions-answers-parallel-impedance-circuits-q8 a) 5A b) 18A c) 12A d) 2A. Answer: d. Explanation: We know that I=IR+IL. 10=IR+8 = ...",
+        "url": "https://www.dahiwadicollege.in/OnlineSM/Physics/SEM2/PaperIV/AC_Circuits.pdf"
+    },
+    {
+        "rank": 115,
+        "title": "[PDF] F. No. HQ-C11019/16/2022-C1/1 (E-2979)  ssc.nic.in › Tentative_Answer_Keys_JEE_2020(Paper1)_22112022",
+        "description": "22-Nov-2022  ·  Tentative Answer Keys. The Computer Based Examination for recruitment of Junior Engineer (Civil, Mechanical,. Electrical and Quantity Surveying & Contracts) ...",
+        "url": "https://ssc.nic.in/SSCFileServer/PortalManagement/UploadedFiles/Tentative_Answer_Keys_JEE_2020(Paper1)_22112022.pdf"
+    },
+    {
+        "rank": 116,
+        "title": "[PDF] MECHANICAL/ ELECTRICAL) RECRUITMENT EXAMINATION, 2022  wbpsc.gov.in › Download",
+        "description": "15-Nov-2022  ·  Engineers (Civil/Mechanical/Electrical) in West Bengal Sub-ordinate Service ... (i) Written Examination (Multiple choice objective type questions) and (ii).",
+        "url": "https://wbpsc.gov.in/Download?param1=Cur_20221115120312_Advertisement_PDF_compressed.pdf&param2=advertisement"
+    },
+    {
+        "rank": 117,
+        "title": "[PDF] Power System MCQ with Answers PDF - Your Electrical Guide  www.yourelectricalguide.com › wp-content › uploads › 2021/09 › Po...",
+        "description": "09-Sept-2021  ·  Answer: (c) voltage drop in it. 7. Transmission and distribution of electric power by underground system is superior to overhead system in respect of.",
+        "url": "https://www.yourelectricalguide.com/wp-content/uploads/2021/09/Power-System-MCQ-with-Answers-PDF.pdf"
+    },
+    {
+        "rank": 118,
+        "title": "[PDF] ELECTRICAL CIRCUIT ANALYSIS Lecture Notes Prepared By S ...  mrcet.com › downloads › digital_notes › EEE › Electrical Circuit Ana...",
+        "description": "31-Aug-2020  ·  (R18A0206) ELECTRICAL CIRCUIT ANALYSIS. Lecture Notes. Unit 1 : Transient Analysis. Malla Reddy College of Engineering and Technology ( MRCET ).",
+        "url": "https://mrcet.com/downloads/digital_notes/EEE/31082020/Electrical%20Circuit%20Analysis.pdf"
+    },
+    {
+        "rank": 119,
+        "title": "[PDF] Basic Electrical Engineering - HandoutsEt  handoutset.com › Basic-Electrical-Engineering-Ravish-R.-Singh.pdf",
+        "description": "31-Jul-2022  ·  Answers to Multiple Choice Questions 3.60. 4. Single-Phase AC Circuits. 4.1–4.126. 4.1 Behaviour of a Pure Resistor in an ac Circuit 4.2.",
+        "url": "https://handoutset.com/wp-content/uploads/2022/07/Basic-Electrical-Engineering-Ravish-R.-Singh.pdf"
+    },
+    {
+        "rank": 120,
+        "title": "[PDF] a textbook of - electrical technology - KorAcademy  koracademy.com › sites › default › files › inline-files",
+        "description": "28-May-2022  ·  D.C. Generators Questions and Answers on D.C. Generators. ... Mechanical are the common forms with numerous varieties of engineering - applications.",
+        "url": "https://koracademy.com/sites/default/files/inline-files/Theraja%202.pdf"
+    },
+    {
+        "rank": 121,
+        "title": "[PDF] EE102 - IIT Guwahati  www.iitg.ac.in › eee › files › EE102_General_Instructions",
+        "description": "09-Mar-2023  ·  Department of Electronics & Electrical Engineering ... answers to questions in the lab manual should be handwritten on A4 sheets and included after this.",
+        "url": "https://www.iitg.ac.in/eee/ee102/files/2023/EE102_General_Instructions.pdf"
+    },
+    {
+        "rank": 122,
+        "title": "[PDF] DIAN - South Central Railway  scr.indianrailways.gov.in › uploads › files",
+        "description": "05-May-2022  ·  for the post of Junior Engineer/Electrical and Junior Engineer/Mechanical respectivelyin ... question will be deducted for wrong answers.",
+        "url": "https://scr.indianrailways.gov.in/uploads/files/1648642590703-Adobe%20Scan.pdf"
+    },
+    {
+        "rank": 123,
+        "title": "[PDF] AI-based Question Answering Assistance for Analyzing Natural ...  arxiv.org › pdf",
+        "description": "10-Feb-2023  ·  School of Electrical Engineering and Computer Science, University of Ottawa, Canada ... Question answering (QA), i.e., mechanisms to instantly ob-.",
+        "url": "https://arxiv.org/pdf/2302.04793"
+    },
+    {
+        "rank": 124,
+        "title": "[PDF] 12.02.2023) PROVISIONAL ANSWER KEY - BPSC  www.bpsc.bih.nic.in › Advt",
+        "description": "18-Feb-2023  ·  Amongst all the States of India, answer would have been Maharashtra but as asked in the question, amongst the given list of States, correct answer is Karnataka.",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-02-18-02.pdf"
+    },
+    {
+        "rank": 125,
+        "title": "[PDF] PROVISIONAL ANSWER KEY Question Code: 107/2022 Medium of ...  www.keralapsc.gov.in › sites › default › files › key",
+        "description": "03-Nov-2022  ·  PROVISIONAL ANSWER KEY. Question Code: 107/2022 ... QUESTION BOOKLET ALPHACODE A ... Name of Post: Draftsman Gr II/ Overseer Gr II (Electrical).",
+        "url": "https://www.keralapsc.gov.in/sites/default/files/2022-11/key.pdf"
+    },
+    {
+        "rank": 126,
+        "title": "[PDF] ELECTRICAL AND ELECTRONICS ENGINEERING - Pearson | India  in.pearson.com › india › pearson-india › Support › pdf › ECE_2017",
+        "description": "03-Apr-2023  ·  o 450+ unsolved questions o 300+ MCQs with answers. Contents. 1. System of Units. 2. Electrons in Action. 3. Electric Circuits. 4. Simple D.C. Circuits.",
+        "url": "https://in.pearson.com/content/dam/region-growth/india/pearson-india/Support/pdf/ECE_2017.pdf"
+    },
+    {
+        "rank": 127,
+        "title": "[PDF] RECRUITMENT OF SCIENTIST/ENGINEER 'SC'(CEPO streams  www.isro.gov.in › media_isro › pdf › recruitmentNotice › 2023_May",
+        "description": "24-May-2023  ·  FREQUENTLY ASKED QUESTIONS AND ANSWERS ... sh to apply for the post of Scientist/Engineer 'SC'. I am un ... post Scientist/Engineer 'SC' (Electrical)?.",
+        "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2023_May/FREQUENTLY_ASKED_QUESTIONS_CEPO_2023.pdf"
+    },
+    {
+        "rank": 128,
+        "title": "[PDF] 154-Safety INTERVIE QUESTIONS and answers - HSSE WORLD  hsseworld.com › wp-content › uploads › 2021/12 › 154-SAFETY-IN...",
+        "description": "31-Dec-2021  ·  154-SAFETY INTERVIEW QUESTIONS & ANSWERS. 1. What is Safety? ... the safety factors in the plant on the base engineering, analysis, testing, measurement.",
+        "url": "https://hsseworld.com/wp-content/uploads/2021/12/154-SAFETY-INTERVIEW-QUESTIONs.pdf"
+    },
+    {
+        "rank": 129,
+        "title": "[PDF] Notif-ESEP-21-Engl-07042021.pdf - UPSC  upsc.gov.in › sites › default › files › Notif-ESEP-21-Engl-07042021",
+        "description": "07-Apr-2021  ·  Indian Naval Material Management Service (Electrical Engineering Posts) ... There are four alternative for the answers to every question. For each question ...",
+        "url": "https://upsc.gov.in/sites/default/files/Notif-ESEP-21-Engl-07042021.pdf"
+    },
+    {
+        "rank": 130,
+        "title": "[PDF] 03/09/2022 ASSISTANT EXECUTIVE ENGINEERS I  websitenew.tspsc.gov.in › preview",
+        "description": "03-Sept-2022  ·  Must possess a Bachelor's Degree in Electrical Engineering ... 9) To answer any numerical answer type question, you need to use the virtual numeric key pad.",
+        "url": "https://websitenew.tspsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJLzEyLTIwMjItQUVFUy1OT1RJRk4yMDIyMDkxNjEyMDY1MS5wZGY=r95v17a0y2d8i13v"
+    },
+    {
+        "rank": 131,
+        "title": "[PDF] MADE EASY  www.madeeasy.in › uploads › Files",
+        "description": "12-May-2023  ·  UPSC ENGINEERING SERVICES EXAMINATION. Electrical Engineering ... Do not write anything other than the actual answers to the questions anywhere inside.",
+        "url": "https://www.madeeasy.in/uploads/Files/1075purl_EE-1(2).pdf"
+    },
+    {
+        "rank": 132,
+        "title": "[PDF] Electronics Quiz Questions With Answers  kpdashboard.aidscontrol.gov.lk › trackid › FileName=Electronics Qui...",
+        "description": "30-Apr-2023  ·  Basic Electronics Questions and Answers - Electronics Post ... Semiconductor Theory Questions | with Answers | Electrical Engineering Mcqs TOP 15 Electronic ...",
+        "url": "https://kpdashboard.aidscontrol.gov.lk/trackid?docid=61557&FileName=Electronics%20Quiz%20Questions%20With%20Answers.pdf"
+    },
+    {
+        "rank": 133,
+        "title": "Assessing the current and potential Educational use of an Electrical ...  ieeexplore.ieee.org › iel7",
+        "description": "28-Dec-2021  ·  INDEX TERMS Electrical Engineering Education, Educational Activities, Videos, YouTube ... questions were answered by the totality of the sample, the.",
+        "url": "https://ieeexplore.ieee.org/iel7/6287639/6514899/09664558.pdf"
+    },
+    {
+        "rank": 134,
+        "title": "[PDF] UGC, Govt. of India) UG Model question paper - mrcet.ac.in  mrcet.com › EEE › Electrical & Hybrid Vehicles Question Bank",
+        "description": "01-Mar-2021  ·  Answer five questions, choosing one ... With a neat sketch, explain the configuration of Series hybrid electric ... MALLA REDDY COLLEGE OF ENGINEERING &.",
+        "url": "https://mrcet.com/downloads/Labmanuals/EEE/Electrical%20&%20Hybrid%20Vehicles%20Question%20Bank.pdf"
+    },
+    {
+        "rank": 135,
+        "title": "[PDF] Petroleum Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 1282_Petroleum_Engine...",
+        "description": "06-Feb-2021  ·  These interview questions and answers on Petroleum Engineering will help you ... B. measuremet of density, elasticity and magnetic & electric properties of ...",
+        "url": "https://interviewquestionsanswers.org/download/1282_Petroleum_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 136,
+        "title": "[PDF] NOTICE-NF-9-Question-Papers-along-with-Answer-Keys.pdf  iith.ac.in › assets › files › NOTICE-NF-9-Question-Papers-along-with-...",
+        "description": "15-Mar-2022  ·  inviting answer key challenges, if any, latest by 5:00 PM of 20 March 2022. Junior Technician (CSP), Electrical Engineering. Question Paper:.",
+        "url": "https://iith.ac.in/assets/files/pdf/NOTICE-NF-9-Question-Papers-along-with-Answer-Keys.pdf"
+    },
+    {
+        "rank": 137,
+        "title": "[PDF] 12/09/2022 ASSISTANT ENGINEER, MUNICIPAL A  websitenew.tspsc.gov.in › preview",
+        "description": "12-Sept-2022  ·  11 Assistant Engineer (Electrical) I & CAD Dept ... 9) To answer any numerical answer type question, you need to use the virtual numeric key pad.",
+        "url": "https://websitenew.tspsc.gov.in/preview/RElSRUNUUkVDUlVJVE1FTlROT1RJLzE2LTIwMjItQUVTLUpUT18yMC1OT1RJRk4yMDIyMDkyMzIyMDYyMDIwMjIwOTI0MTEyMTE2LnBkZg==r95v17a0y2d8i13v"
+    },
+    {
+        "rank": 138,
+        "title": "[PDF] ELECTRICAL CIRCUIT ANALYSIS  biet.ac.in › pdfs › ELECTRICALCIRCUIT2",
+        "description": "18-May-2021  ·  Department of Electrical and Electronics and Engineering ... Basic Electrical Engineering. ... SHORT ANSWER QUESTIONS. S.No. Question. Blooms Taxanomy.",
+        "url": "https://biet.ac.in/pdfs/ELECTRICALCIRCUIT2.pdf"
+    },
+    {
+        "rank": 139,
+        "title": "[PDF] Maharashtra State Power Generation Company Ltd. - MAHAGENCO  www.mahagenco.in › uploads › 2023/04 › AE-JE-info-handout-1",
+        "description": "22-Apr-2023  ·  ASSISTANT ENGINEER (MECHANICAL, ELECTRICAL AND INSTRUMENTATION) AND ... Out of the five answers to a question only one will be the correct answer.",
+        "url": "https://www.mahagenco.in/wp-content/uploads/2023/04/AE-JE-info-handout-1.pdf"
+    },
+    {
+        "rank": 140,
+        "title": "[PDF] Government of Maharashtra - Chief Electrical Inspector  www.ceimah.in › media › cese_exam_dec_2022_detail_advertisement",
+        "description": "29-Nov-2021  ·  DETAILED ADVERTISEMENT FOR CHARTERED ELECTRICAL SAFETY ENGINEER ... Examination will be conducted online and will consist of 100 Multiple Choice Questions.",
+        "url": "https://www.ceimah.in/uploads/cie/gallery/media/cese_exam_dec_2022_detail_advertisement.pdf"
+    },
+    {
+        "rank": 141,
+        "title": "[PDF] 70 All parts of a question must be answered at one place only  srkrec.edu.in › files › BTECH › R16-BTECH-EEE-MODELPAPERS",
+        "description": "26-Dec-2022  ·  ELECTRICAL ENGINEERING. Time: 3 Hrs. Max. Marks: 70. Question No. 1 compulsory. Answer any FOUR questions from the remaining. All Questions Carry equal ...",
+        "url": "https://srkrec.edu.in/files/SYLLABUS/R16/BTECH/MODEL_PAPERS/R16-BTECH-EEE-MODELPAPERS.pdf"
+    },
+    {
+        "rank": 142,
+        "title": "[PDF] Engineering Thermodynamics 2 Marks Question and Answers Unit I  www.vsbec.com › uploads › 2022/03 › Mech-III-Sem-Question-Bank",
+        "description": "31-Mar-2022  ·  Department of Mechanical Engineering, ... 2 Marks Question and Answers ... The heat rate is the amount of energy used by an electrical generator or power ...",
+        "url": "https://www.vsbec.com/wp-content/uploads/2022/03/Mech-III-Sem-Question-Bank.pdf"
+    },
+    {
+        "rank": 143,
+        "title": "[PDF] EE 8004 – Modern Power Converters Unit II  www.chettinadtech.ac.in › MCQ2021",
+        "description": "17-Apr-2021  ·  Department of Electrical and Electronics Engineering ... power-electronics-questions-answers-advance-three-phase-convters-q3. Find the fundamental component ...",
+        "url": "https://www.chettinadtech.ac.in/MCQ2021/EE8004_MPC_Unit%202.pdf"
+    },
+    {
+        "rank": 144,
+        "title": "[PDF] Subject Code : EE103ES Regulations : R18 - JNTUH Class  biet.ac.in › pdfs › ECE-BEE",
+        "description": "27-Nov-2021  ·  for all subjects of the Electrical Engineering discipline. ... Basic Electrical Engineering - D.P. Kothari and I.J. Nagrath, ... Short Answer Questions-.",
+        "url": "https://biet.ac.in/pdfs/ECE-BEE.pdf"
+    },
+    {
+        "rank": 145,
+        "title": "[PDF] ENGLISH FOR ELECTRICAL ENGINEERS  ela.kpi.ua › bitstream › English_for_Electrical_Engineers_Part 2",
+        "description": "23-Jun-2022  ·  The study and practice book 'English for Electrical Engineers, Part 2' is intended for ... Ask and answer the questions with your partner.",
+        "url": "https://ela.kpi.ua/bitstream/123456789/47971/1/English_for_Electrical_Engineers_Part%202.pdf"
+    },
+    {
+        "rank": 146,
+        "title": "[PDF] Special Vacation Batches for Students who intend to pursue Engg ...  www.vidyalankar.org › assets › docs › diptodeg › diptodeg-prospectus",
+        "description": "16-Feb-2021  ·  Electronics & Electrical Engineering Group Branches ... study material including Graded Questions (GQ), Notes (in Question & Answer format with Solved.",
+        "url": "https://www.vidyalankar.org/engineering/assets/docs/diptodeg/diptodeg-prospectus.pdf"
+    },
+    {
+        "rank": 147,
+        "title": "[PDF] SECURITIES AND EXCHANGE BOARD OF INDIA - SEBI  www.sebi.gov.in › sebi_data › careerfiles › feb-2021",
+        "description": "28-Feb-2021  ·  Note : For General, Engineering (Civil), Engineering (Electrical) and Research Streams ... (i) Number of questions answered correctly by a candidate in each ...",
+        "url": "https://www.sebi.gov.in/sebi_data/careerfiles/feb-2021/1612760616467.pdf"
+    },
+    {
+        "rank": 148,
+        "title": "[PDF] Electrician questions and answers pdf - Squarespace  static1.squarespace.com › static",
+        "description": "01-Dec-2022  ·  It is the very reason for the growth in the field of electrical engineering. ... importance of electrical MCQ questions and answers has been increased very ...",
+        "url": "https://static1.squarespace.com/static/64903bcf380e4d2cc2ab4bb6/t/64a25b4300d14a2aed063013/1688361795959/26522435001.pdf"
+    },
+    {
+        "rank": 149,
+        "title": "[PDF] SSC-Junior Engineer : General Intelligence, Reasoning and ...  madeeasypublications.org › 9789389269499_SSC-JE_Reasoning_2020",
+        "description": "11-Jan-2021  ·  Civil, Mechanical and Electrical Engineering ... (ii) General Awareness:Questions will be aimed at testing the candidate's general awareness of the ...",
+        "url": "https://madeeasypublications.org/document/book/9789389269499_SSC-JE_Reasoning_2020.pdf"
+    },
+    {
+        "rank": 150,
+        "title": "[PDF] Galgotias College of Engineering & Technology  galgotiacollege.edu › 12-KEE151P-251P-Basic-Electrical-Engg-Lab",
+        "description": "18-Jan-2022  ·  SUBJECT NAME WITH CODE:BASIC ELECTRICAL ENGINEERING ... Note: - All questions are compulsory and carry equal marks. ... Answer. Q. No. Answer.",
+        "url": "https://galgotiacollege.edu/assets/pdfs/12-KEE151P-251P-Basic-Electrical-Engg-Lab.pdf"
+    },
+    {
+        "rank": 151,
+        "title": "[PDF] Technical Interview Questions for Instrumentation Engineering  pdfcoffee.com › download › instrumentation-interview-questions-and...",
+        "description": "27-Feb-2021  ·  Answer GPS, or Global Positioning System, is a satellite-based navigation system. GPS works via a system of satellites and receiving devices used to compute ...",
+        "url": "https://pdfcoffee.com/download/instrumentation-interview-questions-and-answers-pdf-free.html"
+    },
+    {
+        "rank": 152,
+        "title": "[PDF] do not open this test booklet until you are told to do so tbc: fgt-b-mch  www.upsc.gov.in › sites › files › QP-ESPE-21-MECH-ENGG-190721",
+        "description": "16-Nov-2022  ·  For each question for which a wrong answer has been given by the candidate, one-third (0-33) of the marks assigned to that question will be deducted as penalty.",
+        "url": "https://www.upsc.gov.in/sites/default/files/QP-ESPE-21-MECH-ENGG-190721.pdf"
+    },
+    {
+        "rank": 153,
+        "title": "[PDF] EEE 2302: Industrial Organization and Management Section A  exampapers.must.ac.ke › wp-content › uploads › 2021/09 › EEE-230...",
+        "description": "02-Oct-2021  ·  Diploma in Electrical engineering, Y2S1. EEE 2302: Industrial Organization and Management. Section A (answer all the questions). Question One.",
+        "url": "https://exampapers.must.ac.ke/wp-content/uploads/2021/09/EEE-2302-Industrial-Organization-and-Management-1.pdf"
+    },
+    {
+        "rank": 154,
+        "title": "[PDF] Sample paper of Objective type questions (Telecom ) - Indian Railway  cr.indianrailways.gov.in › cris › uploads › files",
+        "description": "06-Jan-2021  ·  Question Paper for: Junior Engineer Telecommunication. Duration: ---------. For one incorrect answer : 0.33 mark cut. Answer all Thequestion.",
+        "url": "https://cr.indianrailways.gov.in/cris//uploads/files/1579591066448-Ques%20Bank%20For%20JE%20TELECOM.pdf"
+    },
+    {
+        "rank": 155,
+        "title": "[PDF] Analyzing ChatGPT's Aptitude in an Introductory Computer ... - arXiv  arxiv.org › pdf",
+        "description": "14-Apr-2023  ·  answering quizzes, homework, exam, and laboratory questions ... sophomores interested in majoring in Electrical Engineering.",
+        "url": "https://arxiv.org/pdf/2304.06122"
+    },
+    {
+        "rank": 156,
+        "title": "[PDF] online recruitment examination for category iii posts (phase - ii) - FCI  recruitmentfci.in › assets › current_category_III › IH_Phase_II",
+        "description": "03-Sept-2022  ·  J.E. (Civil Engineering), J.E. (Electrical Mechanical Engineering), AG-III (General), ... (i) Number of questions answered correctly by a candidate in each ...",
+        "url": "https://recruitmentfci.in/assets/current_category_III/IH_Phase_II.pdf"
+    },
+    {
+        "rank": 157,
+        "title": "[PDF] ME6701-Power Plant Engineering Question Bank  www.rmkcet.ac.in › eee › Notes › ME6701-Power Plant Engineering ...",
+        "description": "14-Jul-2021  ·  R.M.K College of Engineering and Technology. DEPARTMENT OF ELECTRICAL AND ELECTRONICS ENGINEERING. QUESTION BANK. SUBJECT: ME6701-POWER PLANT ENGINEERING.",
+        "url": "https://www.rmkcet.ac.in/eee/Notes/Power_Plant_Engineering_ME%206701/ME6701-Power%20Plant%20Engineering%20Question%20Bank.pdf"
+    },
+    {
+        "rank": 158,
+        "title": "Students Perceptions on Teaching Design of Power Electronics ...  ieeexplore.ieee.org › iel7",
+        "description": "21-Jun-2022  ·  the field of electrical engineering in Higher Education, whereas the latter pertains to its ... include additional time for answering technical questions.",
+        "url": "https://ieeexplore.ieee.org/iel7/6287639/9668973/09797712.pdf"
+    },
+    {
+        "rank": 159,
+        "title": "[PDF] Frequently Asked Questions and Answers  www.dli.mn.gov › sites › default › files › pdf › solarFAQ",
+        "description": "11-Jul-2022  ·  Answer: Please contact the Minnesota Board of Architecture and Engineering at https://mn.gov/aelslagid/index.html or 651-296-2388. Electrical Code and Technical ...",
+        "url": "https://www.dli.mn.gov/sites/default/files/pdf/solarFAQ.pdf"
+    },
+    {
+        "rank": 160,
+        "title": "[PDF] 1918106-Applied Mathematics for Electrical Engineers  srmvalliammai.ac.in › wp-content › uploads › 2022/05 › 1918106-ap...",
+        "description": "31-May-2022  ·  SRM Nagar, Kattankulathur – 603 203. Page 2. SRM VALLIAMMAI ENGEINEERING COLLEGE. QUESTION BANK. SUBJECT : 1918106 – APPLIED ...",
+        "url": "https://srmvalliammai.ac.in/wp-content/uploads/2022/05/1918106-applied-mathematics-for-electrical-engineers.pdf"
+    },
+    {
+        "rank": 161,
+        "title": "[PDF] Download/View - Tripura Public Service Commission |  tpsc.tripura.gov.in › sites › default › files › syll_tes-va-b_161122",
+        "description": "27-Oct-2022  ·  Engineering Branch and Electrical Engineering papers are compulsory for ... Questions in all the papers shall be answered only in English and in no other ...",
+        "url": "https://tpsc.tripura.gov.in/sites/default/files/syll_tes-va-b_161122.pdf"
+    },
+    {
+        "rank": 162,
+        "title": "[PDF] Mark Scheme for January 2021 - OCR  www.ocr.org.uk › Images › 646616-mark-scheme-principles-of-electr...",
+        "description": "15-Jan-2021  ·  Unit 4: Principles of electrical and electronic engineering ... Mark Scheme. January 2021. 4. Question. Answer. Marks. Guidance.",
+        "url": "https://www.ocr.org.uk/Images/646616-mark-scheme-principles-of-electrical-and-electronic-engineering.pdf"
+    },
+    {
+        "rank": 163,
+        "title": "[PDF] Engineering Physics Multiple Choice Questions LASER  www.gcoeara.ac.in › learning_material › app-sci",
+        "description": "06-May-2022  ·  This set of Optical Communications Multiple Choice Questions & Answers. (MCQs) focuses on “Optical Fibers”. 1. Multimode step index fiber has ______ a) Large ...",
+        "url": "https://www.gcoeara.ac.in/learning_material/app-sci/Laser%20and%20Fiber%20Optics-MCQS.pdf"
+    },
+    {
+        "rank": 164,
+        "title": "[PDF] Question Bank on LHB Coaches - RDSO  rdso.indianrailways.gov.in › uploads › files › Question Bank (Electric...",
+        "description": "22-Mar-2021  ·  \"Question Bank (Electricals) on LHB Coaches\" contains objective- ... Question Bank on LHB Coaches (Electrical). March, 2021. ANSWERS. 1. GENERAL QUESTIONS.",
+        "url": "https://rdso.indianrailways.gov.in/uploads/files/Question%20Bank%20(Electrical)%20on%20LHB%20Coaches-%2031_03_21(1).pdf"
+    },
+    {
+        "rank": 165,
+        "title": "[PDF] Applied Electronics Msbte Sample Question Paper  dev.sfcg.org › filedownload",
+        "description": "06-Jan-2023  ·  Basic Electrical and Electronics Engineering ... answers, review questions, and programming exercises to help readers test their knowledge. MANUFACTURI.",
+        "url": "https://dev.sfcg.org/filedownload?article=69191&FileName=Applied%20Electronics%20Msbte%20Sample%20Question%20Paper.pdf"
+    },
+    {
+        "rank": 166,
+        "title": "[PDF] do not open this test booklet until you are told to do so - tbc: fgt-b-elx  www.upsc.gov.in › default › files › QP-ESPE-21-ET-ENGG-190721",
+        "description": "19-Jul-2021  ·  ELECTRONICS & TELECOMMUNICATION ENGINEERING ... If a question is left blank, i.e., no answer is given by the candidate, there will be no penalty for that.",
+        "url": "https://www.upsc.gov.in/sites/default/files/QP-ESPE-21-ET-ENGG-190721.pdf"
+    },
+    {
+        "rank": 167,
+        "title": "[PDF] Advt. No. CC/09/2022 - POWERGRID  www.powergrid.in › sites › default › files › Detailed_Advertisement_1",
+        "description": "21-Nov-2022  ·  Field Engineer (Electrical) ... Engineering/ Power Engineering (Electrical) ... Technical Knowledge Test – 50 questions based on Engineering syllabus in the ...",
+        "url": "https://www.powergrid.in/sites/default/files/job_opportunities_document/Detailed_Advertisement_1.pdf"
+    },
+    {
+        "rank": 168,
+        "title": "[PDF] Basic Mechanical Engineering Objective Type Questions Answers  www.marketspot.uccs.edu › drive › FilesData=Basic+Mechanical+Eng...",
+        "description": "14-Sept-2021  ·  Technical Interview E- book ... Industrial. Engineering Objective. Type Questions with. Answers - Set 05 ... Lab. Electrical MCQ. Electrical Quiz Engg.",
+        "url": "https://www.marketspot.uccs.edu/drive?idshelves=N75r762&FilesData=Basic+Mechanical+Engineering+Objective+Type+Questions+Answers.pdf"
+    },
+    {
+        "rank": 169,
+        "title": "[PDF] Section 1 - Reasoning No. of Questions - Bureau of Indian Standards  www.bis.gov.in › wp-content › uploads › 2020/12 › answer-key",
+        "description": "31-Dec-2020  ·  Which of the following questions can be answered by using the given statement? ... 199) How much electrical energy will be spent when a current 'I' flows ...",
+        "url": "https://www.bis.gov.in/wp-content/uploads/2020/12/answer-key.pdf"
+    },
+    {
+        "rank": 170,
+        "title": "[PDF] IEB - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › IEB",
+        "description": "02-Jan-2023  ·  MSBTE QUESTION PAPERS & MODEL ANSWERS ... Electrical Engineering Program Group. Program Code ... (4) Sub-questions in a main question carry equal marks.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/IEB.pdf"
+    },
+    {
+        "rank": 171,
+        "title": "[PDF] PRACTICE of Professional Engineering Examination  peb.gov.sg › Downloads › PPE_2021",
+        "description": "11-Mar-2021  ·  electrical/chemical engineering. 4 hrs 10 mins. • Answer 1 compulsory question plus 4 out of 7 questions. (Note: For PPE 2021 Part 2 Civil, only answers ...",
+        "url": "https://peb.gov.sg/Downloads/PPE_2021.pdf"
+    },
+    {
+        "rank": 172,
+        "title": "[PDF] ESE 2023 Mains Test Series - MADE EASY  madeeasy.in › Uploads › image",
+        "description": "26-Mar-2023  ·  (Question cum answer booklet) to write the test. ... No. of Questions : 8 ... Basic Electronics Engineering + Analog Electronics + Electrical Materials (All ...",
+        "url": "https://madeeasy.in/Uploads/image/2086imguf_ESE-2023-Mains-Test-Series.pdf"
+    },
+    {
+        "rank": 173,
+        "title": "[PDF] SAP - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › SAP",
+        "description": "02-Jan-2023  ·  MSBTE QUESTION PAPERS & MODEL ANSWERS ... Electrical Engineering Program Group. Program Code ... (4) Sub-questions in a main question carry equal marks.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/SAP.pdf"
+    },
+    {
+        "rank": 174,
+        "title": "[PDF] Automobile Engineering Job Interview Questions And Answers  interviewquestionsanswers.org › download › 726_Automobile_Engin...",
+        "description": "06-Feb-2021  ·  Automobile Engineering Interview Questions And Answers. Guide. Question - 1: Define limit, and fit? Ans: fit is defined as the the degree of ...",
+        "url": "https://interviewquestionsanswers.org/download/726_Automobile_Engineering_Interview_Questions_Answers_Guide.pdf"
+    },
+    {
+        "rank": 175,
+        "title": "[PDF] Network analysis questions and solutions pdf - Squarespace  static1.squarespace.com › static",
+        "description": "28-May-2023  ·  Network analysis questions and answers. ... He received his B.S. and M.S. in electrical engineering at Ohio University, where he was later recognized as a ...",
+        "url": "https://static1.squarespace.com/static/6454dc47181ed94ba3bbb498/t/6473b1493730d674ef485887/1685303627365/4645171252.pdf"
+    },
+    {
+        "rank": 176,
+        "title": "[PDF] PhD Admission Test (WRET) Modalities: 2022-2023  jadavpuruniversity.in › 2023/02 › MAIN-CAMPUS-WRET-Modalities",
+        "description": "01-Feb-2023  ·  Faculty of Engineering & Technology ... Candidates have to answer 50 questions in 1 hr., which ... knowledge of Electrical Engineering followed by ii).",
+        "url": "https://jadavpuruniversity.in/wp-content/uploads/2023/02/MAIN-CAMPUS-WRET-Modalities.pdf"
+    },
+    {
+        "rank": 177,
+        "title": "[PDF] ELEC1111 Electrical Circuit Fundamentals  www.unsw.edu.au › 2020-11-ELEC1111-T3-2020-Course-Outline",
+        "description": "31-Oct-2020  ·  School of Electrical Engineering and Telecommunications ... You are welcome to email the tutors or laboratory contact, who can answer your questions on this.",
+        "url": "https://www.unsw.edu.au/content/dam/pdfs/unsw-adobe-websites/engineering/electrical-engineering-telecomunications/course-outlines/2020-10-engineering/term-3/2020-11-ELEC1111-T3-2020-Course-Outline.pdf"
+    },
+    {
+        "rank": 178,
+        "title": "[PDF] ELEC1111 - Electrical Circuit Fundamentals Term 1, 2022  www.unsw.edu.au › course-outlines › 2022-02-ELEC1111_2022_T1",
+        "description": "08-Feb-2022  ·  School of Electrical Engineering & Telecommunications. UNSW Engineering ... your questions on this course and can also provide you with consultation times.",
+        "url": "https://www.unsw.edu.au/content/dam/pdfs/unsw-adobe-websites/engineering/electrical-engineering-telecomunications/course-outlines/2022-term-1-and-summer-2022/2022-02-ELEC1111_2022_T1.pdf"
+    },
+    {
+        "rank": 179,
+        "title": "[PDF] Formation of Gr B Electrical Panel of AEE against 70%  eastcoastrail.indianrailways.gov.in › uploads › files",
+        "description": "22-Feb-2021  ·  Engineering Department of East Coast Railway for the assessment period 2021-22 ... as A, B, C, D (only Capital letters) and answers to such questions by the ...",
+        "url": "https://eastcoastrail.indianrailways.gov.in/uploads/files/1614084079568-aee%2070.pdf"
+    },
+    {
+        "rank": 180,
+        "title": "[PDF] Electrical Engineering Career Plan Electives  www.sc.edu › study › curricula › ee_career_plan_electives_before2022",
+        "description": "25-Aug-2022  ·  The answers to these questions can help you decide on what elective courses to take. You may have already participated or participating in research with faculty ...",
+        "url": "https://www.sc.edu/study/colleges_schools/engineering_and_computing/internal/documents/curricula/ee_career_plan_electives_before2022.pdf"
+    },
+    {
+        "rank": 181,
+        "title": "[PDF] List of Sample Questions with answers for departmental examination ...  er.indianrailways.gov.in › uploads › files › 1594107959506-SAMPL...",
+        "description": "27-Feb-2022  ·  List of Sample Questions with answers for departmental examination of ... (a) Engineering & Electrical Department (b)Engineering &TRD Department (c) Between.",
+        "url": "https://er.indianrailways.gov.in/uploads/files/1594107959506-SAMPLE%20MULTIPLE%20TYPE%20QUESTIONS_1_-442665849.pdf"
+    },
+    {
+        "rank": 182,
+        "title": "[PDF] Electrical Engineering Interview Questions And Answers  patape.fenicio.com.uy › viewcontent › FileName=Electrical Engineeri...",
+        "description": "20-May-2023  ·  Merely said, the Electrical Engineering Interview Questions And Answers is universally compatible later than any devices to read. 150 technical questions and ...",
+        "url": "https://patape.fenicio.com.uy/viewcontent?dataid=82096&FileName=Electrical%20Engineering%20Interview%20Questions%20And%20Answers.pdf"
+    },
+    {
+        "rank": 183,
+        "title": "[PDF] Formation of Gr B Electrical Panel of AEE against 30%  eastcoastrail.indianrailways.gov.in › uploads › files",
+        "description": "22-Feb-2021  ·  216/2019)- Group-C technical employees of Electrical Engineering of ECOR working ... as A,B,C,D (only Capital letters) and answers to such questions by the ...",
+        "url": "https://eastcoastrail.indianrailways.gov.in/uploads/files/1614084392749-AEE%2030.pdf"
+    },
+    {
+        "rank": 184,
+        "title": "[PDF] Department of Electrical & Electronics Engineering Power Research ...  presidencyuniversity.in › wp-content › uploads › 2022/12 › Worksho...",
+        "description": "29-Dec-2022  ·  Department of Electrical and Electronics Engineering ... platform for the question and answers session, the resource and address/clarify all the.",
+        "url": "https://presidencyuniversity.in/wp-content/uploads/2022/12/Workshop-on-Simulation-Analysis-of-Power-Systems-u.pdf"
+    },
+    {
+        "rank": 185,
+        "title": "[PDF] recruitment of vidyut sahayak (junior engineer) - GSECL  www.gsecl.in › uploads › 2021/08 › Final-Advt.-VS-JE-2021-22.pdf",
+        "description": "25-Aug-2021  ·  Section : III Electrical Engineering covering following topics (60%) ... Question/Answer Key and if any objection, the same can be raised on.",
+        "url": "https://www.gsecl.in/wp-content/uploads/2021/08/Final-Advt.-VS-JE-2021-22.pdf"
+    },
+    {
+        "rank": 186,
+        "title": "[PDF] CRITERION 3 Course Outcomes and Program Outcomes 175  nitsri.ac.in › Department › Electrical Engineering",
+        "description": "16-Jul-2021  ·  participate in continuing education in electrical engineering, business, ... the duration of 25 minutes including a question answering session of 5 to 10 ...",
+        "url": "https://nitsri.ac.in/Department/Electrical%20Engineering/C-3U.pdf"
+    },
+    {
+        "rank": 187,
+        "title": "[PDF] vocational practicals question bank - tsbie  tsbie.cgg.gov.in › scannedPhotos › Circulars › NEW_VOCATIONAL...",
+        "description": "23-Apr-2022  ·  ELECTRICAL TECHNICIAN. FIRST YEAR. QUESTION BANK. Paper II: Engineering Drawing[321/22]. Time: 3hrs. Max.Marks: 50. SECTION-I. 1X20=20 Marks.",
+        "url": "https://tsbie.cgg.gov.in/scannedPhotos/Circulars/NEW_VOCATIONAL_PRACTICAL_QUESTION_BANK_for_321_ET.pdf"
+    },
+    {
+        "rank": 188,
+        "title": "[PDF] Wbsedcl sub assistant engineer previous year question paper pdf  static1.squarespace.com › static",
+        "description": "10-May-2023  ·  West Bengal SEDCL Model Papers with Answers Download WBSEDCL AE Previous Question Papers for EEE WBSEDCL AE Previous Papers for Electrical Engineering – EEE ...",
+        "url": "https://static1.squarespace.com/static/6454d0e3f3bc4754dc7070f4/t/645b804ed4de1c0fa7de0dfc/1683718222581/60346473426.pdf"
+    },
+    {
+        "rank": 189,
+        "title": "[PDF] Solution of High Voltage Engineering Question Paper March 2021  203.201.63.46 › jspui › bitstream › VTU exam Question Paper with S...",
+        "description": "15-Mar-2021  ·  Conduction electrons gain sufficient energy above a certain critical electric field and cause liberation of electrons from the lattice atoms by collisions. • ...",
+        "url": "http://203.201.63.46:8080/jspui/bitstream/123456789/6243/11/VTU%20exam%20Question%20Paper%20with%20Solution%20of%2018EE56%20High%20Voltage%20Engineering%20March-2021-Parvathy%20Thampi%20M.S..pdf"
+    },
+    {
+        "rank": 190,
+        "title": "[PDF] Electrical-Electronic-Principles-Technology-John-Bird-2nd-Ed.pdf  nit-edu.org › wp-content › uploads › 2021/09 › Electrical-Electronic-...",
+        "description": "30-Sept-2021  ·  the problems - multi-choice, short answer and fur- ther questions - mirror practical situations found in electrical and electronic engineering.",
+        "url": "https://nit-edu.org/wp-content/uploads/2021/09/Electrical-Electronic-Principles-Technology-John-Bird-2nd-Ed.pdf"
+    },
+    {
+        "rank": 191,
+        "title": "[PDF] ELECTRICAL MACHINES-I  biet.ac.in › pdfs › ELECTRICALMACHINES 2",
+        "description": "16-Nov-2022  ·  Department of Electrical and Electronics and Engineering ... UNIT – I. DC Generators. Short answer questions: S.No. Question. Blooms. Taxonomy.",
+        "url": "https://biet.ac.in/pdfs/ELECTRICALMACHINES%202.pdf"
+    },
+    {
+        "rank": 192,
+        "title": "[PDF] DEPARTMENT OF ELECTRICAL ENGINEERING  gcekbpatna.ac.in › RPGS_complete_Lecture_note1_inpdf_compressed1",
+        "description": "01-May-2021  ·  This set of Energy Engineering Multiple Choice Questions & Answers (MCQs) focuses on “Wind. Turbine Operation”. 1. What is the inherent weakness of all wind ...",
+        "url": "https://gcekbpatna.ac.in/assets/documents/lecturenotes/RPGS_complete_Lecture_note1_inpdf_compressed1.pdf"
+    },
+    {
+        "rank": 193,
+        "title": "[PDF] VIII Semesters) B. TECH IN ELECTRICAL&ELECTRONICS E  soe.cusat.ac.in › files › syllabus › files",
+        "description": "04-Sept-2021  ·  Stream A: Civil Engineering, Electrical and Electronics Engineering, ... I (a) to (h) – Eight short answer questions of 3 marks each with two.",
+        "url": "https://soe.cusat.ac.in/files/syllabus/files/Final_B%20Tech%20EEE%202019%20scheme%20&%20syllabus-9-4-2021_full.pdf"
+    },
+    {
+        "rank": 194,
+        "title": "[PDF] Farnaz Jahanbakhsh - DSpace@MIT  dspace.mit.edu › bitstream › handle › 1252064133-MIT",
+        "description": "15-Feb-2021  ·  Master of Science in Electrical Engineering and Computer Science ... Most datasets for document question answering contain factoid questions gener-.",
+        "url": "https://dspace.mit.edu/bitstream/handle/1721.1/130781/1252064133-MIT.pdf?sequence=1&isAllowed=y"
+    },
+    {
+        "rank": 195,
+        "title": "[PDF] 01. Electrical Materials_Final.pmd - MADE EASY Publications  madeeasypublications.org › 9789390564071_EE-ESE-Mains_Paper-1",
+        "description": "11-Jan-2021  ·  Electrical Engineering : Paper-I | Conventional Solved Questions : (2001-2020) ... preparation right from conceptual clarity to answer writing approach.",
+        "url": "https://madeeasypublications.org/document/book/9789390564071_EE-ESE-Mains_Paper-1.pdf"
+    },
+    {
+        "rank": 196,
+        "title": "[PDF] 115 Electrical Safety for the Employee: Basic - OSHAcademy  www.oshatrain.org › courses › studyguides",
+        "description": "02-Sept-2020  ·  Read each module, answer the quiz questions, and submit the quiz ... Amperage is often referred to as \"current\" by electrical workers and engineers.",
+        "url": "https://www.oshatrain.org/courses/studyguides/115studyguide.pdf"
+    },
+    {
+        "rank": 197,
+        "title": "[PDF] Ad_Full_71_23-72_23_pdf-2023-Mar-24-12-55-59.pdf - RITES  www.rites.com › Upload › Career › Ad_Full_71_23-72_23_pdf-2023...",
+        "description": "24-Mar-2023  ·  Full time Bachelor's degree in Electrical/ ... various Electrical Engineering items. ... no marks will be deducted in case of incorrect answer.",
+        "url": "https://www.rites.com/Upload/Career/Ad_Full_71_23-72_23_pdf-2023-Mar-24-12-55-59.pdf"
+    },
+    {
+        "rank": 198,
+        "title": "[PDF] Recruitment of Diploma Trainee (Electrical/Civil/Electronics) JOB ...  www.powergrid.in › inline-files › Detailed_Advt_DT_Final_2022_0",
+        "description": "09-Dec-2022  ·  POWERGRID requires bright, committed, and energetic Diploma engineers to be ... be of Objective Type (each question shall have four answer options) of two.",
+        "url": "https://www.powergrid.in/sites/default/files/inline-files/Detailed_Advt_DT_Final_2022_0.pdf"
+    },
+    {
+        "rank": 199,
+        "title": "[PDF] Scheme& Syllabus of B. Tech. Electrical Engineering [EE]  ptu.ac.in › wp-content › uploads › 2020/10",
+        "description": "31-Oct-2020  ·  OPEN ELECTIVES – offered by Electrical engineering department to be studied by ... Note: External question paper shall be set following guidelines to paper ...",
+        "url": "https://ptu.ac.in/wp-content/uploads/2020/10/B_Tech%20EE%202014-01-17-28022014.pdf"
+    },
+    {
+        "rank": 200,
+        "title": "[PDF] 22651-sample-question-paper[Msbte study resources].pdf  msbte.engg-info.website › sites › default › files",
+        "description": "23-Jan-2021  ·  Programme Name : Automobile Engineering. Programme code : AE. Semester. : Sixth. Course Title. : Automotive Electrical and Electronic Systems. Marks. : 70. Time ...",
+        "url": "https://msbte.engg-info.website/sites/default/files/sampleqp6sem/22651-sample-question-paper%5BMsbte%20study%20resources%5D.pdf"
+    },
+    {
+        "rank": 201,
+        "title": "[PDF] Advt. No. 10/2022 - MAHAGENCO  www.mahagenco.in › 2022/11 › Advt-No_10_2022-AE_JE_Final",
+        "description": "17-Nov-2022  ·  Electrical Stream 40% ... Engineering/ Electrical & Power Engineering. ... (i) Number of questions answered correctly by a candidate in each objective test ...",
+        "url": "https://www.mahagenco.in/eerteels/2022/11/Advt-No_10_2022-AE_JE_Final.pdf"
+    },
+    {
+        "rank": 202,
+        "title": "[PDF] SrAPO/SsC - South Central Railway  scr.indianrailways.gov.in › uploads › files",
+        "description": "28-Jan-2022  ·  Should have General Knowledge of Principles of electrical engineering, Ohn's Law, ... required to answer any 100 questions only.",
+        "url": "https://scr.indianrailways.gov.in/uploads/files/1643546145919-JE%20GS%20PRQ%2025%20Percent%20quoata.pdf"
+    },
+    {
+        "rank": 203,
+        "title": "[PDF] CURRICULUM (C-20) For Polytechnic Diploma Courses in Andhra ...  www.svec.education › C-20-Electrical-and-Electronics-Engineering",
+        "description": "28-Aug-2022  ·  short answer questions and carry three marks each. ... On completion of the Diploma Electrical & Electronics Engineering programme, the students.",
+        "url": "https://www.svec.education/wp-content/uploads/2022/08/C-20-Electrical-and-Electronics-Engineering.pdf"
+    },
+    {
+        "rank": 204,
+        "title": "[PDF] INFORMATION HANDOUT (09.10.2021) - Union Bank of India  www.unionbankofindia.co.in › pdf",
+        "description": "09-Oct-2021  ·  Manager (Electrical Engineer). MMGS - II ... The answers will be indicated online, hence you should ... Study the table carefully and answer questions.",
+        "url": "https://www.unionbankofindia.co.in/pdf/union%20bank%20of%20india%20sp%20officers%20ih%202021%20en.pdf"
+    },
+    {
+        "rank": 205,
+        "title": "[PDF] Basic Electrical & Electronics Engineering - Goa University  www.unigoa.ac.in › uploads › syllabus › be-electrical-electronics-engi...",
+        "description": "19-Aug-2021  ·  *To become eligible to answer semester I examinations it is mandatory to complete the requirements of audit course. ** Term work marks are to be awarded through ...",
+        "url": "https://www.unigoa.ac.in/uploads/syllabus/be-electrical-electronics-engineering_syllabus_11620210819.105701.pdf"
+    },
+    {
+        "rank": 206,
+        "title": "[PDF] End-point Assessment Knowledge Practice Assessment - EUIAS  www.euias.co.uk › wp-content › uploads › 2022/04 › Knowledge-Pra...",
+        "description": "30-Apr-2022  ·  EUIAS Level 4 End-point Assessment for Electrical Power Networks Engineer ... There are questions, possible answers as well as a column for you to mark.",
+        "url": "https://www.euias.co.uk/wp-content/uploads/2022/04/Knowledge-Practice-Assessment-4.pdf"
+    },
+    {
+        "rank": 207,
+        "title": "[PDF] 1603362110469-Mechanical (Power) objective.pdf  ecr.indianrailways.gov.in › cris › uploads › files",
+        "description": "22-Nov-2020  ·  Multiple choice Questions bank (Mechanical/Power deptt.) 1. In Railway Claim Tribunal, ... In EMD loco CROW BAR electric safety device protects: Answer : B.",
+        "url": "https://ecr.indianrailways.gov.in/cris//uploads/files/1603362110469-Mechanical%20(Power)%20objective.pdf"
+    },
+    {
+        "rank": 208,
+        "title": "[PDF] notification - Rail Wheel Factory  rwf.indianrailways.gov.in › uploads",
+        "description": "15-Jun-2022  ·  The candidates will have an option to answer the question paper in Hindi/English. ... Engineer in Level-6 of RSRP Rules in the Control Group of Electrical ...",
+        "url": "https://rwf.indianrailways.gov.in/uploads/je%20elec%20not%2025%25.pdf"
+    },
+    {
+        "rank": 209,
+        "title": "[PDF] SSC-JE 2022 - Mains Test Series - MADE EASY  www.madeeasy.in › Uploads › image",
+        "description": "19-Jan-2023  ·  Students can cross check the evaluated answer sheets at their dashboard. ... (Question cum answer booklet) to write the test. ... Engineering. Mechanical.",
+        "url": "https://www.madeeasy.in/Uploads/image/2037imguf_SSC-JE-2022-Mains-OTS.pdf"
+    },
+    {
+        "rank": 210,
+        "title": "[PDF] ISRO - Recruitment of Scientist/Engineer 'SC'(Based on GATE scores)  www.isro.gov.in › 2022_Nov › FAQ_SciEngr_EMC_GATE_2022",
+        "description": "28-Nov-2022  ·  FREQUENTLY ASKED QUESTIONS AND ANSWERS. 1. I wish to apply for the post of Scientist/Engineer 'SC'. I am unable to find the Link. Can.",
+        "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2022_Nov/FAQ_SciEngr_EMC_GATE_2022.pdf"
+    },
+    {
+        "rank": 211,
+        "title": "[PDF] KEY ANSWER OF: - BPSC  www.bpsc.bih.nic.in › Advt",
+        "description": "24-Jan-2023  ·  FINAL ANSWER KEY : Physics. Series-A. Series-B. Series-C. Series-D. Question. No. Answer Question. No. Answer Question. No. Answer Question. No. Answer.",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-01-24-06.pdf"
+    },
+    {
+        "rank": 212,
+        "title": "[PDF] paper iii: subject specialisation paper for electrical engineering  www.rcsc.gov.bt › wp-content › uploads › 2021/09 › 2020-Technical...",
+        "description": "27-Feb-2021  ·  questions of your choice. 4. All answers should be written on the Answer Booklet provided to you. Candidates are not allowed to write anything on the question ...",
+        "url": "https://www.rcsc.gov.bt/wp-content/uploads/2021/09/2020-Technical-Paper-III-Electrical-Engineering.pdf"
+    },
+    {
+        "rank": 213,
+        "title": "[PDF] 2014 (c-14) diploma in electrical & electronics engineering  www.sbtet.telangana.gov.in › Downloads › Syllabus › C14_DEEE",
+        "description": "19-Oct-2022  ·  Electrical Engineering Materials ... Electrical Installation and Estimation ... questions to be answered and each question carries 10 Marks. Max.",
+        "url": "https://www.sbtet.telangana.gov.in/Downloads/Syllabus/C14/C14_DEEE.pdf"
+    },
+    {
+        "rank": 214,
+        "title": "[PDF] DIPLOMA IN ELECTRICAL& ELECTRONICS ENGINEERING  mist.ac.in › polytechnic › pdf › syllabus › deee",
+        "description": "04-Nov-2022  ·  questions, out of which 5 questions each carrying 10 marks are to be answered. Max.Marks: 5 x 10 = 50. Total Maximum Marks: 80. b). For Engineering Drawing ...",
+        "url": "https://mist.ac.in/polytechnic/pdf/syllabus/c-16/deee.pdf"
+    },
+    {
+        "rank": 215,
+        "title": "[PDF] Paper Pattern - NUML  www.numl.edu.pk › campus › papers",
+        "description": "04-Feb-2022  ·  Subjective: 03 questions (Electrical Engineering). Important Instructions: ... Answers are to be attempted on the answer sheet, which is being.",
+        "url": "https://www.numl.edu.pk/campus/papers/1637638923Sample%20Model%20Paper_MS%20EE.pdf"
+    },
+    {
+        "rank": 216,
+        "title": "[PDF] Notification - TAMIL NADU PUBLIC SERVICE COMMISSION  www.tnpsc.gov.in › Document › english",
+        "description": "04-Apr-2022  ·  c) The question paper for Paper –I in the subjects Agricultural Engineering,. Electrical Engineering, Automobile Engineering, Chemical Engineering and.",
+        "url": "https://www.tnpsc.gov.in/Document/english/2022_10_CESE%20_eng.pdf"
+    },
+    {
+        "rank": 217,
+        "title": "[PDF] recruitment of scientist/engineer 'sc' - ISRO  www.isro.gov.in › media_isro › pdf › recruitmentNotice › 2023_May",
+        "description": "25-May-2023  ·  FREQUENTLY ASKED QUESTIONS AND ANSWERS ... sh to apply for the post of Scientist/Engineer 'SC'. I am un ... Electrical & Electronics. Electronics.",
+        "url": "https://www.isro.gov.in/media_isro/pdf/recruitmentNotice/2023_May/FREQUENTLY_ASKED_QUESTIONS_AND_ANSWERS_EMC_2023.pdf"
+    },
+    {
+        "rank": 218,
+        "title": "[PDF] Electrical-Electronics-Engineering-Tentative-syla.pdf  www.acharya.ac.in › assets › Electrical-Electronics-Engineering-Tenta...",
+        "description": "24-Jan-2022  ·  Students will have to answer 5 full questions, selecting one full question from each module. Text Books. 1. Electrical and electronic Measurements and.",
+        "url": "https://www.acharya.ac.in/assets/pdf/Electrical-Electronics-Engineering-Tentative-syla.pdf"
+    },
+    {
+        "rank": 219,
+        "title": "[PDF] ENGINEERING STUDENTS' RETENTION AND TRANSFER OF ...  archives.palarch.nl › index.php › jae › article › download",
+        "description": "02-May-2021  ·  Keywords- Electric Circuits; Engineering Students; Retention, ... observed during lectures, where questions often arise regarding basic mathematics.",
+        "url": "https://archives.palarch.nl/index.php/jae/article/download/3942/3891"
+    },
+    {
+        "rank": 220,
+        "title": "[PDF] The Exposure of Electrical Engineering Field as a STEM Branch ...  hrmars.com › papers_submitted › the-exposure-of-electrical-engineeri...",
+        "description": "06-Jan-2023  ·  Table 1. First Section Answer Survey. Question. Yes. Not Sure. No. Do you know electrical engineering have 5 field of studies before the webinar?",
+        "url": "https://hrmars.com/papers_submitted/16116/the-exposure-of-electrical-engineering-field-as-a-stem-branch-towards-technical-schools-students-in-malaysia.pdf"
+    },
+    {
+        "rank": 221,
+        "title": "[PDF] ECA - ZEAL POLYTECHNIC, PUNE.  zealpolytechnic.com › wp-content › uploads › 2023/01 › ECA",
+        "description": "02-Jan-2023  ·  Electrical Engineering Program Group ... (4) Sub-questions in a main question carry equal marks. ... (2) Answer each next main Question on a new page.",
+        "url": "https://zealpolytechnic.com/wp-content/uploads/2023/01/ECA.pdf"
+    },
+    {
+        "rank": 222,
+        "title": "[PDF] Program Specific Files - NIT Srinagar  nitsri.ac.in › Department › Electrical Engineering › P-27_FINAL",
+        "description": "20-Jul-2021  ·  given in section (a) and the relation of POs & PSOs with each question is given in ... skills required in Electrical Engineering ... Short answer text.",
+        "url": "https://nitsri.ac.in/Department/Electrical%20Engineering/P-27_FINAL.pdf"
+    },
+    {
+        "rank": 223,
+        "title": "[PDF] GDCE 31-05-2022: TECH-III/TRD & TECH-III/इलेक्ट्रिकल क्वेश्चन ...  nfr.indianrailways.gov.in › cris › uploads › files",
+        "description": "31-May-2022  ·  tanker A alone take to fill the swimming pool? GDCE 31-05-2022: TECH-III/TRD & TECH-III/ELECTRICAL. QUESTION PAPER (100 QUESTIONS) & ANSWER KEY ...",
+        "url": "https://nfr.indianrailways.gov.in/cris/uploads/files/1654151661920-Tech%20TRD%20Elect%20QP%20&%20Answer%20Key.pdf"
+    },
+    {
+        "rank": 224,
+        "title": "[PDF] Question Papers for -B.Tech I Year I Semester (R20) Regular End ...  mits.ac.in › public › uploads › ugc",
+        "description": "15-Sept-2021  ·  All parts of the question must be answered in one place only. ... Obtain an expression for electrical conductivity on ... BASIC ELECTRICAL ENGINEERING.",
+        "url": "https://mits.ac.in/public/uploads/ugc/Question%20Papers%20for%20-B.Tech%20I%20Year%20I%20Semester%20(R20)%20Regular%20End%20Exams%20September%202021.pdf"
+    },
+    {
+        "rank": 225,
+        "title": "[PDF] ELECTRICAL & ELECTRONICS ENGINEERING  rvce.edu.in › sites › default › files",
+        "description": "22-Feb-2021  ·  Lead Society: Institute of Electrical and Electronics Engineers (IEEE) ... second component consisting of questions requiring descriptive answers is.",
+        "url": "https://rvce.edu.in/sites/default/files/6.%20EE%20III%20_%20IV_SEM_SYLLABUS1.pdf"
+    },
+    {
+        "rank": 226,
+        "title": "[PDF] KEY ANSWER OF: - BPSC  www.bpsc.bih.nic.in › Advt",
+        "description": "21-Apr-2023  ·  FINAL ANSWER KEY : Electrical Engineering. Series-A. Series-B. Series-C. Series-D. Question. No. Answer Question. No. Answer Question. No. Answer Question.",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-04-21-10.pdf"
+    },
+    {
+        "rank": 227,
+        "title": "[PDF] 250+ Most Expected Questions Power Systems Set – 6  byjusexamprep.com › liveData › set_7_25",
+        "description": "28-Sept-2020  ·  Surge Chamber. (UPPCL JE Electrical 11-11-2016). Ans. D. Mentor: Manoj Singh. Like the Session. Page 7. 250+ Most Expected Question Electrical Engineering Power ...",
+        "url": "https://byjusexamprep.com/liveData/f/2020/9/set_7_25.pdf"
+    },
+    {
+        "rank": 228,
+        "title": "[PDF] Automobile Engg Engine Pdf (Download Only) - | Unicamp  dedh.devsys.ic.unicamp.br › file › url",
+        "description": "13-May-2023  ·  Engineering Objective Questions Asked In Similar. Exams With Answers. Automobile Engineering Sudhir Kumar Saxena. 2009. Automobile Mechanical and Electrical ...",
+        "url": "https://dedh.devsys.ic.unicamp.br/f/43974/file/url?PDF=automobile-engg-engine.pdf"
+    },
+    {
+        "rank": 229,
+        "title": "[PDF] Section 1 The Industrial Revolution Spread Answers Pdf Pdf  foreign.ynufe.edu.cn › files › gov › section-1-the-industrial-revolutio...",
+        "description": "01-Apr-2022  ·  The Ebook MPPEB-MP Sub Engineer (Electrical) Exam: Electrical Engineering Subject Covers Objective. Questions From Various Competitive Exams With Answers.",
+        "url": "https://foreign.ynufe.edu.cn/files/gov/section-1-the-industrial-revolution-spread-answers-pdf.pdf?mode=advanced&editionsView=true"
+    },
+    {
+        "rank": 230,
+        "title": "[PDF] Welding Answers Objective Question Answers Pdf Pdf  foreign.ynufe.edu.cn › files › education › welding_answers_objective...",
+        "description": "22-May-2023  ·  DDA JE Exam PDF-DDA Junior Engineer (Electrical/Mechanical) Exam: Electrical. Engineering Subject eBook-PDF - Chandresh Agrawal 2023-05-25. SGN.The eBook DDA ...",
+        "url": "https://foreign.ynufe.edu.cn/files/education/welding_answers_objective_question_answers_pdf.pdf?referer=di&editionsView=true"
+    },
+    {
+        "rank": 231,
+        "title": "[PDF] Engineering Drawing Previous Question Papers Jntuh Pdf Pdf  dev1.samyeinstitute.org › SearchResults › readBook=Engineering-dra...",
+        "description": "04-May-2021  ·  electronics and instrumentation engineering, electrical and electronics ... worked-out examples, and university questions and answers to explain the ...",
+        "url": "https://dev1.samyeinstitute.org/l//SearchResults?trackid=G63206i&readBook=Engineering-drawing-previous-question-papers-jntuh-pdf.pdf"
+    },
+    {
+        "rank": 232,
+        "title": "[PDF] Railway Loco Pilot Exam Paper Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › doc › SearchResults",
+        "description": "20-Jul-2021  ·  More than 2500 objective questions are provided for revision of concepts 5. ... covers the basics of Electrical, Electronics & Mechanical Engineering.",
+        "url": "https://dev1.samyeinstitute.org/g/doc/SearchResults?ID=V26004n&readBook=Railway-Loco-Pilot-Exam-Paper-Pdf.pdf"
+    },
+    {
+        "rank": 233,
+        "title": "[PDF] Risk Management With Applications From The Offshore Petroleum ...  dev1.samyeinstitute.org › record › readBook=Risk-Management-With...",
+        "description": "27-Dec-2022  ·  Petroleum Industry Springer Series In Reliability Engineering Pdf Pdf and ... Questions and answers for job interview Offshore Oil & Gas Platforms ...",
+        "url": "https://dev1.samyeinstitute.org/a//record?ID=F64112o&readBook=Risk-Management-With-Applications-From-The-Offshore-Petroleum-Industry-Springer-Series-In-Reliability-Engineering-Pdf.pdf"
+    },
+    {
+        "rank": 234,
+        "title": "[PDF] Computational Physics Using Matlab Purdue University Pdf  dev1.samyeinstitute.org › content › education",
+        "description": "03-Aug-2021  ·  Technical questions and answers for job interview Offshore Drilling ... connection with various engineering topics, especially the transport of mass, ...",
+        "url": "https://dev1.samyeinstitute.org/e/content/education?trackid=A43195i&readBook=Computational%20physics%20using%20matlab%20purdue%20university.pdf"
+    },
+    {
+        "rank": 235,
+        "title": "[PDF] Activation Energy Electronic Components Pdf For Free - vijayavani  quiz.vijayavani.net › cgi-bin › monument",
+        "description": "01-Feb-2023  ·  including electric/hybrid vehicles, ultrafast battery charging, smart grids, ... It contains objective questions with underlined & bold correct answers MCQ ...",
+        "url": "https://quiz.vijayavani.net/cgi-bin/monument?n=M7U2O2&FileName=Activation+Energy+Electronic+Components"
+    },
+    {
+        "rank": 236,
+        "title": "[PDF] General Engineering Objective Question For Diploma Level In Pdf Pdf  foreign.ynufe.edu.cn › pdf › education › General_Engineering_Objec...",
+        "description": "31-Mar-2023  ·  Electrical Engineering Subject eBook Covers Objective Questions Asked In. Various Competitive Exams With Answers. Pratiyogita Darpan - 2009-03 ...",
+        "url": "https://foreign.ynufe.edu.cn/pdf/education/General_Engineering_Objective_Question_For_Diploma_Level_In_Pdf.pdf?sequence=1&v=2.1"
+    },
+    {
+        "rank": 237,
+        "title": "[PDF] Basic Circuit Analysis For Electrical Engineering Pdf Pdf  foreign.ynufe.edu.cn › pdf › gov › Basic_circuit_analysis_for_electri...",
+        "description": "04-Apr-2023  ·  Electrical Circuit Analysis Multiple Choice Questions and Answers (MCQs): Quiz & Practice Tests with. Answer Key PDF (Electrical Circuit Analysis Question ...",
+        "url": "https://foreign.ynufe.edu.cn/pdf/gov/Basic_circuit_analysis_for_electrical_engineering_pdf.pdf?sid=googleScholar&redir_esc=y"
+    },
+    {
+        "rank": 238,
+        "title": "[PDF] Computer Hardware Engineer Interview Questions Answers Pdf Pdf  foreign.ynufe.edu.cn › Book › gov › Computer-hardware-engineer-in...",
+        "description": "20-May-2023  ·  Engineer Interview Questions Answers Pdf Pdf can be taken as without difficulty ... This course covers aspects like HSE, Process, Mechanical, Electrical and ...",
+        "url": "https://foreign.ynufe.edu.cn/Book/gov/Computer-hardware-engineer-interview-questions-answers-pdf.pdf?referer=di&v=2.1"
+    },
+    {
+        "rank": 239,
+        "title": "[PDF] Npde Exam Papers Pdf Pdf  foreign.ynufe.edu.cn › Book › SearchResults › npde-exam-papers-pdf",
+        "description": "29-May-2023  ·  Exam: Electrical Engineering Subject Covers Objective Questions From Various Previous. Years' Papers With Answers. KPSC-Karnataka Assistant Engineer Gr-I ...",
+        "url": "https://foreign.ynufe.edu.cn/Book/SearchResults/npde-exam-papers-pdf.pdf?referer=di&redir_esc=y"
+    },
+    {
+        "rank": 240,
+        "title": "[PDF] International Facility Management Pdf Pdf  foreign.ynufe.edu.cn › Book › record › international_facility_manage...",
+        "description": "27-Sept-2020  ·  The AEGCL Exam PDF-Assam Junior Manager (Electrical) Exam-Electrical Engineering Subject PDF eBook. Covers Objective Questions With Answers.",
+        "url": "https://foreign.ynufe.edu.cn/Book/record/international_facility_management_pdf.pdf?sequence=1&offset=0"
+    },
+    {
+        "rank": 241,
+        "title": "[PDF] Electric Circuit Solutions Pdf Pdf  foreign.ynufe.edu.cn › pdf › SearchResults › Electric_circuit_solution...",
+        "description": "31-Jan-2022  ·  Engineering Circuit Analysis - William Hart Hayt 1986-01 ... with answers PDF book, test 5 to solve MCQ questions: Electric current and units, electrical.",
+        "url": "https://foreign.ynufe.edu.cn/pdf/SearchResults/Electric_circuit_solutions_pdf.pdf?sid=googleScholar&v=2.1"
+    },
+    {
+        "rank": 242,
+        "title": "[PDF] Electrical Principles Free Study Guide Pdf Pdf  foreign.ynufe.edu.cn › files › gov › Electrical_Principles_Free_Study...",
+        "description": "01-Sept-2022  ·  Loose Leaf for Principles and Applications of Electrical Engineering ... Electronic Devices Multiple Choice Questions and Answers (MCQs) - Arshad Iqbal.",
+        "url": "https://foreign.ynufe.edu.cn/files/gov/Electrical_Principles_Free_Study_Guide_Pdf.pdf?sequence=1&v=2.1"
+    },
+    {
+        "rank": 243,
+        "title": "[PDF] General Mechanical Engineering Question And Answers Pdf Pdf  foreign.ynufe.edu.cn › Book › record › general-mechanical-engineeri...",
+        "description": "29-May-2023  ·  Mechanical Engineering PDF eBook Covers Objective Questions With Answers. ... use one or more generators that convert mechanical energy into electrical.",
+        "url": "https://foreign.ynufe.edu.cn/Book/record/general-mechanical-engineering-question-and-answers-pdf.pdf?sequence=1&context=L"
+    },
+    {
+        "rank": 244,
+        "title": "[PDF] Principles Of Solar Engineering Solution Manual Pdf Pdf  foreign.ynufe.edu.cn › files › publication › principles_of_solar_engin...",
+        "description": "05-Aug-2022  ·  Engineering Physics MCQs: Multiple Choice Questions and Answers (Quiz ... electric field, first law of thermodynamics, fluid statics and dynamics, friction, ...",
+        "url": "https://foreign.ynufe.edu.cn/files/publication/principles_of_solar_engineering_solution_manual_pdf.pdf?sid=googleScholar&context=L"
+    },
+    {
+        "rank": 245,
+        "title": "[PDF] Omega Technical Guide Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › pdf › education",
+        "description": "30-Jan-2023  ·  Questions and Answers (Electronics Notes PDF: Revision Guide, ... science, electrical engineering, mechanical engineering, and chemical engineering Includes ...",
+        "url": "https://dev1.samyeinstitute.org/h/pdf/education?trackid=H28647q&readBook=Omega%20Technical%20Guide%20Pdf.pdf"
+    },
+    {
+        "rank": 246,
+        "title": "[PDF] Fundamental Communication Engineering Jacobs And Wozencraft ...  dev1.samyeinstitute.org › files › SearchResults › readBook=Fundame...",
+        "description": "29-Apr-2023  ·  date 1965 06 topics communication electrical engineering probability collection ... web access study documents get answers to your study questions and ...",
+        "url": "https://dev1.samyeinstitute.org/f/files/SearchResults?ID=Y81828j&readBook=Fundamental%20communication%20engineering%20jacobs%20and%20wozencraft%20pdf.pdf"
+    },
+    {
+        "rank": 247,
+        "title": "[PDF] Diploma In Mechanical Engineering 6 Sem Subject Pdf Pdf  dev1.samyeinstitute.org › ebook › record › readBook=diploma-in-me...",
+        "description": "03-Aug-2021  ·  It is your no question own epoch to do its stuff reviewing habit. along with guides ... core and elective subjects like Electric and Hybrid Vehicles and New.",
+        "url": "https://dev1.samyeinstitute.org/q/ebook/record?ID=D12794h&readBook=diploma-in-mechanical-engineering-6-sem-subject-pdf.pdf"
+    },
+    {
+        "rank": 248,
+        "title": "[PDF] Lucent General Knowledge Pdf - | Unicamp  dedh.devsys.ic.unicamp.br › upload › url",
+        "description": "14-Nov-2021  ·  contain the questions from Ancient to Modern ... questions (with explanatory answers) asked in ... mechanical electrical engineering exam, ssc.",
+        "url": "https://dedh.devsys.ic.unicamp.br/y/85607/upload/url?PDF=lucent-general-knowledge.pdf"
+    },
+    {
+        "rank": 249,
+        "title": "[PDF] Pogil Nernst Equation Pdf (Download Only) - | Unicamp  dedh.devsys.ic.unicamp.br › upload › goto",
+        "description": "29-Jun-2022  ·  This book features: - Questions and answers for self-assessment - ... engineering, chemistry, material science, mechanical engineering, and electrical.",
+        "url": "https://dedh.devsys.ic.unicamp.br/h/39002/upload/goto?PDF=pogil-nernst-equation.pdf"
+    },
+    {
+        "rank": 250,
+        "title": "[PDF] वर्ग 11 से 12 तक अध्यापन हेतु प्राणि विज्ञान विषय का कोटिवार विद्यालय ...  www.bpsc.bih.nic.in › Advt",
+        "description": "30-May-2023  ·  दिव्यांग. (OH). (MD). लिए आरक्षित. पद. पटना. 23. 13. 7. 2. 11. 5. 7. 3. 9. 5. 1. 0. 89. 1. 1. 1. 1. 2. 2. नालन्दा.",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-05-30-08.pdf"
+    },
+    {
+        "rank": 251,
+        "title": "[PDF] Water Flow Velocity Guide Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › uploads › media",
+        "description": "31-Aug-2022  ·  Answers PDF Download, a book to review trivia questions and answers on ... Water Supply Engineering - Subhash Verma, Varinder Kanwar & Siby John 2015.",
+        "url": "https://dev1.samyeinstitute.org/d/uploads/media?trackid=G40274r&readBook=water_flow_velocity_guide_pdf.pdf"
+    },
+    {
+        "rank": 252,
+        "title": "[PDF] Automobile Engineering Books Kripal Singh Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › ebook › record › readBook=Automobile_e...",
+        "description": "26-Jan-2021  ·  of the vehicle Modern topics such as battery-electric, hybrid electric and fuel cell vehicles Illustrative examples, figures, multiple-choice questions and ...",
+        "url": "https://dev1.samyeinstitute.org/q/ebook/record?ID=A03798n&readBook=Automobile_engineering_books_kripal_singh_pdf.pdf"
+    },
+    {
+        "rank": 253,
+        "title": "[PDF] English For Mechanical Engineering Gov Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › pdf › education › readBook=English_For_...",
+        "description": "21-Feb-2023  ·  If you ally dependence such a referred English For Mechanical Engineering Gov Pdf Pdf ebook ... Questions Asked In Various Competitive Exams With Answers.",
+        "url": "https://dev1.samyeinstitute.org/z/pdf/education?docid=S11352l&readBook=English_For_Mechanical_Engineering_Gov_Pdf.pdf"
+    },
+    {
+        "rank": 254,
+        "title": "[PDF] Engineering English Khmer Dictionary Pdf Pdf ? - Samye Institute  dev1.samyeinstitute.org › media › readBook=Engineering-english-kh...",
+        "description": "12-Apr-2022  ·  A Dictionary of Electronics and Electrical Engineering - Andrew Butterfield ... The Philosophy Book answers the most profound questions we all have.",
+        "url": "https://dev1.samyeinstitute.org/z//media?dataid=B39501x&readBook=Engineering-english-khmer-dictionary-pdf.pdf"
+    },
+    {
+        "rank": 255,
+        "title": "[PDF] Sample Question Paper Of Cds Exam Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › uploads › education",
+        "description": "12-Dec-2020  ·  for every answer 10 sample writing prompts for the optional ACT essay portion Scoring ... level exam, ssc je civil mechanical electrical engineering exam, ...",
+        "url": "https://dev1.samyeinstitute.org/k/uploads/education?trackid=H59332b&readBook=Sample%20question%20paper%20of%20cds%20exam%20pdf.pdf"
+    },
+    {
+        "rank": 256,
+        "title": "[PDF] Mcdonald Publishing Co Basic Chemistry Answer Keys Pdf Pdf ?  dev1.samyeinstitute.org › files › publication",
+        "description": "21-Dec-2020  ·  This dynamic mode of dissemination is enabling scientists, engineers, and ... Questions and answers for job interview Offshore Oil & Gas Platforms ...",
+        "url": "https://dev1.samyeinstitute.org/l/files/publication?ID=V62100i&readBook=Mcdonald%20publishing%20co%20basic%20chemistry%20answer%20keys%20pdf.pdf"
+    },
+    {
+        "rank": 257,
+        "title": "[PDF] Mining Engineering Interview Questions Pdf Pdf  foreign.ynufe.edu.cn › pdf › education › mining_engineering_intervi...",
+        "description": "14-Jan-2022  ·  100 technical questions and answers for job interview Offshore Oil & Gas ... This course covers aspects like HSE, Process, Mechanical, Electrical and ...",
+        "url": "https://foreign.ynufe.edu.cn/pdf/education/mining_engineering_interview_questions_pdf.pdf?sitesec=reviews&isAllowed=y"
+    },
+    {
+        "rank": 258,
+        "title": "[PDF] Chapter 2 Thermodynamics An Engineering Approach Pdf Pdf  foreign.ynufe.edu.cn › files › record › Chapter_2_Thermodynamics_...",
+        "description": "07-Apr-2023  ·  o Download Short Questions and Answers (Class 11-12 Physics Notes PDF: ... Journal of Electrical Engineering Education, Vol.41, No.2 April 2004) “a very.",
+        "url": "https://foreign.ynufe.edu.cn/files/record/Chapter_2_Thermodynamics_An_Engineering_Approach_Pdf.pdf?sid=googleScholar&editionsView=true"
+    },
+    {
+        "rank": 259,
+        "title": "[PDF] Questions With Detailed Solutions - ACE Engineering Academy  www.aceenggacademy.com › wp-content › uploads › 2023/02 › TSP...",
+        "description": "24-Feb-2023  ·  Questions with Detailed Solutions. Electrical Engineering. TSPSC - 2022. Telangana State Public Service Commission. Exam Held on. 22-01-2023.",
+        "url": "https://www.aceenggacademy.com/wp-content/uploads/2023/02/TSPSC_AEE_2022_EE_Questions-with-Solutions_Updated.pdf"
+    },
+    {
+        "rank": 260,
+        "title": "[PDF] NB-2023-05-30-05.pdf - BPSC  www.bpsc.bih.nic.in › Advt",
+        "description": "30-May-2023  ·  नागरिक तथा बिहार राज्य के स्थायी निवासी उम्मीदवारों से विहित प्रपत्र में ऑनलाइन ...",
+        "url": "https://www.bpsc.bih.nic.in/Advt/NB-2023-05-30-05.pdf"
+    },
+    {
+        "rank": 261,
+        "title": "[PDF] Construction Materials Methods And Techniques Download Pdf Pdf  dev1.samyeinstitute.org › pdf › education",
+        "description": "12-Jan-2022  ·  questions and answers. ... Modern earth structural engineering is the focus of part four, ... and materials Mechanical, plumbing, and electrical systems.",
+        "url": "https://dev1.samyeinstitute.org/j/pdf/education?docid=V96295c&readBook=Construction-Materials-Methods-And-Techniques-Download-Pdf.pdf"
+    },
+    {
+        "rank": 262,
+        "title": "[PDF] Knowledge Automation Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › book › record",
+        "description": "21-Mar-2023  ·  software engineers, electrical engineers, PLC technicians, hobbyists, and upper-level university students with ... Covers Objective Questions With Answers.",
+        "url": "https://dev1.samyeinstitute.org/q/book/record?docid=N97673z&readBook=Knowledge-Automation-Pdf.pdf"
+    },
+    {
+        "rank": 263,
+        "title": "[PDF] Ifb Washing Machine Product Manual Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › pdf › education",
+        "description": "09-Aug-2021  ·  It is not designed to answer every question on the topic of ... necessary addition to any library for mechanical, architectural, and electrical engineers,.",
+        "url": "https://dev1.samyeinstitute.org/u/pdf/education?dataid=C50710p&readBook=Ifb%20washing%20machine%20product%20manual%20pdf.pdf"
+    },
+    {
+        "rank": 264,
+        "title": "[PDF] Chapter 7a Test Ap Statistics Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › ebook › SearchResults",
+        "description": "11-May-2021  ·  multiple-choice and free-response questions with answers are presented at the ... to engineers in the entire engineering spectrum (electronics/electrical, ...",
+        "url": "https://dev1.samyeinstitute.org/v/ebook/SearchResults?dataid=V58898r&readBook=Chapter-7a-Test-Ap-Statistics-Pdf.pdf"
+    },
+    {
+        "rank": 265,
+        "title": "[PDF] Siemens Application Guide Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › pdf › publication",
+        "description": "04-Nov-2022  ·  engineers, and students, who wish to gain a comprehensive overview of ... electrical drives, their design, and application, through to complex automation.",
+        "url": "https://dev1.samyeinstitute.org/l/pdf/publication?trackid=C87109x&readBook=Siemens-Application-Guide-Pdf.pdf"
+    },
+    {
+        "rank": 266,
+        "title": "[PDF] Square Root Questions And Answers Pdf Pdf  foreign.ynufe.edu.cn › files › record › square-root-questions-and-ans...",
+        "description": "29-May-2023  ·  Subject Ebook-PDF - Chandresh Agrawal 2022-06-05. SGN.The Ebook DDA Junior Engineer (Electrical/Mechanical) Exam: Mechanical. Engineering Subject Covers ...",
+        "url": "https://foreign.ynufe.edu.cn/files/record/square-root-questions-and-answers-pdf.pdf?sitesec=reviews&context=L"
+    },
+    {
+        "rank": 267,
+        "title": "[PDF] Fluid Sealing Technology Principles And Applications Mechanical ...  foreign.ynufe.edu.cn › Book › gov › Fluid-sealing-technology-princi...",
+        "description": "09-Dec-2020  ·  Electrical and Instrumentation & Control that will enable you to apply for any position in the Oil and Gas Industry. 200 technical questions and answers for ...",
+        "url": "https://foreign.ynufe.edu.cn/Book/gov/Fluid-sealing-technology-principles-and-applications-mechanical-engineering-pdf.pdf?sitesec=reviews&editionsView=true"
+    },
+    {
+        "rank": 268,
+        "title": "[PDF] Grade Mid Year Exam Question Papers Pdf Pdf  foreign.ynufe.edu.cn › files › gov › Grade-Mid-Year-Exam-Question...",
+        "description": "08-Mar-2022  ·  College Math Quiz Questions and Answers PDF download with free sample book covers ... Light MCQs Chapter 5: Electric Circuits MCQs Chapter 6: Electrical ...",
+        "url": "https://foreign.ynufe.edu.cn/files/gov/Grade-Mid-Year-Exam-Question-Papers-Pdf.pdf?sequence=1&redir_esc=y"
+    },
+    {
+        "rank": 269,
+        "title": "[PDF] Analog Filter And Circuit Design Handbook Electronics Pdf Pdf  foreign.ynufe.edu.cn › pdf › education › Analog_Filter_And_Circuit...",
+        "description": "31-May-2022  ·  reference, written for the electrical and computer engineering ... Integrated Circuits Multiple Choice Questions and Answers (MCQs) - Arshad Iqbal.",
+        "url": "https://foreign.ynufe.edu.cn/pdf/education/Analog_Filter_And_Circuit_Design_Handbook_Electronics_Pdf.pdf?sid=googleScholar&ht=edition"
+    },
+    {
+        "rank": 270,
+        "title": "[PDF] Beam Bending Theory Lab Report Pdf - | Unicamp  dedh.devsys.ic.unicamp.br › pdf › visit",
+        "description": "16-Mar-2021  ·  Finite Element Analysis Concepts J. E. Akin 2010 Young engineers are ... Each lab assignment has a set of questions to be answered.",
+        "url": "https://dedh.devsys.ic.unicamp.br/n/58949/pdf/visit?PDF=beam-bending-theory-lab-report.pdf"
+    },
+    {
+        "rank": 271,
+        "title": "[PDF] National Insurance Company Limited Exam Papers Pdf Pdf  foreign.ynufe.edu.cn › files › education › National_insurance_compa...",
+        "description": "27-Mar-2023  ·  He is currently Director of Education for Electrical Seminars, Inc. of San. Marcos, Texas. ... Objective Questions from Various Exams With Answers.",
+        "url": "https://foreign.ynufe.edu.cn/files/education/National_insurance_company_limited_exam_papers_pdf.pdf?sitesec=reviews&redir_esc=y"
+    },
+    {
+        "rank": 272,
+        "title": "[PDF] 10th Question Paper Ssc Pdf Pdf  foreign.ynufe.edu.cn › files › gov",
+        "description": "07-Mar-2023  ·  electrical engineering exam, ssc scientific assistant exam, ... answers sheets Questions from Board Question Bank -2021 It contains Mind Maps.",
+        "url": "https://foreign.ynufe.edu.cn/files/gov/10th-question-paper-ssc-pdf.pdf?mode=advanced&ht=edition"
+    },
+    {
+        "rank": 273,
+        "title": "[PDF] Tdm Interview Questions And Answers Pdf Pdf  foreign.ynufe.edu.cn › Book › gov › tdm-interview-questions-and-an...",
+        "description": "08-May-2023  ·  89C51, PIC and AVR.ÊÊ Question on interfacing of input & output devices.Ê Who this book is for Engineering students pursuing a course in electrical and.",
+        "url": "https://foreign.ynufe.edu.cn/Book/gov/tdm-interview-questions-and-answers-pdf.pdf?sid=googleScholar&context=L"
+    },
+    {
+        "rank": 274,
+        "title": "[PDF] Earth Science Study Guide 6th Pdf Pdf  foreign.ynufe.edu.cn › pdf › education",
+        "description": "03-Jan-2023  ·  Engineering Physics Short Questions and Answers PDF Download, a book to review quiz ... Finding Electric Field Notes Chapter 11: First Law of Thermodynamics ...",
+        "url": "https://foreign.ynufe.edu.cn/pdf/education/earth_science_study_guide_6th_pdf.pdf?mode=advanced&v=2.1"
+    },
+    {
+        "rank": 275,
+        "title": "[PDF] General Information Quiz Bee Questions And Answers Pdf Pdf  foreign.ynufe.edu.cn › Book › education › general_information_quiz...",
+        "description": "13-Apr-2023  ·  Electronic Devices Lecture Notes. PDF book to review problem solving exam tests from electronics engineering practical and textbook's chapters as: Chapter 1: ...",
+        "url": "https://foreign.ynufe.edu.cn/Book/education/general_information_quiz_bee_questions_and_answers_pdf.pdf?sitesec=reviews&editionsView=true"
+    },
+    {
+        "rank": 276,
+        "title": "[PDF] Methods In Molecular Biophysics Structure Dynamic Pdf - | Unicamp  dedh.devsys.ic.unicamp.br › file › visit",
+        "description": "21-Oct-2021  ·  for electric utility engineers, this valuable resource examines power system dynamics and stability ... three questions have occupied our minds: Where do we.",
+        "url": "https://dedh.devsys.ic.unicamp.br/y/55009/file/visit?PDF=methods-in-molecular-biophysics-structure-dynamic.pdf"
+    },
+    {
+        "rank": 277,
+        "title": "[PDF] Lecture Tutorials For Introductory Astronomy 2nd Edition Answers ...  dev1.samyeinstitute.org › article › record › readBook=Lecture tutorial...",
+        "description": "27-Aug-2021  ·  Orbital Mechanics for Engineering Students - Howard D Curtis 2009-10-26 ... throughout as it guides students to answer two fundamental questions: What are ...",
+        "url": "https://dev1.samyeinstitute.org/a/article/record?docid=T05902t&readBook=Lecture%20tutorials%20for%20introductory%20astronomy%202nd%20edition%20answers%20pdf.pdf"
+    },
+    {
+        "rank": 278,
+        "title": "[PDF] Bicycling Magazine Buyers Guide 2013 Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › article › publication",
+        "description": "31-Mar-2022  ·  The new book, \"Mega Cycle of Water,\" describes solutions by answering the question: How can you increase water for food sustainability, innovation, ...",
+        "url": "https://dev1.samyeinstitute.org/y/article/publication?dataid=Z80074r&readBook=Bicycling_magazine_buyers_guide_2013_pdf.pdf"
+    },
+    {
+        "rank": 279,
+        "title": "[PDF] College Physics Seventh Edition Wilson Buffa Lou Solutions Pdf Pdf  dev1.samyeinstitute.org › pdf › record",
+        "description": "17-Nov-2021  ·  technologies in the fields of engineering, medicine, astronomy and more. ... The Classical Music Book answers these questions and more by.",
+        "url": "https://dev1.samyeinstitute.org/s/pdf/record?trackid=A28262s&readBook=College_Physics_Seventh_Edition_Wilson_Buffa_Lou_Solutions_Pdf.pdf"
+    },
+    {
+        "rank": 280,
+        "title": "[PDF] QUIZ QUESTIONS  www.uobabylon.edu.iq › eprints › paper_2_22666_167",
+        "description": "05-Oct-2021  ·  18) Most lasers are electrically inefficient devices. a) True b) False. 19) Chemical lasers use____ to produce their beams. a) Excessive amounts of electrical ...",
+        "url": "https://www.uobabylon.edu.iq/eprints/paper_2_22666_167.pdf"
+    },
+    {
+        "rank": 281,
+        "title": "[PDF] Chapter 4 Physics Answers Pdf Pdf  foreign.ynufe.edu.cn › files › SearchResults › Chapter-4-Physics-Ans...",
+        "description": "02-Aug-2022  ·  Engineering Physics MCQs: Multiple Choice Questions and Answers (Quiz ... potential energy, equilibrium, indeterminate structures, finding electric field, ...",
+        "url": "https://foreign.ynufe.edu.cn/files/SearchResults/Chapter-4-Physics-Answers-Pdf.pdf?mode=advanced&editionsView=true"
+    },
+    {
+        "rank": 282,
+        "title": "[PDF] Trivia Quiz With Answers Pdf Pdf  foreign.ynufe.edu.cn › files › SearchResults › Trivia_quiz_with_answ...",
+        "description": "13-Apr-2023  ·  Earth Science Multiple Choice Questions and Answers (MCQs): Quiz & Practice Tests with Answer Key PDF (Earth. Science Question Bank & Quick Study Guide) ...",
+        "url": "https://foreign.ynufe.edu.cn/files/SearchResults/Trivia_quiz_with_answers_pdf.pdf?referer=di&offset=0"
+    },
+    {
+        "rank": 283,
+        "title": "[PDF] Physics Principles With Applications Sixth Edition Solutions Manual ...  foreign.ynufe.edu.cn › files › SearchResults › Physics_principles_with...",
+        "description": "04-Feb-2022  ·  100 technical questions and answers for job interview Offshore Drilling Rigs - ... Resource added for the Electrical Engineering Technology program 106621.",
+        "url": "https://foreign.ynufe.edu.cn/files/SearchResults/Physics_principles_with_applications_sixth_edition_solutions_manual_pdf.pdf?mode=advanced&isAllowed=y"
+    },
+    {
+        "rank": 284,
+        "title": "[PDF] Failure Mode And Effects Analysis Based On Fmea 4 Th Edition Pdf ...  dev1.samyeinstitute.org › ebook › record",
+        "description": "18-Aug-2022  ·  Aimed at onboard electrical engineers, engine room watch officers, chief ... questions and answers References to free study resources Read It. Study It.",
+        "url": "https://dev1.samyeinstitute.org/b/ebook/record?trackid=C07897n&readBook=Failure-Mode-And-Effects-Analysis-Based-On-Fmea-4-Th-Edition-Pdf.pdf"
+    },
+    {
+        "rank": 285,
+        "title": "[PDF] Engine Ecu Repair Pdf Pdf - Samye Institute  dev1.samyeinstitute.org › files › media",
+        "description": "08-Dec-2022  ·  t- engine engineering and replace everything that exists. stroke diesel engines. ... questions and answers that aid learning and revision included.",
+        "url": "https://dev1.samyeinstitute.org/p/files/media?dataid=A45656k&readBook=Engine-Ecu-Repair-Pdf.pdf"
+    },
+    {
+        "rank": 286,
+        "title": "[PDF] Read Free Agriculture Crop Science Mcq Pdf For Free  sistema.asecam.gob.mx › cgi-bin › daily",
+        "description": "24-Jul-2021  ·  [MCQ] Question Answer E-book. Gate Life Science Zoology ... civil mechanical electrical engineering exam, ssc scientific assistant exam, ssc.",
+        "url": "https://sistema.asecam.gob.mx/cgi-bin/daily?t=K2J2E3&FileName=Agriculture+Crop+Science+Mcq"
+    },
+    {
+        "rank": 287,
+        "title": "[PDF] Testing Commissioning and Maintenance of Electrical equipment Sem  dbatu.ac.in › wp-content › uploads › 2020/09 › DEE3204_TCMEE",
+        "description": "27-Sept-2020  ·  Question Bank. Diploma in Electrical Engineering. Subject: Testing Commissioning ... Which type of fire extinguisher should be used to put out an electrical.",
+        "url": "https://dbatu.ac.in/wp-content/uploads/2020/09/DEE3204_TCMEE.pdf"
+    }
+]
